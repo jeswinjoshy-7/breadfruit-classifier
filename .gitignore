@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+env/
+ENV/
+env.bak/
+build/
+develop-eggs/
+dist/
+downloads/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Images/outputs
+output images/
+
+# Breadfruit classifier
+breadfruit_classifier.zip
+breadfruit_classifier/
+
+# Data
+dataset.csv
+training_dataset/
+training_dataset.zip
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
