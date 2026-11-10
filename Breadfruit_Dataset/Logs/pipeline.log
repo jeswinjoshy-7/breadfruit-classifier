@@ -1,0 +1,250 @@
+2026-07-11 15:14:50,475 - pipeline - INFO - ============================================================
+2026-07-11 15:14:50,476 - pipeline - INFO - BREADFRUIT DATASET ENGINEERING PIPELINE
+2026-07-11 15:14:50,476 - pipeline - INFO - ============================================================
+2026-07-11 15:14:50,476 - pipeline - INFO - Output base: /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:14:50,476 - pipeline - INFO - --- Phase 1: Dataset Inspection ---
+2026-07-11 15:14:50,476 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Personal Dataset at /home/jeswin/data_augmentation/3dataset
+2026-07-11 15:14:50,478 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 17 image files
+2026-07-11 15:14:54,763 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 17 valid, 0 corrupted
+2026-07-11 15:14:54,768 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:14:54,768 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Public Kaggle Dataset at /home/jeswin/data_augmentation/bread fruit
+2026-07-11 15:14:54,777 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 501 image files
+2026-07-11 15:14:57,803 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 501 valid, 0 corrupted
+2026-07-11 15:14:57,820 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:14:57,820 - pipeline - INFO - Phase 1 complete: inspected 518 valid images
+2026-07-11 15:14:57,820 - pipeline - INFO - --- Phase 2: Duplicate Detection ---
+2026-07-11 15:14:57,820 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in personal (17 images)
+2026-07-11 15:16:11,659 - pipeline - INFO - ============================================================
+2026-07-11 15:16:11,659 - pipeline - INFO - BREADFRUIT DATASET ENGINEERING PIPELINE
+2026-07-11 15:16:11,659 - pipeline - INFO - ============================================================
+2026-07-11 15:16:11,659 - pipeline - INFO - Output base: /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:16:11,659 - pipeline - INFO - --- Phase 1: Dataset Inspection ---
+2026-07-11 15:16:11,659 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Personal Dataset at /home/jeswin/data_augmentation/3dataset
+2026-07-11 15:16:11,661 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 17 image files
+2026-07-11 15:16:15,700 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 17 valid, 0 corrupted
+2026-07-11 15:16:15,704 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:16:15,704 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Public Kaggle Dataset at /home/jeswin/data_augmentation/bread fruit
+2026-07-11 15:16:15,713 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 501 image files
+2026-07-11 15:16:18,630 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 501 valid, 0 corrupted
+2026-07-11 15:16:18,650 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:16:18,650 - pipeline - INFO - Phase 1 complete: inspected 518 valid images
+2026-07-11 15:16:18,650 - pipeline - INFO - --- Phase 2: Duplicate Detection ---
+2026-07-11 15:16:18,650 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in personal (17 images)
+2026-07-11 15:16:22,995 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Found 3 duplicate groups, 4 pairs
+2026-07-11 15:16:49,546 - pipeline - INFO - ============================================================
+2026-07-11 15:16:49,546 - pipeline - INFO - BREADFRUIT DATASET ENGINEERING PIPELINE
+2026-07-11 15:16:49,546 - pipeline - INFO - ============================================================
+2026-07-11 15:16:49,546 - pipeline - INFO - Output base: /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:16:49,546 - pipeline - INFO - --- Phase 1: Dataset Inspection ---
+2026-07-11 15:16:49,546 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Personal Dataset at /home/jeswin/data_augmentation/3dataset
+2026-07-11 15:16:49,548 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 17 image files
+2026-07-11 15:16:53,534 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 17 valid, 0 corrupted
+2026-07-11 15:16:53,538 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:16:53,538 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Public Kaggle Dataset at /home/jeswin/data_augmentation/bread fruit
+2026-07-11 15:16:53,548 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 501 image files
+2026-07-11 15:16:56,396 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 501 valid, 0 corrupted
+2026-07-11 15:16:56,413 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:16:56,413 - pipeline - INFO - Phase 1 complete: inspected 518 valid images
+2026-07-11 15:16:56,413 - pipeline - INFO - --- Phase 2: Duplicate Detection ---
+2026-07-11 15:16:56,413 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in personal (17 images)
+2026-07-11 15:17:00,202 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Found 3 duplicate groups, 4 pairs
+2026-07-11 15:17:00,205 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Duplicate report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:00,205 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in public (501 images)
+2026-07-11 15:17:03,423 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Found 98 duplicate groups, 154 pairs
+2026-07-11 15:17:03,429 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Duplicate report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:03,429 - pipeline - INFO - Phase 2 complete: 158 duplicate images flagged
+2026-07-11 15:17:03,429 - pipeline - INFO - --- Phase 3: Quality Analysis ---
+2026-07-11 15:17:03,429 - breadfruit_pipeline.phases.phase3_quality - INFO - Analyzing quality of personal (17 images)
+2026-07-11 15:17:05,910 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality analysis complete: 4 good, 13 flagged
+2026-07-11 15:17:24,992 - pipeline - INFO - ============================================================
+2026-07-11 15:17:24,992 - pipeline - INFO - BREADFRUIT DATASET ENGINEERING PIPELINE
+2026-07-11 15:17:24,992 - pipeline - INFO - ============================================================
+2026-07-11 15:17:24,992 - pipeline - INFO - Output base: /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:17:24,992 - pipeline - INFO - --- Phase 1: Dataset Inspection ---
+2026-07-11 15:17:24,992 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Personal Dataset at /home/jeswin/data_augmentation/3dataset
+2026-07-11 15:17:24,994 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 17 image files
+2026-07-11 15:17:28,979 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 17 valid, 0 corrupted
+2026-07-11 15:17:28,983 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:28,984 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Public Kaggle Dataset at /home/jeswin/data_augmentation/bread fruit
+2026-07-11 15:17:28,993 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 501 image files
+2026-07-11 15:17:31,899 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 501 valid, 0 corrupted
+2026-07-11 15:17:31,916 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:31,916 - pipeline - INFO - Phase 1 complete: inspected 518 valid images
+2026-07-11 15:17:31,917 - pipeline - INFO - --- Phase 2: Duplicate Detection ---
+2026-07-11 15:17:31,917 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in personal (17 images)
+2026-07-11 15:17:36,056 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Found 3 duplicate groups, 4 pairs
+2026-07-11 15:17:36,058 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Duplicate report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:36,058 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in public (501 images)
+2026-07-11 15:17:39,256 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Found 98 duplicate groups, 154 pairs
+2026-07-11 15:17:39,266 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Duplicate report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:39,266 - pipeline - INFO - Phase 2 complete: 158 duplicate images flagged
+2026-07-11 15:17:39,266 - pipeline - INFO - --- Phase 3: Quality Analysis ---
+2026-07-11 15:17:39,266 - breadfruit_pipeline.phases.phase3_quality - INFO - Analyzing quality of personal (17 images)
+2026-07-11 15:17:42,037 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality analysis complete: 4 good, 13 flagged
+2026-07-11 15:17:42,041 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:42,041 - breadfruit_pipeline.phases.phase3_quality - INFO - Analyzing quality of public (501 images)
+2026-07-11 15:17:43,693 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality analysis complete: 391 good, 110 flagged
+2026-07-11 15:17:43,739 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:43,739 - pipeline - INFO - Phase 3 complete: 123 images flagged for quality
+2026-07-11 15:17:43,739 - pipeline - INFO - --- Phase 4: Object Validation ---
+2026-07-11 15:17:43,740 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Validating objects in personal (17 images)
+2026-07-11 15:17:44,116 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation complete: 17 with fruit detected, 28 warnings
+2026-07-11 15:17:44,120 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:44,120 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Validating objects in public (501 images)
+2026-07-11 15:17:44,561 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation complete: 501 with fruit detected, 651 warnings
+2026-07-11 15:17:44,576 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:44,576 - pipeline - INFO - Phase 4 complete: fruit detected in 518 images
+2026-07-11 15:17:44,577 - pipeline - INFO - --- Phase 5: Standardization ---
+2026-07-11 15:17:44,577 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardizing personal (17 images)
+2026-07-11 15:17:44,916 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization complete: 17 successful, 0 failed
+2026-07-11 15:17:44,919 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:44,919 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardizing public (501 images)
+2026-07-11 15:17:46,239 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization complete: 501 successful, 0 failed
+2026-07-11 15:17:46,249 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:17:46,249 - pipeline - INFO - Phase 5 complete: 518 images standardized to 224x224
+2026-07-11 15:17:46,249 - pipeline - INFO - --- Phase 6: Organization ---
+2026-07-11 15:17:46,249 - breadfruit_pipeline.phases.phase6_organization - INFO - Organizing datasets into final structure
+2026-07-11 15:17:46,250 - breadfruit_pipeline.phases.phase6_organization - INFO - Created directory structure at /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:17:58,088 - pipeline - INFO - ============================================================
+2026-07-11 15:17:58,088 - pipeline - INFO - BREADFRUIT DATASET ENGINEERING PIPELINE
+2026-07-11 15:17:58,088 - pipeline - INFO - ============================================================
+2026-07-11 15:17:58,088 - pipeline - INFO - Output base: /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:17:58,088 - pipeline - INFO - --- Phase 1: Dataset Inspection ---
+2026-07-11 15:17:58,088 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Personal Dataset at /home/jeswin/data_augmentation/3dataset
+2026-07-11 15:17:58,090 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 17 image files
+2026-07-11 15:18:02,007 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 17 valid, 0 corrupted
+2026-07-11 15:18:02,011 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:02,011 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Public Kaggle Dataset at /home/jeswin/data_augmentation/bread fruit
+2026-07-11 15:18:02,020 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 501 image files
+2026-07-11 15:18:04,844 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 501 valid, 0 corrupted
+2026-07-11 15:18:04,862 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:04,863 - pipeline - INFO - Phase 1 complete: inspected 518 valid images
+2026-07-11 15:18:04,863 - pipeline - INFO - --- Phase 2: Duplicate Detection ---
+2026-07-11 15:18:04,863 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in personal (17 images)
+2026-07-11 15:18:08,910 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Found 3 duplicate groups, 4 pairs
+2026-07-11 15:18:08,912 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Duplicate report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:08,912 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in public (501 images)
+2026-07-11 15:18:12,275 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Found 98 duplicate groups, 154 pairs
+2026-07-11 15:18:12,281 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Duplicate report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:12,282 - pipeline - INFO - Phase 2 complete: 158 duplicate images flagged
+2026-07-11 15:18:12,282 - pipeline - INFO - --- Phase 3: Quality Analysis ---
+2026-07-11 15:18:12,282 - breadfruit_pipeline.phases.phase3_quality - INFO - Analyzing quality of personal (17 images)
+2026-07-11 15:18:15,004 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality analysis complete: 4 good, 13 flagged
+2026-07-11 15:18:15,008 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:15,008 - breadfruit_pipeline.phases.phase3_quality - INFO - Analyzing quality of public (501 images)
+2026-07-11 15:18:16,710 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality analysis complete: 391 good, 110 flagged
+2026-07-11 15:18:16,761 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:16,761 - pipeline - INFO - Phase 3 complete: 123 images flagged for quality
+2026-07-11 15:18:16,761 - pipeline - INFO - --- Phase 4: Object Validation ---
+2026-07-11 15:18:16,761 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Validating objects in personal (17 images)
+2026-07-11 15:18:17,171 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation complete: 17 with fruit detected, 28 warnings
+2026-07-11 15:18:17,174 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:17,174 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Validating objects in public (501 images)
+2026-07-11 15:18:17,637 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation complete: 501 with fruit detected, 651 warnings
+2026-07-11 15:18:17,656 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:17,656 - pipeline - INFO - Phase 4 complete: fruit detected in 518 images
+2026-07-11 15:18:17,656 - pipeline - INFO - --- Phase 5: Standardization ---
+2026-07-11 15:18:17,656 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardizing personal (17 images)
+2026-07-11 15:18:18,013 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization complete: 17 successful, 0 failed
+2026-07-11 15:18:18,015 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:18,016 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardizing public (501 images)
+2026-07-11 15:18:19,417 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization complete: 501 successful, 0 failed
+2026-07-11 15:18:19,428 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:19,428 - pipeline - INFO - Phase 5 complete: 518 images standardized to 224x224
+2026-07-11 15:18:19,428 - pipeline - INFO - --- Phase 6: Organization ---
+2026-07-11 15:18:19,428 - breadfruit_pipeline.phases.phase6_organization - INFO - Organizing datasets into final structure
+2026-07-11 15:18:19,428 - breadfruit_pipeline.phases.phase6_organization - INFO - Created directory structure at /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:18:19,538 - pipeline - INFO - Phase 6 complete: 1036 images organized into clean directories
+2026-07-11 15:18:19,538 - pipeline - INFO - --- Phase 7: Analysis ---
+2026-07-11 15:18:19,538 - breadfruit_pipeline.phases.phase7_analysis - INFO - Analyzing dataset: personal
+2026-07-11 15:18:21,807 - breadfruit_pipeline.phases.phase7_analysis - INFO - Visualizations saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports/visualizations
+2026-07-11 15:18:21,808 - breadfruit_pipeline.phases.phase7_analysis - INFO - Analyzing dataset: public
+2026-07-11 15:18:24,125 - breadfruit_pipeline.phases.phase7_analysis - INFO - Visualizations saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports/visualizations
+2026-07-11 15:18:24,127 - pipeline - INFO - Phase 7 complete: analysis generated for 2 datasets
+2026-07-11 15:18:24,127 - pipeline - INFO - --- Phase 8: Report Generation ---
+2026-07-11 15:18:24,128 - breadfruit_pipeline.phases.phase8_reports - INFO - Generating comprehensive reports
+2026-07-11 15:18:24,180 - breadfruit_pipeline.phases.phase8_reports - INFO - All reports generated in /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:24,180 - pipeline - INFO - Phase 8 complete: 12 reports generated
+2026-07-11 15:18:24,180 - pipeline - INFO - --- Phase 9: Final Validation ---
+2026-07-11 15:18:24,180 - breadfruit_pipeline.phases.phase9_validation - INFO - Running final validation on Personal_Clean
+2026-07-11 15:18:24,280 - breadfruit_pipeline.phases.phase9_validation - INFO - Validation: 6/8 checks passed
+2026-07-11 15:18:24,280 - breadfruit_pipeline.phases.phase9_validation - INFO - Running final validation on Public_Clean
+2026-07-11 15:18:27,303 - breadfruit_pipeline.phases.phase9_validation - INFO - Validation: 6/8 checks passed
+2026-07-11 15:18:27,306 - breadfruit_pipeline.phases.phase9_validation - INFO - Running final validation on Combined
+2026-07-11 15:18:30,313 - breadfruit_pipeline.phases.phase9_validation - INFO - Validation: 7/8 checks passed
+2026-07-11 15:18:47,643 - pipeline - INFO - ============================================================
+2026-07-11 15:18:47,644 - pipeline - INFO - BREADFRUIT DATASET ENGINEERING PIPELINE
+2026-07-11 15:18:47,644 - pipeline - INFO - ============================================================
+2026-07-11 15:18:47,644 - pipeline - INFO - Output base: /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:18:47,644 - pipeline - INFO - --- Phase 1: Dataset Inspection ---
+2026-07-11 15:18:47,644 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Personal Dataset at /home/jeswin/data_augmentation/3dataset
+2026-07-11 15:18:47,645 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 17 image files
+2026-07-11 15:18:51,492 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 17 valid, 0 corrupted
+2026-07-11 15:18:51,496 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:51,496 - breadfruit_pipeline.phases.phase1_inspection - INFO - Starting inspection of Public Kaggle Dataset at /home/jeswin/data_augmentation/bread fruit
+2026-07-11 15:18:51,506 - breadfruit_pipeline.phases.phase1_inspection - INFO - Found 501 image files
+2026-07-11 15:18:54,379 - breadfruit_pipeline.phases.phase1_inspection - INFO - Inspection complete: 501 valid, 0 corrupted
+2026-07-11 15:18:54,397 - breadfruit_pipeline.phases.phase1_inspection - INFO - Report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:54,397 - pipeline - INFO - Phase 1 complete: inspected 518 valid images
+2026-07-11 15:18:54,397 - pipeline - INFO - --- Phase 2: Duplicate Detection ---
+2026-07-11 15:18:54,397 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in personal (17 images)
+2026-07-11 15:18:58,246 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Found 3 duplicate groups, 4 pairs
+2026-07-11 15:18:58,247 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Duplicate report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:18:58,248 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Detecting duplicates in public (501 images)
+2026-07-11 15:19:01,478 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Found 98 duplicate groups, 154 pairs
+2026-07-11 15:19:01,484 - breadfruit_pipeline.phases.phase2_duplicates - INFO - Duplicate report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:01,484 - pipeline - INFO - Phase 2 complete: 158 duplicate images flagged
+2026-07-11 15:19:01,484 - pipeline - INFO - --- Phase 3: Quality Analysis ---
+2026-07-11 15:19:01,484 - breadfruit_pipeline.phases.phase3_quality - INFO - Analyzing quality of personal (17 images)
+2026-07-11 15:19:04,041 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality analysis complete: 4 good, 13 flagged
+2026-07-11 15:19:04,045 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:04,045 - breadfruit_pipeline.phases.phase3_quality - INFO - Analyzing quality of public (501 images)
+2026-07-11 15:19:05,656 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality analysis complete: 391 good, 110 flagged
+2026-07-11 15:19:05,699 - breadfruit_pipeline.phases.phase3_quality - INFO - Quality report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:05,699 - pipeline - INFO - Phase 3 complete: 123 images flagged for quality
+2026-07-11 15:19:05,699 - pipeline - INFO - --- Phase 4: Object Validation ---
+2026-07-11 15:19:05,700 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Validating objects in personal (17 images)
+2026-07-11 15:19:06,073 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation complete: 17 with fruit detected, 28 warnings
+2026-07-11 15:19:06,077 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:06,077 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Validating objects in public (501 images)
+2026-07-11 15:19:06,507 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation complete: 501 with fruit detected, 651 warnings
+2026-07-11 15:19:06,522 - breadfruit_pipeline.phases.phase4_object_validation - INFO - Object validation report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:06,522 - pipeline - INFO - Phase 4 complete: fruit detected in 518 images
+2026-07-11 15:19:06,522 - pipeline - INFO - --- Phase 5: Standardization ---
+2026-07-11 15:19:06,522 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardizing personal (17 images)
+2026-07-11 15:19:06,867 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization complete: 17 successful, 0 failed
+2026-07-11 15:19:06,869 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:06,869 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardizing public (501 images)
+2026-07-11 15:19:08,177 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization complete: 501 successful, 0 failed
+2026-07-11 15:19:08,189 - breadfruit_pipeline.phases.phase5_standardization - INFO - Standardization report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:08,189 - pipeline - INFO - Phase 5 complete: 518 images standardized to 224x224
+2026-07-11 15:19:08,189 - pipeline - INFO - --- Phase 6: Organization ---
+2026-07-11 15:19:08,189 - breadfruit_pipeline.phases.phase6_organization - INFO - Organizing datasets into final structure
+2026-07-11 15:19:08,189 - breadfruit_pipeline.phases.phase6_organization - INFO - Created directory structure at /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:19:08,273 - pipeline - INFO - Phase 6 complete: 518 images organized into clean directories
+2026-07-11 15:19:08,273 - pipeline - INFO - --- Phase 7: Analysis ---
+2026-07-11 15:19:08,273 - breadfruit_pipeline.phases.phase7_analysis - INFO - Analyzing dataset: personal
+2026-07-11 15:19:10,557 - breadfruit_pipeline.phases.phase7_analysis - INFO - Visualizations saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports/visualizations
+2026-07-11 15:19:10,559 - breadfruit_pipeline.phases.phase7_analysis - INFO - Analyzing dataset: public
+2026-07-11 15:19:12,750 - breadfruit_pipeline.phases.phase7_analysis - INFO - Visualizations saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports/visualizations
+2026-07-11 15:19:12,752 - pipeline - INFO - Phase 7 complete: analysis generated for 2 datasets
+2026-07-11 15:19:12,752 - pipeline - INFO - --- Phase 8: Report Generation ---
+2026-07-11 15:19:12,753 - breadfruit_pipeline.phases.phase8_reports - INFO - Generating comprehensive reports
+2026-07-11 15:19:12,814 - breadfruit_pipeline.phases.phase8_reports - INFO - All reports generated in /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:12,814 - pipeline - INFO - Phase 8 complete: 12 reports generated
+2026-07-11 15:19:12,814 - pipeline - INFO - --- Phase 9: Final Validation ---
+2026-07-11 15:19:12,814 - breadfruit_pipeline.phases.phase9_validation - INFO - Running final validation on Personal_Clean
+2026-07-11 15:19:12,983 - breadfruit_pipeline.phases.phase9_validation - INFO - Validation: 6/8 checks passed
+2026-07-11 15:19:12,984 - breadfruit_pipeline.phases.phase9_validation - INFO - Running final validation on Public_Clean
+2026-07-11 15:19:17,354 - breadfruit_pipeline.phases.phase9_validation - INFO - Validation: 6/8 checks passed
+2026-07-11 15:19:17,358 - breadfruit_pipeline.phases.phase9_validation - INFO - Running final validation on Combined
+2026-07-11 15:19:21,938 - breadfruit_pipeline.phases.phase9_validation - INFO - Validation: 7/8 checks passed
+2026-07-11 15:19:21,940 - breadfruit_pipeline.phases.phase9_validation - INFO - Validation report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:21,940 - breadfruit_pipeline.phases.phase9_validation - INFO - Validation report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:21,941 - breadfruit_pipeline.phases.phase9_validation - INFO - Validation report saved to /home/jeswin/data_augmentation/Breadfruit_Dataset/Reports
+2026-07-11 15:19:21,941 - pipeline - INFO - Phase 9 complete: overall FAILED
+2026-07-11 15:19:21,941 - pipeline - INFO - ============================================================
+2026-07-11 15:19:21,941 - pipeline - INFO - PIPELINE COMPLETE
+2026-07-11 15:19:21,941 - pipeline - INFO - Total time: 34.30s
+2026-07-11 15:19:21,941 - pipeline - INFO - Output directory: /home/jeswin/data_augmentation/Breadfruit_Dataset
+2026-07-11 15:19:21,941 - pipeline - INFO - ============================================================

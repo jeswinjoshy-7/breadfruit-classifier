@@ -1,0 +1,246 @@
+{
+  "dataset_name": "personal",
+  "total_images": 17,
+  "successful": 17,
+  "failed": 0,
+  "results": [
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/01.JPG",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/01.jpg",
+      "original_size": [
+        173,
+        166
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/03.JPG",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/03.jpg",
+      "original_size": [
+        435,
+        389
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/02.JPG",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/02.jpg",
+      "original_size": [
+        1200,
+        1190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.37.jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.37.jpg",
+      "original_size": [
+        1200,
+        1599
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39.jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.39.jpg",
+      "original_size": [
+        1200,
+        1599
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/04.jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/04.jpg",
+      "original_size": [
+        1200,
+        1599
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.36.jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.36.jpg",
+      "original_size": [
+        1200,
+        1599
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.41.jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.41.jpg",
+      "original_size": [
+        1201,
+        1600
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.40 (1).jpg",
+      "original_size": [
+        1201,
+        1600
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.42 (1).jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.42 (1).jpg",
+      "original_size": [
+        1201,
+        1600
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38.jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.38.jpg",
+      "original_size": [
+        1200,
+        1599
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.38 (1).jpg",
+      "original_size": [
+        1201,
+        1600
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.42.jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.42.jpg",
+      "original_size": [
+        1201,
+        1600
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.41 (2).jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.41 (2).jpg",
+      "original_size": [
+        1201,
+        1600
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.39 (1).jpg",
+      "original_size": [
+        1200,
+        1599
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.41 (1).jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.41 (1).jpg",
+      "original_size": [
+        1201,
+        1600
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40.jpeg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/personal/WhatsApp Image 2026-07-08 at 22.14.40.jpg",
+      "original_size": [
+        1200,
+        1599
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+BREADFRUIT DATASET - FINAL STRUCTURE
+==================================================
+
+Reports/
+  .csv: 19
+  .json: 14
+  .png: 10
+  .txt: 16
+  Total: 59
+
+Public_Clean/
+  .jpg: 1503
+  Total: 1503
+
+Logs/
+  .log: 1
+  Total: 1
+
+Personal_Clean/
+  .jpg: 51
+  Total: 51
+

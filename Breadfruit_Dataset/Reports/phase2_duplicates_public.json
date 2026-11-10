@@ -1,0 +1,2643 @@
+{
+  "dataset_name": "public",
+  "total_images": 501,
+  "duplicate_pairs": 154,
+  "duplicate_groups": 98,
+  "images_flagged": 154,
+  "pairs": [
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/419.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/447.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 15,
+      "ahash_distance": 9,
+      "whash_distance": 8,
+      "colorhash_distance": 0,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/419.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/329.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/265.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/322.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 2,
+      "ahash_distance": 1,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/265.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/128.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 9,
+      "ahash_distance": 7,
+      "whash_distance": 6,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/120.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/16.jpg",
+      "phash_distance": 8,
+      "dhash_distance": 4,
+      "ahash_distance": 3,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/179.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/48.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 7,
+      "ahash_distance": 1,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/458.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/229.jpg",
+      "phash_distance": 14,
+      "dhash_distance": 12,
+      "ahash_distance": 5,
+      "whash_distance": 10,
+      "colorhash_distance": 0,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/75.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/11.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/397.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/326.jpg",
+      "phash_distance": 10,
+      "dhash_distance": 19,
+      "ahash_distance": 7,
+      "whash_distance": 4,
+      "colorhash_distance": 1,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/461.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/422.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 4,
+      "ahash_distance": 5,
+      "whash_distance": 4,
+      "colorhash_distance": 2,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/50.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/264.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 5,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/4.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/56.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/4.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/115.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/239.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/244.jpg",
+      "phash_distance": 12,
+      "dhash_distance": 11,
+      "ahash_distance": 2,
+      "whash_distance": 4,
+      "colorhash_distance": 3,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/239.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/296.jpg",
+      "phash_distance": 12,
+      "dhash_distance": 11,
+      "ahash_distance": 2,
+      "whash_distance": 4,
+      "colorhash_distance": 3,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/239.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/94.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 5,
+      "ahash_distance": 2,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/103.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/311.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 10,
+      "ahash_distance": 2,
+      "whash_distance": 6,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/293.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/96.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/293.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/222.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/293.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/435.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 2,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/380.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/342.jpg",
+      "phash_distance": 8,
+      "dhash_distance": 6,
+      "ahash_distance": 6,
+      "whash_distance": 4,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/297.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/49.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 2,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 4,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/297.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/108.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 2,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/266.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/42.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 6,
+      "ahash_distance": 7,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/338.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/143.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 3,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/259.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/306.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 12,
+      "ahash_distance": 4,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/46.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/119.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 2,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/46.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/254.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/69.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/181.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/83.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/223.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 7,
+      "ahash_distance": 1,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/83.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/283.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 7,
+      "ahash_distance": 1,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/231.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/8.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 2,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/274.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/10.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/107.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/336.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/41.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/240.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/41.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/84.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/95.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/248.jpg",
+      "phash_distance": 8,
+      "dhash_distance": 16,
+      "ahash_distance": 1,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/413.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/61.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 2,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/3.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/156.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 4,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 2,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/453.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/416.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 9,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/284.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/47.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 2,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/284.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/238.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 2,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/445.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/406.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/236.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/43.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 2,
+      "ahash_distance": 2,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/312.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/122.jpg",
+      "phash_distance": 10,
+      "dhash_distance": 5,
+      "ahash_distance": 2,
+      "whash_distance": 2,
+      "colorhash_distance": 1,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/312.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/258.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 1,
+      "ahash_distance": 3,
+      "whash_distance": 2,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/19.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/225.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/19.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/82.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/210.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/271.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/204.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/425.jpg",
+      "phash_distance": 16,
+      "dhash_distance": 9,
+      "ahash_distance": 4,
+      "whash_distance": 6,
+      "colorhash_distance": 7,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/374.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/51.jpg",
+      "phash_distance": 30,
+      "dhash_distance": 20,
+      "ahash_distance": 8,
+      "whash_distance": 6,
+      "colorhash_distance": 5,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/427.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/444.jpg",
+      "phash_distance": 8,
+      "dhash_distance": 9,
+      "ahash_distance": 3,
+      "whash_distance": 8,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/427.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/408.jpg",
+      "phash_distance": 8,
+      "dhash_distance": 9,
+      "ahash_distance": 2,
+      "whash_distance": 8,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/235.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/287.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/235.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/91.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 1,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/235.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/44.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 3,
+      "ahash_distance": 1,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/235.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/92.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 2,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/99.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/21.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 3,
+      "ahash_distance": 2,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/99.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/396.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/407.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/123.jpg",
+      "phash_distance": 12,
+      "dhash_distance": 13,
+      "ahash_distance": 6,
+      "whash_distance": 4,
+      "colorhash_distance": 1,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/407.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/437.jpg",
+      "phash_distance": 18,
+      "dhash_distance": 20,
+      "ahash_distance": 13,
+      "whash_distance": 10,
+      "colorhash_distance": 1,
+      "consensus_votes": 2,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/392.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/327.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 2,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/35.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/126.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 12,
+      "ahash_distance": 4,
+      "whash_distance": 6,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/132.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/262.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/93.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/36.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 3,
+      "ahash_distance": 1,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/252.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/182.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 3,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/252.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/317.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 5,
+      "ahash_distance": 3,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/134.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/440.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/134.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/411.jpg",
+      "phash_distance": 12,
+      "dhash_distance": 7,
+      "ahash_distance": 3,
+      "whash_distance": 6,
+      "colorhash_distance": 2,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/289.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/90.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/289.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/242.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 6,
+      "ahash_distance": 5,
+      "whash_distance": 6,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/289.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/22.jpg",
+      "phash_distance": 20,
+      "dhash_distance": 10,
+      "ahash_distance": 11,
+      "whash_distance": 10,
+      "colorhash_distance": 0,
+      "consensus_votes": 2,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/449.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/412.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 4,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/449.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/460.jpg",
+      "phash_distance": 14,
+      "dhash_distance": 14,
+      "ahash_distance": 5,
+      "whash_distance": 8,
+      "colorhash_distance": 1,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/337.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/110.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 8,
+      "ahash_distance": 4,
+      "whash_distance": 10,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/337.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/137.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/263.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/118.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/221.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/9.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 4,
+      "ahash_distance": 0,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/221.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/79.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/303.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/104.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/294.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/320.jpg",
+      "phash_distance": 30,
+      "dhash_distance": 17,
+      "ahash_distance": 4,
+      "whash_distance": 2,
+      "colorhash_distance": 5,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/294.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/257.jpg",
+      "phash_distance": 30,
+      "dhash_distance": 18,
+      "ahash_distance": 4,
+      "whash_distance": 2,
+      "colorhash_distance": 5,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/294.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/105.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/294.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/299.jpg",
+      "phash_distance": 32,
+      "dhash_distance": 30,
+      "ahash_distance": 8,
+      "whash_distance": 7,
+      "colorhash_distance": 6,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/294.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/135.jpg",
+      "phash_distance": 30,
+      "dhash_distance": 17,
+      "ahash_distance": 4,
+      "whash_distance": 2,
+      "colorhash_distance": 5,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/294.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/456.jpg",
+      "phash_distance": 34,
+      "dhash_distance": 24,
+      "ahash_distance": 10,
+      "whash_distance": 8,
+      "colorhash_distance": 9,
+      "consensus_votes": 2,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/403.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/341.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/136.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/314.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 2,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/87.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/251.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 5,
+      "ahash_distance": 2,
+      "whash_distance": 2,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/87.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/53.jpg",
+      "phash_distance": 14,
+      "dhash_distance": 7,
+      "ahash_distance": 2,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/87.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/277.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 5,
+      "ahash_distance": 2,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/87.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/420.jpg",
+      "phash_distance": 30,
+      "dhash_distance": 25,
+      "ahash_distance": 9,
+      "whash_distance": 10,
+      "colorhash_distance": 10,
+      "consensus_votes": 2,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/87.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/384.jpg",
+      "phash_distance": 28,
+      "dhash_distance": 26,
+      "ahash_distance": 8,
+      "whash_distance": 10,
+      "colorhash_distance": 2,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/325.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/52.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 5,
+      "ahash_distance": 4,
+      "whash_distance": 6,
+      "colorhash_distance": 3,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/102.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/391.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/81.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/275.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/81.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/226.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 2,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/167.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/432.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/167.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/332.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/7.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/73.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 2,
+      "ahash_distance": 3,
+      "whash_distance": 2,
+      "colorhash_distance": 2,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/7.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/194.jpg",
+      "phash_distance": 12,
+      "dhash_distance": 6,
+      "ahash_distance": 7,
+      "whash_distance": 8,
+      "colorhash_distance": 1,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/7.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/273.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 3,
+      "ahash_distance": 2,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/7.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/219.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 3,
+      "ahash_distance": 3,
+      "whash_distance": 6,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/72.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/272.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 2,
+      "ahash_distance": 3,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/255.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/98.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 9,
+      "ahash_distance": 2,
+      "whash_distance": 0,
+      "colorhash_distance": 1,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/255.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/300.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 5,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/261.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/307.jpg",
+      "phash_distance": 8,
+      "dhash_distance": 9,
+      "ahash_distance": 4,
+      "whash_distance": 8,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/261.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/124.jpg",
+      "phash_distance": 14,
+      "dhash_distance": 19,
+      "ahash_distance": 11,
+      "whash_distance": 14,
+      "colorhash_distance": 0,
+      "consensus_votes": 1,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/279.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/224.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/313.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/436.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/150.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/67.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/178.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/315.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 5,
+      "ahash_distance": 2,
+      "whash_distance": 2,
+      "colorhash_distance": 2,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/247.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/97.jpg",
+      "phash_distance": 8,
+      "dhash_distance": 4,
+      "ahash_distance": 1,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/247.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/309.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/233.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/321.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/237.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/276.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/86.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/390.jpg",
+      "phash_distance": 10,
+      "dhash_distance": 11,
+      "ahash_distance": 4,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/86.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/298.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 4,
+      "ahash_distance": 1,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/305.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/125.jpg",
+      "phash_distance": 8,
+      "dhash_distance": 9,
+      "ahash_distance": 5,
+      "whash_distance": 6,
+      "colorhash_distance": 0,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/305.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/249.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 5,
+      "ahash_distance": 4,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/127.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/310.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 1,
+      "ahash_distance": 1,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/328.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/74.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/292.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/253.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/290.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/138.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/290.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/250.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/290.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/15.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/290.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/451.jpg",
+      "phash_distance": 10,
+      "dhash_distance": 9,
+      "ahash_distance": 4,
+      "whash_distance": 8,
+      "colorhash_distance": 1,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/88.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/278.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 3,
+      "ahash_distance": 0,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/301.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/234.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/130.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/144.jpg",
+      "phash_distance": 14,
+      "dhash_distance": 6,
+      "ahash_distance": 8,
+      "whash_distance": 8,
+      "colorhash_distance": 2,
+      "consensus_votes": 4,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/430.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/139.jpg",
+      "phash_distance": 28,
+      "dhash_distance": 26,
+      "ahash_distance": 8,
+      "whash_distance": 10,
+      "colorhash_distance": 8,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/20.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/80.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/20.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/288.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/441.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/349.jpg",
+      "phash_distance": 24,
+      "dhash_distance": 10,
+      "ahash_distance": 3,
+      "whash_distance": 4,
+      "colorhash_distance": 7,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/441.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/366.jpg",
+      "phash_distance": 24,
+      "dhash_distance": 19,
+      "ahash_distance": 9,
+      "whash_distance": 8,
+      "colorhash_distance": 6,
+      "consensus_votes": 2,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/441.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/351.jpg",
+      "phash_distance": 28,
+      "dhash_distance": 26,
+      "ahash_distance": 11,
+      "whash_distance": 12,
+      "colorhash_distance": 6,
+      "consensus_votes": 1,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/441.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/400.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 5,
+      "ahash_distance": 1,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/441.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/455.jpg",
+      "phash_distance": 20,
+      "dhash_distance": 9,
+      "ahash_distance": 5,
+      "whash_distance": 6,
+      "colorhash_distance": 1,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/333.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/140.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/333.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/386.jpg",
+      "phash_distance": 34,
+      "dhash_distance": 32,
+      "ahash_distance": 7,
+      "whash_distance": 8,
+      "colorhash_distance": 3,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/17.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/280.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/17.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/89.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/54.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/101.jpg",
+      "phash_distance": 10,
+      "dhash_distance": 9,
+      "ahash_distance": 1,
+      "whash_distance": 6,
+      "colorhash_distance": 0,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/78.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/256.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 2,
+      "ahash_distance": 1,
+      "whash_distance": 4,
+      "colorhash_distance": 2,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/245.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/32.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 0,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/241.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/286.jpg",
+      "phash_distance": 6,
+      "dhash_distance": 5,
+      "ahash_distance": 3,
+      "whash_distance": 8,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/282.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/154.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0,
+      "ahash_distance": 3,
+      "whash_distance": 0,
+      "colorhash_distance": 1,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/267.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/131.jpg",
+      "phash_distance": 4,
+      "dhash_distance": 8,
+      "ahash_distance": 3,
+      "whash_distance": 6,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/418.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/457.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 2,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/295.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/228.jpg",
+      "phash_distance": 8,
+      "dhash_distance": 4,
+      "ahash_distance": 6,
+      "whash_distance": 8,
+      "colorhash_distance": 3,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/383.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/368.jpg",
+      "phash_distance": 10,
+      "dhash_distance": 11,
+      "ahash_distance": 5,
+      "whash_distance": 10,
+      "colorhash_distance": 0,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/218.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/177.jpg",
+      "phash_distance": 16,
+      "dhash_distance": 11,
+      "ahash_distance": 3,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 3,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/429.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/462.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 1,
+      "ahash_distance": 0,
+      "whash_distance": 4,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/bread fruit/354.jpg",
+      "image2": "/home/jeswin/data_augmentation/bread fruit/385.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 3,
+      "ahash_distance": 0,
+      "whash_distance": 2,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    }
+  ],
+  "groups": [
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/419.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/447.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/329.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/419.jpg",
+      "method": "consensus",
+      "max_distance": 15
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/265.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/322.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/128.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/265.jpg",
+      "method": "consensus",
+      "max_distance": 11
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/120.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/16.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/120.jpg",
+      "method": "consensus",
+      "max_distance": 8
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/179.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/48.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/179.jpg",
+      "method": "consensus",
+      "max_distance": 7
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/458.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/229.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/458.jpg",
+      "method": "consensus",
+      "max_distance": 14
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/75.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/11.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/75.jpg",
+      "method": "consensus",
+      "max_distance": 0
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/397.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/326.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/397.jpg",
+      "method": "consensus",
+      "max_distance": 19
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/461.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/422.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/461.jpg",
+      "method": "consensus",
+      "max_distance": 6
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/50.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/264.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/50.jpg",
+      "method": "consensus",
+      "max_distance": 5
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/4.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/56.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/115.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/4.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/239.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/244.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/296.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/94.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/239.jpg",
+      "method": "consensus",
+      "max_distance": 12
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/103.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/311.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/103.jpg",
+      "method": "consensus",
+      "max_distance": 10
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/293.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/96.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/222.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/435.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/293.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/380.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/342.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/380.jpg",
+      "method": "consensus",
+      "max_distance": 8
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/297.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/49.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/108.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/297.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/266.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/42.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/266.jpg",
+      "method": "consensus",
+      "max_distance": 7
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/338.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/143.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/338.jpg",
+      "method": "consensus",
+      "max_distance": 3
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/259.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/306.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/259.jpg",
+      "method": "consensus",
+      "max_distance": 12
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/46.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/119.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/254.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/46.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/69.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/181.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/69.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/83.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/223.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/283.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/83.jpg",
+      "method": "consensus",
+      "max_distance": 7
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/231.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/8.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/231.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/274.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/10.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/274.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/107.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/336.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/107.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/41.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/240.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/84.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/41.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/95.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/248.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/95.jpg",
+      "method": "consensus",
+      "max_distance": 16
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/413.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/61.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/413.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/3.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/156.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/3.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/453.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/416.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/453.jpg",
+      "method": "consensus",
+      "max_distance": 9
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/284.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/47.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/238.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/284.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/445.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/406.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/445.jpg",
+      "method": "consensus",
+      "max_distance": 1
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/236.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/43.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/236.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/312.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/122.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/258.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/312.jpg",
+      "method": "consensus",
+      "max_distance": 12
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/19.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/225.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/82.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/19.jpg",
+      "method": "consensus",
+      "max_distance": 1
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/210.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/271.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/210.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/204.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/425.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/204.jpg",
+      "method": "consensus",
+      "max_distance": 16
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/374.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/51.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/374.jpg",
+      "method": "consensus",
+      "max_distance": 30
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/427.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/444.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/408.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/427.jpg",
+      "method": "consensus",
+      "max_distance": 9
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/235.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/287.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/91.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/44.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/92.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/235.jpg",
+      "method": "consensus",
+      "max_distance": 6
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/99.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/21.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/396.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/99.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/407.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/123.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/437.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/407.jpg",
+      "method": "consensus",
+      "max_distance": 20
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/392.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/327.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/392.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/35.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/126.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/35.jpg",
+      "method": "consensus",
+      "max_distance": 12
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/132.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/262.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/132.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/93.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/36.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/93.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/252.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/182.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/317.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/252.jpg",
+      "method": "consensus",
+      "max_distance": 5
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/134.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/440.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/411.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/134.jpg",
+      "method": "consensus",
+      "max_distance": 12
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/289.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/90.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/242.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/22.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/289.jpg",
+      "method": "consensus",
+      "max_distance": 20
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/449.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/412.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/460.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/449.jpg",
+      "method": "consensus",
+      "max_distance": 18
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/337.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/110.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/137.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/337.jpg",
+      "method": "consensus",
+      "max_distance": 10
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/263.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/118.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/263.jpg",
+      "method": "consensus",
+      "max_distance": 1
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/221.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/9.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/79.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/221.jpg",
+      "method": "consensus",
+      "max_distance": 5
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/303.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/104.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/303.jpg",
+      "method": "consensus",
+      "max_distance": 1
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/294.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/320.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/257.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/105.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/299.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/135.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/456.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/294.jpg",
+      "method": "consensus",
+      "max_distance": 34
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/403.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/341.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/403.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/136.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/314.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/136.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/87.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/251.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/53.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/277.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/420.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/384.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/87.jpg",
+      "method": "consensus",
+      "max_distance": 34
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/325.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/52.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/325.jpg",
+      "method": "consensus",
+      "max_distance": 6
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/102.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/391.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/102.jpg",
+      "method": "consensus",
+      "max_distance": 0
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/81.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/275.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/226.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/81.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/167.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/432.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/332.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/167.jpg",
+      "method": "consensus",
+      "max_distance": 1
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/7.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/73.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/194.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/273.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/219.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/7.jpg",
+      "method": "consensus",
+      "max_distance": 14
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/72.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/272.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/72.jpg",
+      "method": "consensus",
+      "max_distance": 3
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/255.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/98.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/300.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/255.jpg",
+      "method": "consensus",
+      "max_distance": 9
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/261.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/307.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/124.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/261.jpg",
+      "method": "consensus",
+      "max_distance": 19
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/279.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/224.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/279.jpg",
+      "method": "consensus",
+      "max_distance": 1
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/313.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/436.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/313.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/150.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/67.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/150.jpg",
+      "method": "consensus",
+      "max_distance": 0
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/178.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/315.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/178.jpg",
+      "method": "consensus",
+      "max_distance": 6
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/247.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/97.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/309.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/247.jpg",
+      "method": "consensus",
+      "max_distance": 8
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/233.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/321.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/233.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/237.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/276.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/237.jpg",
+      "method": "consensus",
+      "max_distance": 1
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/86.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/390.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/298.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/86.jpg",
+      "method": "consensus",
+      "max_distance": 11
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/305.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/125.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/249.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/305.jpg",
+      "method": "consensus",
+      "max_distance": 9
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/127.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/310.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/127.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/328.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/74.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/328.jpg",
+      "method": "consensus",
+      "max_distance": 1
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/292.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/253.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/292.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/290.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/138.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/250.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/15.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/451.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/290.jpg",
+      "method": "consensus",
+      "max_distance": 12
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/88.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/278.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/88.jpg",
+      "method": "consensus",
+      "max_distance": 6
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/301.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/234.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/301.jpg",
+      "method": "consensus",
+      "max_distance": 0
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/130.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/144.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/130.jpg",
+      "method": "consensus",
+      "max_distance": 14
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/430.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/139.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/430.jpg",
+      "method": "consensus",
+      "max_distance": 28
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/20.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/80.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/288.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/20.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/441.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/349.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/366.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/351.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/400.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/455.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/441.jpg",
+      "method": "consensus",
+      "max_distance": 34
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/333.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/140.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/386.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/333.jpg",
+      "method": "consensus",
+      "max_distance": 34
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/17.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/280.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/89.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/17.jpg",
+      "method": "consensus",
+      "max_distance": 0
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/54.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/101.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/54.jpg",
+      "method": "consensus",
+      "max_distance": 10
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/78.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/256.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/78.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/245.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/32.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/245.jpg",
+      "method": "consensus",
+      "max_distance": 0
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/241.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/286.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/241.jpg",
+      "method": "consensus",
+      "max_distance": 8
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/282.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/154.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/282.jpg",
+      "method": "consensus",
+      "max_distance": 3
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/267.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/131.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/267.jpg",
+      "method": "consensus",
+      "max_distance": 8
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/418.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/457.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/418.jpg",
+      "method": "consensus",
+      "max_distance": 2
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/295.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/228.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/295.jpg",
+      "method": "consensus",
+      "max_distance": 8
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/383.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/368.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/383.jpg",
+      "method": "consensus",
+      "max_distance": 11
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/218.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/177.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/218.jpg",
+      "method": "consensus",
+      "max_distance": 16
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/429.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/462.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/429.jpg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/bread fruit/354.jpg",
+        "/home/jeswin/data_augmentation/bread fruit/385.jpg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/bread fruit/354.jpg",
+      "method": "consensus",
+      "max_distance": 3
+    }
+  ]
+}

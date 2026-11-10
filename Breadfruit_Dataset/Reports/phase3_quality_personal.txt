@@ -1,0 +1,31 @@
+============================================================
+IMAGE QUALITY ANALYSIS REPORT: personal
+============================================================
+
+Total images analyzed:     17
+Good quality images:       4
+Flagged for review:        13
+
+Issue breakdown:
+  Blurry:                  11
+  Too dark:                0
+  Too bright:              0
+  Too noisy:               0
+  Low resolution:          0
+  Bad aspect ratio:        0
+  Low contrast:            0
+
+Flagged images:
+  03.JPG: Blurry - Low Sharpness
+  02.JPG: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.37.jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  04.jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.36.jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.41.jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.42 (1).jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.38.jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.42.jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.41 (2).jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.41 (1).jpeg: Blurry - Blurry; Low Sharpness; Blurry
+  WhatsApp Image 2026-07-08 at 22.14.40.jpeg: Blurry - Low Sharpness; Blurry

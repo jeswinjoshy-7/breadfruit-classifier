@@ -1,0 +1,519 @@
+path,filename,fruit_detected,fruit_area_ratio,fruit_count,occlusion_ratio,border_touch_ratio,background_ratio,warnings,validation_passed,dataset
+/home/jeswin/data_augmentation/3dataset/01.JPG,01.JPG,True,0.9077756111149802,1,0.0,0.8050147492625369,0.09222438888501983,['Fruit touching border: 80.50% > 10.00%'],False,personal
+/home/jeswin/data_augmentation/3dataset/03.JPG,03.JPG,True,0.9587152439204563,1,0.0,0.8889563106796117,0.04128475607954374,"['Fruit area too large: 95.87% > 95.00%', 'Fruit touching border: 88.90% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/02.JPG,02.JPG,True,0.9809180672268908,1,0.0,0.931673640167364,0.01908193277310921,"['Fruit area too large: 98.09% > 95.00%', 'Fruit touching border: 93.17% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.37.jpeg,WhatsApp Image 2026-07-08 at 22.14.37.jpeg,True,0.9205881279966646,1,0.0,0.9062165058949625,0.07941187200333544,['Fruit touching border: 90.62% > 10.00%'],False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39.jpeg,WhatsApp Image 2026-07-08 at 22.14.39.jpeg,True,0.9704862414008756,1,0.0,0.8518756698821007,0.029513758599124418,"['Fruit area too large: 97.05% > 95.00%', 'Fruit touching border: 85.19% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/04.jpeg,04.jpeg,True,0.8873942047112778,1,0.0,0.88335119685602,0.11260579528872217,['Fruit touching border: 88.34% > 10.00%'],False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.36.jpeg,WhatsApp Image 2026-07-08 at 22.14.36.jpeg,True,0.9868360433604336,1,0.0,0.9517327617006074,0.013163956639566377,"['Fruit area too large: 98.68% > 95.00%', 'Fruit touching border: 95.17% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.41.jpeg,WhatsApp Image 2026-07-08 at 22.14.41.jpeg,True,0.9932735741049126,1,0.0,0.9539093181006784,0.006726425895087429,"['Fruit area too large: 99.33% > 95.00%', 'Fruit touching border: 95.39% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg,WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg,True,0.9321162052456287,1,0.0,0.7579078900392717,0.06788379475437134,['Fruit touching border: 75.79% > 10.00%'],False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.42 (1).jpeg,WhatsApp Image 2026-07-08 at 22.14.42 (1).jpeg,True,0.9985428809325562,1,0.0,0.9964298464833988,0.001457119067443835,"['Fruit area too large: 99.85% > 95.00%', 'Fruit touching border: 99.64% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38.jpeg,WhatsApp Image 2026-07-08 at 22.14.38.jpeg,True,0.9066880341880342,1,0.0,0.8664165773490532,0.09331196581196577,['Fruit touching border: 86.64% > 10.00%'],False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg,WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg,True,0.9288608451290591,1,0.0,0.7644769725098179,0.07113915487094091,['Fruit touching border: 76.45% > 10.00%'],False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.42.jpeg,WhatsApp Image 2026-07-08 at 22.14.42.jpeg,True,0.9985428809325562,1,0.0,0.9964298464833988,0.001457119067443835,"['Fruit area too large: 99.85% > 95.00%', 'Fruit touching border: 99.64% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.41 (2).jpeg,WhatsApp Image 2026-07-08 at 22.14.41 (2).jpeg,True,0.9985428809325562,1,0.0,0.9964298464833988,0.001457119067443835,"['Fruit area too large: 99.85% > 95.00%', 'Fruit touching border: 99.64% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg,WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg,True,0.9979461121534292,1,0.0,0.9829224723115398,0.00205388784657079,"['Fruit area too large: 99.79% > 95.00%', 'Fruit touching border: 98.29% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.41 (1).jpeg,WhatsApp Image 2026-07-08 at 22.14.41 (1).jpeg,True,0.9945191507077435,1,0.0,0.9552302749018208,0.005480849292256451,"['Fruit area too large: 99.45% > 95.00%', 'Fruit touching border: 95.52% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40.jpeg,WhatsApp Image 2026-07-08 at 22.14.40.jpeg,True,0.9963279132791328,1,0.0,0.971632725973562,0.0036720867208671626,"['Fruit area too large: 99.63% > 95.00%', 'Fruit touching border: 97.16% > 10.00%']",False,personal
+/home/jeswin/data_augmentation/bread fruit/369.jpg,369.jpg,True,0.9410373263888889,1,0.0,0.8490825688073395,0.05896267361111107,['Fruit touching border: 84.91% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/344.jpg,344.jpg,True,0.8348124136465087,1,0.0,0.7346391752577319,0.1651875863534913,['Fruit touching border: 73.46% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/252.jpg,252.jpg,True,0.7802943969610636,1,0.0,0.7127946127946128,0.21970560303893638,['Fruit touching border: 71.28% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/133.jpg,133.jpg,True,0.9653704063776006,1,0.0,0.8398148148148148,0.03462959362239937,"['Fruit area too large: 96.54% > 95.00%', 'Fruit touching border: 83.98% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/249.jpg,249.jpg,True,0.8005468066491689,1,0.0,0.5605863192182411,0.19945319335083112,['Fruit touching border: 56.06% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/66.jpg,66.jpg,True,0.9785955802439319,1,0.0,0.8989010989010989,0.021404419756068105,"['Fruit area too large: 97.86% > 95.00%', 'Fruit touching border: 89.89% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/46.jpg,46.jpg,True,0.9552427662814655,1,0.0,0.8791569086651054,0.04475723371853446,"['Fruit area too large: 95.52% > 95.00%', 'Fruit touching border: 87.92% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/319.jpg,319.jpg,True,0.7755932339265672,2,0.11680295013628347,0.612037037037037,0.2244067660734328,['Fruit touching border: 61.20% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/339.jpg,339.jpg,True,0.9905542247386759,1,0.0,0.9707724425887265,0.009445775261324063,"['Fruit area too large: 99.06% > 95.00%', 'Fruit touching border: 97.08% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/274.jpg,274.jpg,True,0.91875,1,0.0,0.7872983870967742,0.08125000000000004,['Fruit touching border: 78.73% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/436.jpg,436.jpg,True,0.8778004535147392,1,0.0,0.5884705882352941,0.12219954648526077,['Fruit touching border: 58.85% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/177.jpg,177.jpg,True,0.9534130543099153,1,0.0,0.8982630272952854,0.0465869456900847,"['Fruit area too large: 95.34% > 95.00%', 'Fruit touching border: 89.83% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/313.jpg,313.jpg,True,0.8777322972074468,1,0.0,0.5734234234234235,0.12226770279255317,['Fruit touching border: 57.34% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/390.jpg,390.jpg,True,0.9142121082009446,1,0.0,0.6625407166123779,0.08578789179905544,['Fruit touching border: 66.25% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/357.jpg,357.jpg,True,0.38652387327086124,2,0.01461401160196341,0.37505827505827505,0.6134761267291388,['Fruit touching border: 37.51% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/434.jpg,434.jpg,True,0.9362152777777778,1,0.0,0.85625,0.0637847222222222,['Fruit touching border: 85.62% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/129.jpg,129.jpg,True,0.5862377234953412,1,0.0,0.03859649122807018,0.4137622765046588,[],True,public
+/home/jeswin/data_augmentation/bread fruit/112.jpg,112.jpg,True,0.9696875,1,0.0,0.9,0.030312499999999964,"['Fruit area too large: 96.97% > 95.00%', 'Fruit touching border: 90.00% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/406.jpg,406.jpg,True,0.8486714975845411,1,0.0,0.502540415704388,0.15132850241545892,['Fruit touching border: 50.25% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/181.jpg,181.jpg,True,0.9891213389121339,1,0.0,0.9639618138424821,0.01087866108786606,"['Fruit area too large: 98.91% > 95.00%', 'Fruit touching border: 96.40% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/184.jpg,184.jpg,True,0.8343236714975846,1,0.0,0.511864406779661,0.16567632850241543,['Fruit touching border: 51.19% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/209.jpg,209.jpg,True,0.98415,1,0.0,0.9613333333333334,0.01585000000000003,"['Fruit area too large: 98.41% > 95.00%', 'Fruit touching border: 96.13% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/182.jpg,182.jpg,True,0.7672653256704981,1,0.0,0.668581081081081,0.2327346743295019,['Fruit touching border: 66.86% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/180.jpg,180.jpg,True,0.9687346215675339,1,0.0,0.8902857142857142,0.03126537843246613,"['Fruit area too large: 96.87% > 95.00%', 'Fruit touching border: 89.03% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/365.jpg,365.jpg,True,0.9875133197713842,1,0.0,0.9538793103448275,0.012486680228615765,"['Fruit area too large: 98.75% > 95.00%', 'Fruit touching border: 95.39% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/97.jpg,97.jpg,True,0.9801010507816791,1,0.0,0.9269461077844311,0.019898949218320916,"['Fruit area too large: 98.01% > 95.00%', 'Fruit touching border: 92.69% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/306.jpg,306.jpg,True,0.9894517865883504,1,0.0,0.9712530712530713,0.010548213411649576,"['Fruit area too large: 98.95% > 95.00%', 'Fruit touching border: 97.13% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/447.jpg,447.jpg,True,0.9272629772629772,1,0.0,0.8273348519362187,0.07273702273702276,['Fruit touching border: 82.73% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/299.jpg,299.jpg,True,0.13102205258693808,1,0.0,0.0,0.8689779474130619,['Background dominates: 86.90% > 80.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/47.jpg,47.jpg,True,0.9164329882082255,1,0.0,0.7092537313432836,0.0835670117917745,['Fruit touching border: 70.93% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/147.jpg,147.jpg,True,0.9712151872684868,1,0.0,0.9190669371196755,0.028784812731513232,"['Fruit area too large: 97.12% > 95.00%', 'Fruit touching border: 91.91% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/456.jpg,456.jpg,True,0.37458136539287246,1,0.0,0.03973941368078176,0.6254186346071275,[],True,public
+/home/jeswin/data_augmentation/bread fruit/382.jpg,382.jpg,True,0.8544283413848631,1,0.0,0.6493540051679586,0.14557165861513688,['Fruit touching border: 64.94% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/7.jpg,7.jpg,True,0.8289711531219403,1,0.0,0.6908814589665654,0.17102884687805975,['Fruit touching border: 69.09% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/0.jpg,0.jpg,True,0.6786217445558105,1,0.0,0.45604395604395603,0.3213782554441895,['Fruit touching border: 45.60% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/132.jpg,132.jpg,True,0.9007612005219661,1,0.0,0.7032154340836013,0.09923879947803393,['Fruit touching border: 70.32% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/239.jpg,239.jpg,True,0.9062291583299986,1,0.0,0.6974212034383954,0.09377084167000138,['Fruit touching border: 69.74% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/320.jpg,320.jpg,True,0.285320525516604,2,0.0,0.0031339031339031338,0.714679474483396,[],True,public
+/home/jeswin/data_augmentation/bread fruit/426.jpg,426.jpg,True,0.9191358024691358,1,0.0,0.826936026936027,0.08086419753086416,['Fruit touching border: 82.69% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/63.jpg,63.jpg,True,0.8966825396825396,1,0.0,0.667887323943662,0.10331746031746036,['Fruit touching border: 66.79% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/215.jpg,215.jpg,True,0.9411805555555556,1,0.0,0.92875,0.058819444444444424,['Fruit touching border: 92.88% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/196.jpg,196.jpg,True,0.987480376766091,1,0.0,0.9627551020408164,0.012519623233908983,"['Fruit area too large: 98.75% > 95.00%', 'Fruit touching border: 96.28% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/374.jpg,374.jpg,True,0.3984401709401709,2,0.08615384615384615,0.4054838709677419,0.6015598290598291,['Fruit touching border: 40.55% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/482.jpg,482.jpg,True,0.9252450980392157,1,0.0,0.7906862745098039,0.07475490196078427,['Fruit touching border: 79.07% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/278.jpg,278.jpg,True,0.9092259225922592,1,0.0,0.6802935010482181,0.0907740774077408,['Fruit touching border: 68.03% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/58.jpg,58.jpg,True,0.9370138888888889,1,0.0,0.7895833333333333,0.06298611111111108,['Fruit touching border: 78.96% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/404.jpg,404.jpg,True,0.9571376811594203,1,0.0,0.8834146341463415,0.04286231884057967,"['Fruit area too large: 95.71% > 95.00%', 'Fruit touching border: 88.34% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/246.jpg,246.jpg,True,0.9167604313173934,1,0.0,0.640767386091127,0.08323956868260662,['Fruit touching border: 64.08% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/218.jpg,218.jpg,True,0.9365576102418207,1,0.0,0.9152777777777777,0.06344238975817929,['Fruit touching border: 91.53% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/483.jpg,483.jpg,True,0.9561012858302362,1,0.0,0.8251167133520074,0.043898714169763764,"['Fruit area too large: 95.61% > 95.00%', 'Fruit touching border: 82.51% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/430.jpg,430.jpg,True,0.9834027777777777,1,0.0,0.9583333333333334,0.016597222222222263,"['Fruit area too large: 98.34% > 95.00%', 'Fruit touching border: 95.83% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/138.jpg,138.jpg,True,0.9833487511563367,1,0.0,0.9358276643990929,0.016651248843663313,"['Fruit area too large: 98.33% > 95.00%', 'Fruit touching border: 93.58% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/451.jpg,451.jpg,True,0.9898617511520738,1,0.0,0.9748110831234257,0.010138248847926246,"['Fruit area too large: 98.99% > 95.00%', 'Fruit touching border: 97.48% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/250.jpg,250.jpg,True,0.9801496616928799,1,0.0,0.9374172185430464,0.01985033830712013,"['Fruit area too large: 98.01% > 95.00%', 'Fruit touching border: 93.74% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/472.jpg,472.jpg,True,0.9949693788276466,1,0.0,0.9756294058408862,0.005030621172353422,"['Fruit area too large: 99.50% > 95.00%', 'Fruit touching border: 97.56% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/23.jpg,23.jpg,True,0.9892345110087045,1,0.0,0.9692695214105793,0.01076548899129548,"['Fruit area too large: 98.92% > 95.00%', 'Fruit touching border: 96.93% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/335.jpg,335.jpg,True,0.6846700083542189,1,0.0,0.41858585858585856,0.3153299916457811,['Fruit touching border: 41.86% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/210.jpg,210.jpg,True,0.7488888888888889,1,0.0,0.5458333333333333,0.25111111111111106,['Fruit touching border: 54.58% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/39.jpg,39.jpg,True,0.9740497076023392,1,0.0,0.8990196078431373,0.02595029239766078,"['Fruit area too large: 97.40% > 95.00%', 'Fruit touching border: 89.90% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/474.jpg,474.jpg,True,0.977848802837718,1,0.0,0.8940594059405941,0.022151197162281977,"['Fruit area too large: 97.78% > 95.00%', 'Fruit touching border: 89.41% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/194.jpg,194.jpg,True,0.8535308641975309,1,0.0,0.6782456140350878,0.14646913580246912,['Fruit touching border: 67.82% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/171.jpg,171.jpg,True,0.8833635955407173,1,0.0,0.8632608695652174,0.1166364044592827,['Fruit touching border: 86.33% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/292.jpg,292.jpg,True,0.8783660239361702,1,0.0,0.6720720720720721,0.12163397606382975,['Fruit touching border: 67.21% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/458.jpg,458.jpg,True,0.6857879065506184,1,0.0,0.4418052256532066,0.3142120934493816,['Fruit touching border: 44.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/248.jpg,248.jpg,True,0.7699374699374699,1,0.0,0.40559610705596105,0.23006253006253008,['Fruit touching border: 40.56% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/183.jpg,183.jpg,True,0.8231102850061958,1,0.0,0.6888641425389755,0.17688971499380424,['Fruit touching border: 68.89% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/187.jpg,187.jpg,True,0.894325,1,0.0,0.82,0.10567499999999996,['Fruit touching border: 82.00% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/128.jpg,128.jpg,True,0.5588588588588589,1,0.0,0.28383084577114426,0.4411411411411411,['Fruit touching border: 28.38% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/243.jpg,243.jpg,True,0.9054589371980676,1,0.0,0.6610169491525424,0.09454106280193242,['Fruit touching border: 66.10% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/266.jpg,266.jpg,True,0.9451245030341076,1,0.0,0.8628318584070797,0.054875496965892445,['Fruit touching border: 86.28% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/99.jpg,99.jpg,True,0.8588888888888889,1,0.0,0.6516666666666666,0.14111111111111108,['Fruit touching border: 65.17% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/64.jpg,64.jpg,True,0.9043958683641604,1,0.0,0.6881756756756757,0.09560413163583958,['Fruit touching border: 68.82% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/28.jpg,28.jpg,True,0.9247,1,0.0,0.8236666666666667,0.07530000000000003,['Fruit touching border: 82.37% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/282.jpg,282.jpg,True,0.8050666666666667,1,0.0,0.6108571428571429,0.1949333333333333,['Fruit touching border: 61.09% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/355.jpg,355.jpg,True,0.7320293343020616,1,0.0,0.4683962264150943,0.26797066569793837,['Fruit touching border: 46.84% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/26.jpg,26.jpg,True,0.857125,1,0.0,0.6116666666666667,0.14287499999999997,['Fruit touching border: 61.17% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/134.jpg,134.jpg,True,0.8623299822590184,1,0.0,0.5840262582056893,0.13767001774098164,['Fruit touching border: 58.40% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/375.jpg,375.jpg,True,0.718113425925926,1,0.0,0.35738095238095235,0.281886574074074,['Fruit touching border: 35.74% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/291.jpg,291.jpg,True,0.9594117647058824,1,0.0,0.931728045325779,0.04058823529411759,"['Fruit area too large: 95.94% > 95.00%', 'Fruit touching border: 93.17% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/405.jpg,405.jpg,True,0.763415159345392,1,0.0,0.5042071197411003,0.23658484065460805,['Fruit touching border: 50.42% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/467.jpg,467.jpg,True,0.9593786043829297,1,0.0,0.9102941176470588,0.040621395617070344,"['Fruit area too large: 95.94% > 95.00%', 'Fruit touching border: 91.03% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/36.jpg,36.jpg,True,0.8666709107885578,1,0.0,0.7194888178913738,0.13332908921144215,['Fruit touching border: 71.95% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/316.jpg,316.jpg,True,0.8340642640034738,1,0.0,0.6655889145496536,0.16593573599652622,['Fruit touching border: 66.56% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/84.jpg,84.jpg,True,0.9635057471264368,1,0.0,0.925,0.03649425287356323,"['Fruit area too large: 96.35% > 95.00%', 'Fruit touching border: 92.50% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/109.jpg,109.jpg,True,0.9526003344481605,1,0.0,0.8490981963927856,0.0473996655518395,"['Fruit area too large: 95.26% > 95.00%', 'Fruit touching border: 84.91% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/156.jpg,156.jpg,True,0.9904673228695575,1,0.0,0.9767981438515081,0.00953267713044248,"['Fruit area too large: 99.05% > 95.00%', 'Fruit touching border: 97.68% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/27.jpg,27.jpg,True,0.935925,1,0.0,0.8273333333333334,0.064075,['Fruit touching border: 82.73% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/486.jpg,486.jpg,True,0.8792683013655717,1,0.0,0.6669467787114846,0.12073169863442834,['Fruit touching border: 66.69% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/481.jpg,481.jpg,True,0.9543121198383014,1,0.0,0.8444676409185804,0.04568788016169856,"['Fruit area too large: 95.43% > 95.00%', 'Fruit touching border: 84.45% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/432.jpg,432.jpg,True,0.9905678958310538,1,0.0,0.9768518518518519,0.009432104168946243,"['Fruit area too large: 99.06% > 95.00%', 'Fruit touching border: 97.69% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/484.jpg,484.jpg,True,0.9064773329479212,1,0.0,0.7042198233562316,0.09352266705207879,['Fruit touching border: 70.42% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/225.jpg,225.jpg,True,0.9811889157180637,1,0.0,0.9148325358851674,0.01881108428193634,"['Fruit area too large: 98.12% > 95.00%', 'Fruit touching border: 91.48% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/310.jpg,310.jpg,True,0.9900636319138522,1,0.0,0.9754299754299754,0.00993636808614784,"['Fruit area too large: 99.01% > 95.00%', 'Fruit touching border: 97.54% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/199.jpg,199.jpg,True,0.9103923853923854,1,0.0,0.6752321981424149,0.08960761460761457,['Fruit touching border: 67.52% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/69.jpg,69.jpg,True,0.9885796022159659,1,0.0,0.9570754716981132,0.011420397784034142,"['Fruit area too large: 98.86% > 95.00%', 'Fruit touching border: 95.71% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/452.jpg,452.jpg,True,0.9211835748792271,1,0.0,0.8108474576271186,0.07881642512077291,['Fruit touching border: 81.08% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/157.jpg,157.jpg,True,0.958905058905059,1,0.0,0.8709677419354839,0.04109494109494105,"['Fruit area too large: 95.89% > 95.00%', 'Fruit touching border: 87.10% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/453.jpg,453.jpg,True,0.9291606016496846,1,0.0,0.6616136919315403,0.07083939835031539,['Fruit touching border: 66.16% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/376.jpg,376.jpg,True,0.42300906056270865,1,0.0,0.0,0.5769909394372914,[],True,public
+/home/jeswin/data_augmentation/bread fruit/287.jpg,287.jpg,True,0.8859146341463414,1,0.0,0.643956043956044,0.11408536585365858,['Fruit touching border: 64.40% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/388.jpg,388.jpg,True,0.8692533129459735,1,0.0,0.5919597989949749,0.13074668705402648,['Fruit touching border: 59.20% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/235.jpg,235.jpg,True,0.897382614213198,1,0.0,0.6680672268907563,0.10261738578680202,['Fruit touching border: 66.81% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/414.jpg,414.jpg,True,0.3609296965040338,1,0.0,0.05162337662337663,0.6390703034959662,[],True,public
+/home/jeswin/data_augmentation/bread fruit/74.jpg,74.jpg,True,0.9876081867577261,1,0.0,0.951605504587156,0.012391813242273897,"['Fruit area too large: 98.76% > 95.00%', 'Fruit touching border: 95.16% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/261.jpg,261.jpg,True,0.8839337916574262,1,0.0,0.6824444444444444,0.11606620834257375,['Fruit touching border: 68.24% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/269.jpg,269.jpg,True,0.9751394251394251,1,0.0,0.8517084282460137,0.024860574860574913,"['Fruit area too large: 97.51% > 95.00%', 'Fruit touching border: 85.17% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/19.jpg,19.jpg,True,0.9831439393939394,1,0.0,0.9286407766990291,0.016856060606060597,"['Fruit area too large: 98.31% > 95.00%', 'Fruit touching border: 92.86% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/361.jpg,361.jpg,True,0.89035,1,0.0,0.7716666666666666,0.10965000000000003,['Fruit touching border: 77.17% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/371.jpg,371.jpg,True,0.9834027777777777,1,0.0,0.9583333333333334,0.016597222222222263,"['Fruit area too large: 98.34% > 95.00%', 'Fruit touching border: 95.83% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/213.jpg,213.jpg,True,0.9834027777777777,1,0.0,0.9583333333333334,0.016597222222222263,"['Fruit area too large: 98.34% > 95.00%', 'Fruit touching border: 95.83% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/294.jpg,294.jpg,True,0.4468635363169479,1,0.0,0.032732732732732736,0.553136463683052,[],True,public
+/home/jeswin/data_augmentation/bread fruit/94.jpg,94.jpg,True,0.8885393671817513,1,0.0,0.6918429003021148,0.1114606328182487,['Fruit touching border: 69.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/50.jpg,50.jpg,True,0.8510361552028218,1,0.0,0.865686274509804,0.14896384479717817,['Fruit touching border: 86.57% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/395.jpg,395.jpg,True,0.25485462097611633,1,0.0,0.0,0.7451453790238837,[],True,public
+/home/jeswin/data_augmentation/bread fruit/231.jpg,231.jpg,True,0.9475548506476341,1,0.0,0.8676954732510288,0.05244514935236588,['Fruit touching border: 86.77% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/163.jpg,163.jpg,True,0.9894859813084113,1,0.0,0.9718274111675127,0.010514018691588745,"['Fruit area too large: 98.95% > 95.00%', 'Fruit touching border: 97.18% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/418.jpg,418.jpg,True,0.6479111111111111,1,0.0,0.3872093023255814,0.3520888888888889,['Fruit touching border: 38.72% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/232.jpg,232.jpg,True,0.9107202296746276,1,0.0,0.6727891156462585,0.08927977032537238,['Fruit touching border: 67.28% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/419.jpg,419.jpg,True,0.9335198272477424,1,0.0,0.8375809935205184,0.0664801727522576,['Fruit touching border: 83.76% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/372.jpg,372.jpg,True,0.987396674356017,1,0.0,0.9580882352941177,0.012603325643983032,"['Fruit area too large: 98.74% > 95.00%', 'Fruit touching border: 95.81% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/100.jpg,100.jpg,True,0.942337962962963,1,0.0,0.78,0.057662037037036984,['Fruit touching border: 78.00% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/488.jpg,488.jpg,True,0.8793973471741637,1,0.0,0.6863725490196079,0.12060265282583627,['Fruit touching border: 68.64% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/226.jpg,226.jpg,True,0.9622287968441815,1,0.0,0.925054945054945,0.0377712031558185,"['Fruit area too large: 96.22% > 95.00%', 'Fruit touching border: 92.51% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/325.jpg,325.jpg,True,0.9006716417910448,1,0.0,0.7242957746478873,0.09932835820895525,['Fruit touching border: 72.43% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/117.jpg,117.jpg,True,0.7681091004458431,1,0.0,0.43471074380165287,0.23189089955415687,['Fruit touching border: 43.47% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/468.jpg,468.jpg,True,0.739519700400131,1,0.0,0.24603174603174602,0.26048029959986896,['Fruit touching border: 24.60% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/164.jpg,164.jpg,True,0.9834027777777777,1,0.0,0.9583333333333334,0.016597222222222263,"['Fruit area too large: 98.34% > 95.00%', 'Fruit touching border: 95.83% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/311.jpg,311.jpg,True,0.9493666419674677,1,0.0,0.8918128654970761,0.05063335803253233,['Fruit touching border: 89.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/220.jpg,220.jpg,True,0.9366898148148148,1,0.0,0.8433333333333334,0.06331018518518516,['Fruit touching border: 84.33% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/224.jpg,224.jpg,True,0.9023985302049622,1,0.0,0.608502024291498,0.09760146979503781,['Fruit touching border: 60.85% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/166.jpg,166.jpg,True,0.9834027777777777,1,0.0,0.9583333333333334,0.016597222222222263,"['Fruit area too large: 98.34% > 95.00%', 'Fruit touching border: 95.83% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/216.jpg,216.jpg,True,0.93225,1,0.0,0.925,0.06774999999999998,['Fruit touching border: 92.50% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/98.jpg,98.jpg,True,0.4444444444444444,1,0.0,0.036533333333333334,0.5555555555555556,[],True,public
+/home/jeswin/data_augmentation/bread fruit/270.jpg,270.jpg,True,0.97871063409123,1,0.0,0.9291176470588235,0.021289365908769953,"['Fruit area too large: 97.87% > 95.00%', 'Fruit touching border: 92.91% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/351.jpg,351.jpg,True,0.3378019323671498,1,0.0,0.0,0.6621980676328503,[],True,public
+/home/jeswin/data_augmentation/bread fruit/65.jpg,65.jpg,True,0.8770817417876241,1,0.0,0.7568807339449541,0.1229182582123759,['Fruit touching border: 75.69% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/258.jpg,258.jpg,True,0.8650205761316873,1,0.0,0.6653968253968254,0.13497942386831274,['Fruit touching border: 66.54% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/424.jpg,424.jpg,True,0.98743923779895,1,0.0,0.9691358024691358,0.012560762201049958,"['Fruit area too large: 98.74% > 95.00%', 'Fruit touching border: 96.91% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/124.jpg,124.jpg,True,0.8815219395280236,1,0.0,0.695933014354067,0.1184780604719764,['Fruit touching border: 69.59% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/370.jpg,370.jpg,True,0.8808333333333334,1,0.0,0.6929166666666666,0.11916666666666664,['Fruit touching border: 69.29% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/41.jpg,41.jpg,True,0.9629710144927536,1,0.0,0.9250847457627118,0.037028985507246426,"['Fruit area too large: 96.30% > 95.00%', 'Fruit touching border: 92.51% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/489.jpg,489.jpg,True,0.8898628416883995,1,0.0,0.706385068762279,0.11013715831160054,['Fruit touching border: 70.64% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/423.jpg,423.jpg,True,0.6709375,1,0.0,0.30083333333333334,0.32906250000000004,['Fruit touching border: 30.08% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/352.jpg,352.jpg,True,0.7761430678466077,1,0.0,0.43177339901477835,0.2238569321533923,['Fruit touching border: 43.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/400.jpg,400.jpg,True,0.4388433515482696,1,0.0,0.0,0.5611566484517304,[],True,public
+/home/jeswin/data_augmentation/bread fruit/384.jpg,384.jpg,True,0.9873270067220246,1,0.0,0.9672451193058569,0.012672993277975442,"['Fruit area too large: 98.73% > 95.00%', 'Fruit touching border: 96.72% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/178.jpg,178.jpg,True,0.8445116487455198,1,0.0,0.6703947368421053,0.15548835125448024,['Fruit touching border: 67.04% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/103.jpg,103.jpg,True,0.954579749509582,1,0.0,0.9121580547112462,0.04542025049041798,"['Fruit area too large: 95.46% > 95.00%', 'Fruit touching border: 91.22% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/121.jpg,121.jpg,True,0.9791881787431013,1,0.0,0.9339181286549708,0.020811821256898733,"['Fruit area too large: 97.92% > 95.00%', 'Fruit touching border: 93.39% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/191.jpg,191.jpg,True,0.9123323754789272,1,0.0,0.6949029126213592,0.0876676245210728,['Fruit touching border: 69.49% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/241.jpg,241.jpg,True,0.7352261770850073,1,0.0,0.5331111111111111,0.26477382291499274,['Fruit touching border: 53.31% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/429.jpg,429.jpg,True,0.7126954732510288,1,0.0,0.49587301587301585,0.2873045267489712,['Fruit touching border: 49.59% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/387.jpg,387.jpg,True,0.9338584010840109,1,0.0,0.7456395348837209,0.06614159891598914,['Fruit touching border: 74.56% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/305.jpg,305.jpg,True,0.7853349673202614,1,0.0,0.5490506329113924,0.21466503267973858,['Fruit touching border: 54.91% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/381.jpg,381.jpg,True,0.9886886886886886,1,0.0,0.9646766169154228,0.011311311311311356,"['Fruit area too large: 98.87% > 95.00%', 'Fruit touching border: 96.47% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/245.jpg,245.jpg,True,0.8689102564102564,1,0.0,0.6029032258064516,0.13108974358974357,['Fruit touching border: 60.29% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/113.jpg,113.jpg,True,0.9530208333333333,1,0.0,0.8741666666666666,0.04697916666666668,"['Fruit area too large: 95.30% > 95.00%', 'Fruit touching border: 87.42% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/327.jpg,327.jpg,True,0.8644798797135282,1,0.0,0.6426380368098159,0.13552012028647176,['Fruit touching border: 64.26% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/438.jpg,438.jpg,True,0.6846695226438189,1,0.0,0.4080357142857143,0.31533047735618114,['Fruit touching border: 40.80% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/349.jpg,349.jpg,True,0.41994163424124514,1,0.0,0.09931350114416476,0.5800583657587548,[],True,public
+/home/jeswin/data_augmentation/bread fruit/265.jpg,265.jpg,True,0.5671551165803109,1,0.0,0.28775055679287304,0.4328448834196891,['Fruit touching border: 28.78% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/358.jpg,358.jpg,True,0.9628136200716846,1,0.0,0.9294392523364486,0.037186379928315416,"['Fruit area too large: 96.28% > 95.00%', 'Fruit touching border: 92.94% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/343.jpg,343.jpg,True,0.7136446331109764,2,0.20301192642005256,0.7057906458797327,0.28635536688902363,['Fruit touching border: 70.58% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/37.jpg,37.jpg,True,0.9504598930481284,1,0.0,0.8755148741418765,0.04954010695187161,"['Fruit area too large: 95.05% > 95.00%', 'Fruit touching border: 87.55% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/466.jpg,466.jpg,True,0.9544405997693195,1,0.0,0.826797385620915,0.0455594002306805,"['Fruit area too large: 95.44% > 95.00%', 'Fruit touching border: 82.68% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/120.jpg,120.jpg,True,0.9807728856509345,1,0.0,0.9370473537604457,0.019227114349065544,"['Fruit area too large: 98.08% > 95.00%', 'Fruit touching border: 93.70% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/368.jpg,368.jpg,True,0.905095416521436,1,0.0,0.6229074889867842,0.09490458347856401,['Fruit touching border: 62.29% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/416.jpg,416.jpg,True,0.9296594982078853,1,0.0,0.6661214953271029,0.0703405017921147,['Fruit touching border: 66.61% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/412.jpg,412.jpg,True,0.7363292011019283,1,0.0,0.49265402843601896,0.26367079889807166,['Fruit touching border: 49.27% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/140.jpg,140.jpg,True,0.9591937069813176,1,0.0,0.8812807881773399,0.04080629301868244,"['Fruit area too large: 95.92% > 95.00%', 'Fruit touching border: 88.13% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/42.jpg,42.jpg,True,0.94402837997635,1,0.0,0.8808022922636103,0.05597162002364997,['Fruit touching border: 88.08% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/360.jpg,360.jpg,True,0.98445,1,0.0,0.963,0.015549999999999953,"['Fruit area too large: 98.45% > 95.00%', 'Fruit touching border: 96.30% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/500.jpg,500.jpg,True,0.8696233365019012,1,0.0,0.6523076923076923,0.13037666349809884,['Fruit touching border: 65.23% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/263.jpg,263.jpg,True,0.908082085594223,1,0.0,0.6807606263982103,0.09191791440577701,['Fruit touching border: 68.08% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/106.jpg,106.jpg,True,0.9611272727272727,1,0.0,0.9288421052631579,0.03887272727272728,"['Fruit area too large: 96.11% > 95.00%', 'Fruit touching border: 92.88% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/363.jpg,363.jpg,True,0.6924703891708968,1,0.0,0.471608832807571,0.30752961082910324,['Fruit touching border: 47.16% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/22.jpg,22.jpg,True,0.9865719406041986,1,0.0,0.9488664987405542,0.013428059395801384,"['Fruit area too large: 98.66% > 95.00%', 'Fruit touching border: 94.89% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/359.jpg,359.jpg,True,0.24940312213039487,1,0.0,0.0,0.7505968778696052,[],True,public
+/home/jeswin/data_augmentation/bread fruit/267.jpg,267.jpg,True,0.9711111111111111,1,0.0,0.9330434782608695,0.028888888888888853,"['Fruit area too large: 97.11% > 95.00%', 'Fruit touching border: 93.30% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/15.jpg,15.jpg,True,0.9830912863070539,1,0.0,0.9375296912114014,0.01690871369294611,"['Fruit area too large: 98.31% > 95.00%', 'Fruit touching border: 93.75% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/298.jpg,298.jpg,True,0.9152068126520682,1,0.0,0.6539432176656151,0.08479318734793184,['Fruit touching border: 65.39% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/119.jpg,119.jpg,True,0.956982042347896,1,0.0,0.8899581589958159,0.04301795765210403,"['Fruit area too large: 95.70% > 95.00%', 'Fruit touching border: 89.00% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/95.jpg,95.jpg,True,0.7786749899315344,1,0.0,0.3966740576496674,0.2213250100684656,['Fruit touching border: 39.67% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/197.jpg,197.jpg,True,0.9901409932659933,1,0.0,0.9722972972972973,0.009859006734006748,"['Fruit area too large: 99.01% > 95.00%', 'Fruit touching border: 97.23% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/469.jpg,469.jpg,True,0.9664732314494425,1,0.0,0.8644117647058823,0.03352676855055747,"['Fruit area too large: 96.65% > 95.00%', 'Fruit touching border: 86.44% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/144.jpg,144.jpg,True,0.9583691742258367,1,0.0,0.8411255411255412,0.04163082577416333,"['Fruit area too large: 95.84% > 95.00%', 'Fruit touching border: 84.11% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/455.jpg,455.jpg,True,0.4715113782739373,1,0.0,0.0,0.5284886217260627,[],True,public
+/home/jeswin/data_augmentation/bread fruit/420.jpg,420.jpg,True,0.17934027777777778,1,0.0,0.11023809523809523,0.8206597222222223,"['Fruit touching border: 11.02% > 10.00%', 'Background dominates: 82.07% > 80.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/478.jpg,478.jpg,True,0.9645428841471229,1,0.0,0.8812745098039215,0.03545711585287714,"['Fruit area too large: 96.45% > 95.00%', 'Fruit touching border: 88.13% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/70.jpg,70.jpg,True,0.8310349780938017,1,0.0,0.7152238805970149,0.16896502190619833,['Fruit touching border: 71.52% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/159.jpg,159.jpg,True,0.95180690399137,1,0.0,0.8310880829015544,0.048193096008629976,"['Fruit area too large: 95.18% > 95.00%', 'Fruit touching border: 83.11% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/116.jpg,116.jpg,True,0.3203125,2,0.0,0.3383333333333333,0.6796875,['Fruit touching border: 33.83% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/380.jpg,380.jpg,True,0.9627053140096619,1,0.0,0.8044067796610169,0.03729468599033814,"['Fruit area too large: 96.27% > 95.00%', 'Fruit touching border: 80.44% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/284.jpg,284.jpg,True,0.916310975609756,1,0.0,0.7118131868131868,0.08368902439024395,['Fruit touching border: 71.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/141.jpg,141.jpg,True,0.5742348636061211,2,0.0,0.44610951008645533,0.4257651363938789,['Fruit touching border: 44.61% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/254.jpg,254.jpg,True,0.9542185338865837,1,0.0,0.8800475059382423,0.04578146611341627,"['Fruit area too large: 95.42% > 95.00%', 'Fruit touching border: 88.00% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/385.jpg,385.jpg,True,0.7477472899728997,1,0.0,0.6811046511627907,0.25225271002710026,['Fruit touching border: 68.11% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/60.jpg,60.jpg,True,0.9770486111111111,1,0.0,0.9404166666666667,0.022951388888888924,"['Fruit area too large: 97.70% > 95.00%', 'Fruit touching border: 94.04% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/338.jpg,338.jpg,True,0.8662570888468809,1,0.0,0.6548494983277592,0.1337429111531191,['Fruit touching border: 65.48% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/198.jpg,198.jpg,True,0.9843236714975846,1,0.0,0.956271186440678,0.015676328502415404,"['Fruit area too large: 98.43% > 95.00%', 'Fruit touching border: 95.63% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/44.jpg,44.jpg,True,0.9012519561815336,1,0.0,0.6468944099378882,0.09874804381846636,['Fruit touching border: 64.69% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/230.jpg,230.jpg,True,0.990743696137887,1,0.0,0.9770642201834863,0.009256303862112958,"['Fruit area too large: 99.07% > 95.00%', 'Fruit touching border: 97.71% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/421.jpg,421.jpg,True,0.588673139158576,1,0.0,0.07642487046632124,0.411326860841424,[],True,public
+/home/jeswin/data_augmentation/bread fruit/275.jpg,275.jpg,True,0.9644308943089431,1,0.0,0.9294234592445328,0.03556910569105687,"['Fruit area too large: 96.44% > 95.00%', 'Fruit touching border: 92.94% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/5.jpg,5.jpg,True,0.6500634195839675,1,0.0,0.40476190476190477,0.3499365804160325,['Fruit touching border: 40.48% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/21.jpg,21.jpg,True,0.8546448087431694,1,0.0,0.6356132075471698,0.1453551912568306,['Fruit touching border: 63.56% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/441.jpg,441.jpg,True,0.4253759398496241,1,0.0,0.0,0.5746240601503759,[],True,public
+/home/jeswin/data_augmentation/bread fruit/401.jpg,401.jpg,True,0.9850606909430439,1,0.0,0.9598086124401913,0.014939309056956063,"['Fruit area too large: 98.51% > 95.00%', 'Fruit touching border: 95.98% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/52.jpg,52.jpg,True,0.8865079365079365,1,0.0,0.7134680134680135,0.11349206349206353,['Fruit touching border: 71.35% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/200.jpg,200.jpg,True,0.9863132911392405,1,0.0,0.9461693548387097,0.013686708860759511,"['Fruit area too large: 98.63% > 95.00%', 'Fruit touching border: 94.62% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/79.jpg,79.jpg,True,0.9570537590671819,1,0.0,0.8827089337175793,0.04294624093281807,"['Fruit area too large: 95.71% > 95.00%', 'Fruit touching border: 88.27% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/223.jpg,223.jpg,True,0.869122746185853,1,0.0,0.6080246913580247,0.13087725381414705,['Fruit touching border: 60.80% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/476.jpg,476.jpg,True,0.8703363289760349,1,0.0,0.7057843137254902,0.12966367102396514,['Fruit touching border: 70.58% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/4.jpg,4.jpg,True,0.8606944444444444,1,0.0,0.6908333333333333,0.13930555555555557,['Fruit touching border: 69.08% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/340.jpg,340.jpg,True,0.9701425057870371,1,0.0,0.8904761904761904,0.02985749421296291,"['Fruit area too large: 97.01% > 95.00%', 'Fruit touching border: 89.05% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/1.jpg,1.jpg,True,0.9901838546069315,1,0.0,0.9721719457013575,0.00981614539306852,"['Fruit area too large: 99.02% > 95.00%', 'Fruit touching border: 97.22% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/237.jpg,237.jpg,True,0.6381271258503401,1,0.0,0.4117647058823529,0.36187287414965985,['Fruit touching border: 41.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/425.jpg,425.jpg,True,0.8580917874396136,1,0.0,0.7016949152542373,0.14190821256038644,['Fruit touching border: 70.17% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/17.jpg,17.jpg,True,0.93102588648239,1,0.0,0.7404814004376368,0.06897411351760996,['Fruit touching border: 74.05% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/136.jpg,136.jpg,True,0.9647657925119578,1,0.0,0.8990536277602523,0.03523420748804218,"['Fruit area too large: 96.48% > 95.00%', 'Fruit touching border: 89.91% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/176.jpg,176.jpg,True,0.560214250124564,1,0.0,0.43746898263027295,0.43978574987543595,['Fruit touching border: 43.75% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/88.jpg,88.jpg,True,0.9087470449172577,1,0.0,0.6954216867469879,0.09125295508274234,['Fruit touching border: 69.54% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/433.jpg,433.jpg,True,0.8701736111111111,1,0.0,0.8845833333333334,0.12982638888888887,['Fruit touching border: 88.46% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/356.jpg,356.jpg,True,0.905026614010989,1,0.0,0.652283105022831,0.09497338598901095,['Fruit touching border: 65.23% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/217.jpg,217.jpg,True,0.824875,2,0.165,0.817,0.17512499999999998,['Fruit touching border: 81.70% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/165.jpg,165.jpg,True,0.9802083333333333,1,0.0,0.9408333333333333,0.019791666666666652,"['Fruit area too large: 98.02% > 95.00%', 'Fruit touching border: 94.08% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/422.jpg,422.jpg,True,0.9598765432098766,1,0.0,0.821021021021021,0.04012345679012341,"['Fruit area too large: 95.99% > 95.00%', 'Fruit touching border: 82.10% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/202.jpg,202.jpg,True,0.8356308411214953,1,0.0,0.7056179775280899,0.16436915887850467,['Fruit touching border: 70.56% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/314.jpg,314.jpg,True,0.9672124335106383,1,0.0,0.9132911392405063,0.03278756648936165,"['Fruit area too large: 96.72% > 95.00%', 'Fruit touching border: 91.33% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/228.jpg,228.jpg,True,0.98656330749354,1,0.0,0.9648148148148148,0.013436692506459957,"['Fruit area too large: 98.66% > 95.00%', 'Fruit touching border: 96.48% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/304.jpg,304.jpg,True,0.8768405600722674,1,0.0,0.5842723004694835,0.1231594399277326,['Fruit touching border: 58.43% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/410.jpg,410.jpg,True,0.8104741684359519,1,0.0,0.4771513353115727,0.18952583156404812,['Fruit touching border: 47.72% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/348.jpg,348.jpg,True,0.5909513590844063,1,0.0,0.1639225181598063,0.4090486409155937,['Fruit touching border: 16.39% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/446.jpg,446.jpg,True,0.9136633866338664,1,0.0,0.7600886917960089,0.08633661336613363,['Fruit touching border: 76.01% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/247.jpg,247.jpg,True,0.9848862642169729,1,0.0,0.9570032573289903,0.015113735783027105,"['Fruit area too large: 98.49% > 95.00%', 'Fruit touching border: 95.70% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/8.jpg,8.jpg,True,0.9489987484355444,1,0.0,0.873773987206823,0.05100125156445556,['Fruit touching border: 87.38% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/56.jpg,56.jpg,True,0.8569791666666666,1,0.0,0.67375,0.14302083333333337,['Fruit touching border: 67.38% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/296.jpg,296.jpg,True,0.9114741641337386,1,0.0,0.6877192982456141,0.0885258358662614,['Fruit touching border: 68.77% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/153.jpg,153.jpg,True,0.9504608294930875,1,0.0,0.8809815950920246,0.04953917050691248,"['Fruit area too large: 95.05% > 95.00%', 'Fruit touching border: 88.10% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/169.jpg,169.jpg,True,0.9421467074049233,1,0.0,0.8898009950248756,0.057853292595076655,['Fruit touching border: 88.98% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/45.jpg,45.jpg,True,0.9672803009943564,1,0.0,0.827400468384075,0.03271969900564364,"['Fruit area too large: 96.73% > 95.00%', 'Fruit touching border: 82.74% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/48.jpg,48.jpg,True,0.9794487847222222,1,0.0,0.9298701298701298,0.020551215277777812,"['Fruit area too large: 97.94% > 95.00%', 'Fruit touching border: 92.99% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/127.jpg,127.jpg,True,0.9876251251251251,1,0.0,0.9634328358208956,0.012374874874874875,"['Fruit area too large: 98.76% > 95.00%', 'Fruit touching border: 96.34% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/143.jpg,143.jpg,True,0.8592052601486564,1,0.0,0.6540697674418605,0.1407947398513436,['Fruit touching border: 65.41% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/253.jpg,253.jpg,True,0.8766485998193315,1,0.0,0.671830985915493,0.12335140018066848,['Fruit touching border: 67.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/413.jpg,413.jpg,True,0.9596618357487923,1,0.0,0.9166101694915254,0.04033816425120773,"['Fruit area too large: 95.97% > 95.00%', 'Fruit touching border: 91.66% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/25.jpg,25.jpg,True,0.8705929973689537,1,0.0,0.8874213836477988,0.12940700263104632,['Fruit touching border: 88.74% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/475.jpg,475.jpg,True,0.6727431804017451,1,0.0,0.38560235063663073,0.3272568195982549,['Fruit touching border: 38.56% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/276.jpg,276.jpg,True,0.6367352320675106,1,0.0,0.40347593582887703,0.3632647679324894,['Fruit touching border: 40.35% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/185.jpg,185.jpg,True,0.979834960483496,1,0.0,0.9219570405727924,0.020165039516503946,"['Fruit area too large: 97.98% > 95.00%', 'Fruit touching border: 92.20% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/87.jpg,87.jpg,True,0.9760855683269476,1,0.0,0.9285714285714286,0.023914431673052405,"['Fruit area too large: 97.61% > 95.00%', 'Fruit touching border: 92.86% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/175.jpg,175.jpg,True,0.9568115942028985,1,0.0,0.8613559322033898,0.04318840579710148,"['Fruit area too large: 95.68% > 95.00%', 'Fruit touching border: 86.14% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/393.jpg,393.jpg,True,0.9265240904621436,1,0.0,0.8525597269624573,0.07347590953785643,['Fruit touching border: 85.26% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/373.jpg,373.jpg,True,0.8522518382352942,1,0.0,0.6602409638554216,0.14774816176470584,['Fruit touching border: 66.02% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/111.jpg,111.jpg,True,0.8650347222222222,1,0.0,0.715,0.13496527777777778,['Fruit touching border: 71.50% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/315.jpg,315.jpg,True,0.841231884057971,1,0.0,0.6867796610169492,0.158768115942029,['Fruit touching border: 68.68% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/490.jpg,490.jpg,True,0.919484315149444,1,0.0,0.9329598506069094,0.08051568485055605,['Fruit touching border: 93.30% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/493.jpg,493.jpg,True,0.9675285146738434,1,0.0,0.9,0.032471485326156624,"['Fruit area too large: 96.75% > 95.00%', 'Fruit touching border: 90.00% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/428.jpg,428.jpg,True,0.8943478260869565,1,0.0,0.7665853658536586,0.10565217391304349,['Fruit touching border: 76.66% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/85.jpg,85.jpg,True,0.8893880208333333,1,0.0,0.574025974025974,0.11061197916666665,['Fruit touching border: 57.40% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/170.jpg,170.jpg,True,0.9901327392555462,1,0.0,0.9677215189873418,0.009867260744453765,"['Fruit area too large: 99.01% > 95.00%', 'Fruit touching border: 96.77% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/233.jpg,233.jpg,True,0.9137159856869435,1,0.0,0.6575963718820862,0.08628401431305655,['Fruit touching border: 65.76% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/477.jpg,477.jpg,True,0.5714789183647315,1,0.0,0.4025490196078431,0.4285210816352685,['Fruit touching border: 40.25% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/80.jpg,80.jpg,True,0.7378712801993226,1,0.0,0.3783068783068783,0.2621287198006774,['Fruit touching border: 37.83% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/145.jpg,145.jpg,True,0.9751020408163266,1,0.0,0.9252525252525252,0.024897959183673435,"['Fruit area too large: 97.51% > 95.00%', 'Fruit touching border: 92.53% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/331.jpg,331.jpg,True,0.31301154602443654,1,0.0,0.01285140562248996,0.6869884539755635,[],True,public
+/home/jeswin/data_augmentation/bread fruit/161.jpg,161.jpg,True,0.9156442901234568,1,0.0,0.7672839506172839,0.08435570987654317,['Fruit touching border: 76.73% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/280.jpg,280.jpg,True,0.9291194020064258,1,0.0,0.7188492063492063,0.07088059799357416,['Fruit touching border: 71.88% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/277.jpg,277.jpg,True,0.9772423788431475,1,0.0,0.9300395256916996,0.022757621156852537,"['Fruit area too large: 97.72% > 95.00%', 'Fruit touching border: 93.00% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/411.jpg,411.jpg,True,0.8763401559454191,1,0.0,0.654656862745098,0.12365984405458086,['Fruit touching border: 65.47% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/485.jpg,485.jpg,True,0.4092376329616814,1,0.0,0.04686274509803921,0.5907623670383186,[],True,public
+/home/jeswin/data_augmentation/bread fruit/77.jpg,77.jpg,True,0.7542565809611265,1,0.0,0.6662337662337663,0.24574341903887353,['Fruit touching border: 66.62% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/301.jpg,301.jpg,True,0.9709567901234568,1,0.0,0.9033333333333333,0.029043209876543186,"['Fruit area too large: 97.10% > 95.00%', 'Fruit touching border: 90.33% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/308.jpg,308.jpg,True,0.9764245014245014,1,0.0,0.9114666666666666,0.023575498575498566,"['Fruit area too large: 97.64% > 95.00%', 'Fruit touching border: 91.15% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/260.jpg,260.jpg,True,0.8655581782838101,1,0.0,0.7694845360824742,0.1344418217161899,['Fruit touching border: 76.95% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/105.jpg,105.jpg,True,0.44618506493506493,1,0.0,0.026836158192090395,0.5538149350649351,[],True,public
+/home/jeswin/data_augmentation/bread fruit/487.jpg,487.jpg,True,0.9920042772010765,1,0.0,0.9476470588235294,0.007995722798923466,"['Fruit area too large: 99.20% > 95.00%', 'Fruit touching border: 94.76% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/409.jpg,409.jpg,True,0.759508547008547,1,0.0,0.6856353591160221,0.24049145299145303,['Fruit touching border: 68.56% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/389.jpg,389.jpg,True,0.6623913043478261,1,0.0,0.38305084745762713,0.3376086956521739,['Fruit touching border: 38.31% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/442.jpg,442.jpg,True,0.8811925647451964,1,0.0,0.8441176470588235,0.11880743525480364,['Fruit touching border: 84.41% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/386.jpg,386.jpg,True,0.8694930875576037,1,0.0,0.637984496124031,0.13050691244239632,['Fruit touching border: 63.80% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/289.jpg,289.jpg,True,0.9874438202247191,1,0.0,0.9464668094218416,0.012556179775280896,"['Fruit area too large: 98.74% > 95.00%', 'Fruit touching border: 94.65% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/148.jpg,148.jpg,True,0.9915739458886667,1,0.0,0.979757085020243,0.008426054111333348,"['Fruit area too large: 99.16% > 95.00%', 'Fruit touching border: 97.98% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/321.jpg,321.jpg,True,0.918537602748129,1,0.0,0.6584269662921348,0.08146239725187099,['Fruit touching border: 65.84% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/283.jpg,283.jpg,True,0.8702389705882353,1,0.0,0.6091101694915254,0.1297610294117647,['Fruit touching border: 60.91% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/242.jpg,242.jpg,True,0.9875112695680682,1,0.0,0.9501123595505618,0.012488730431931772,"['Fruit area too large: 98.75% > 95.00%', 'Fruit touching border: 95.01% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/108.jpg,108.jpg,True,0.9800845864661654,1,0.0,0.8725321888412018,0.019915413533834636,"['Fruit area too large: 98.01% > 95.00%', 'Fruit touching border: 87.25% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/146.jpg,146.jpg,True,0.9521005917159764,1,0.0,0.8542307692307692,0.047899408284023615,"['Fruit area too large: 95.21% > 95.00%', 'Fruit touching border: 85.42% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/174.jpg,174.jpg,True,0.7994667658730159,1,0.0,0.6475247524752475,0.2005332341269841,['Fruit touching border: 64.75% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/13.jpg,13.jpg,True,0.978874883286648,1,0.0,0.9311036789297659,0.021125116713352043,"['Fruit area too large: 97.89% > 95.00%', 'Fruit touching border: 93.11% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/204.jpg,204.jpg,True,0.8908596157629008,1,0.0,0.7934844192634561,0.10914038423709915,['Fruit touching border: 79.35% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/415.jpg,415.jpg,True,0.9347872340425532,1,0.0,0.9021686746987951,0.06521276595744685,['Fruit touching border: 90.22% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/367.jpg,367.jpg,True,0.7626699426699427,1,0.0,0.673009708737864,0.2373300573300573,['Fruit touching border: 67.30% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/407.jpg,407.jpg,True,0.9152324241260085,1,0.0,0.6633027522935779,0.08476757587399153,['Fruit touching border: 66.33% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/38.jpg,38.jpg,True,0.4645198790978842,1,0.0,0.0,0.5354801209021158,[],True,public
+/home/jeswin/data_augmentation/bread fruit/408.jpg,408.jpg,True,0.9903009259259259,1,0.0,0.9761904761904762,0.00969907407407411,"['Fruit area too large: 99.03% > 95.00%', 'Fruit touching border: 97.62% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/123.jpg,123.jpg,True,0.9158411539798401,1,0.0,0.6763934426229509,0.08415884602015988,['Fruit touching border: 67.64% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/460.jpg,460.jpg,True,0.6628759698161335,1,0.0,0.44103092783505154,0.3371240301838665,['Fruit touching border: 44.10% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/295.jpg,295.jpg,True,0.9508200354609929,1,0.0,0.7649350649350649,0.04917996453900708,"['Fruit area too large: 95.08% > 95.00%', 'Fruit touching border: 76.49% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/417.jpg,417.jpg,True,0.7896099290780142,1,0.0,0.6074698795180723,0.2103900709219858,['Fruit touching border: 60.75% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/240.jpg,240.jpg,True,0.9663841342988808,1,0.0,0.9246875,0.033615865701119185,"['Fruit area too large: 96.64% > 95.00%', 'Fruit touching border: 92.47% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/62.jpg,62.jpg,True,0.9555064900307775,1,0.0,0.911614730878187,0.04449350996922252,"['Fruit area too large: 95.55% > 95.00%', 'Fruit touching border: 91.16% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/394.jpg,394.jpg,True,0.8537610619469026,1,0.0,0.5554187192118226,0.1462389380530974,['Fruit touching border: 55.54% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/377.jpg,377.jpg,True,0.91,1,0.0,0.8535555555555555,0.08999999999999997,['Fruit touching border: 85.36% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/75.jpg,75.jpg,True,0.9706168831168831,1,0.0,0.892933618843683,0.0293831168831169,"['Fruit area too large: 97.06% > 95.00%', 'Fruit touching border: 89.29% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/362.jpg,362.jpg,True,0.8546504369538077,1,0.0,0.6718346253229974,0.1453495630461923,['Fruit touching border: 67.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/440.jpg,440.jpg,True,0.8641496465043205,1,0.0,0.5816593886462882,0.13585035349567953,['Fruit touching border: 58.17% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/496.jpg,496.jpg,True,0.7555527521466103,1,0.0,0.5072549019607843,0.24444724785338967,['Fruit touching border: 50.73% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/91.jpg,91.jpg,True,0.888416477702192,1,0.0,0.6428134556574924,0.11158352229780799,['Fruit touching border: 64.28% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/342.jpg,342.jpg,True,0.9075228894816524,1,0.0,0.6875370919881305,0.09247711051834762,['Fruit touching border: 68.75% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/29.jpg,29.jpg,True,0.980525,1,0.0,0.9426666666666667,0.01947500000000002,"['Fruit area too large: 98.05% > 95.00%', 'Fruit touching border: 94.27% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/32.jpg,32.jpg,True,0.8658396946564886,1,0.0,0.6086816720257234,0.13416030534351142,['Fruit touching border: 60.87% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/264.jpg,264.jpg,True,0.8510902417962003,1,0.0,0.8519287833827893,0.1489097582037997,['Fruit touching border: 85.19% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/427.jpg,427.jpg,True,0.9890874490797181,1,0.0,0.9728260869565217,0.010912550920281872,"['Fruit area too large: 98.91% > 95.00%', 'Fruit touching border: 97.28% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/96.jpg,96.jpg,True,0.8074860665428137,1,0.0,0.4856492027334852,0.19251393345718626,['Fruit touching border: 48.56% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/454.jpg,454.jpg,True,0.8254480286738352,1,0.0,0.7037783375314861,0.17455197132616485,['Fruit touching border: 70.38% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/90.jpg,90.jpg,True,0.9869097222222222,1,0.0,0.9492857142857143,0.013090277777777826,"['Fruit area too large: 98.69% > 95.00%', 'Fruit touching border: 94.93% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/142.jpg,142.jpg,True,0.9784173976608187,1,0.0,0.9192771084337349,0.0215826023391813,"['Fruit area too large: 97.84% > 95.00%', 'Fruit touching border: 91.93% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/205.jpg,205.jpg,True,0.78905,2,0.04,0.7266666666666667,0.21094999999999997,['Fruit touching border: 72.67% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/212.jpg,212.jpg,True,0.9763888888888889,1,0.0,0.9191666666666667,0.023611111111111138,"['Fruit area too large: 97.64% > 95.00%', 'Fruit touching border: 91.92% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/86.jpg,86.jpg,True,0.9175541462247218,1,0.0,0.6615625,0.08244585377527824,['Fruit touching border: 66.16% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/462.jpg,462.jpg,True,0.6841880341880342,1,0.0,0.4435483870967742,0.3158119658119658,['Fruit touching border: 44.35% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/290.jpg,290.jpg,True,0.9839325842696629,1,0.0,0.9400428265524625,0.016067415730337098,"['Fruit area too large: 98.39% > 95.00%', 'Fruit touching border: 94.00% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/30.jpg,30.jpg,True,0.9313,1,0.0,0.8136666666666666,0.06869999999999998,['Fruit touching border: 81.37% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/168.jpg,168.jpg,True,0.9871675943104514,1,0.0,0.9620991253644315,0.012832405689548576,"['Fruit area too large: 98.72% > 95.00%', 'Fruit touching border: 96.21% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/403.jpg,403.jpg,True,0.8715828924162258,1,0.0,0.6053240740740741,0.12841710758377423,['Fruit touching border: 60.53% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/443.jpg,443.jpg,True,0.3689188672755761,2,0.04012687736461956,0.08902439024390243,0.6310811327244239,[],True,public
+/home/jeswin/data_augmentation/bread fruit/18.jpg,18.jpg,True,0.973696682464455,1,0.0,0.9125319693094629,0.026303317535545045,"['Fruit area too large: 97.37% > 95.00%', 'Fruit touching border: 91.25% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/114.jpg,114.jpg,True,0.7445138888888889,1,0.0,0.46125,0.2554861111111111,['Fruit touching border: 46.12% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/473.jpg,473.jpg,True,0.9933979719338716,1,0.0,0.9622549019607843,0.006602028066128418,"['Fruit area too large: 99.34% > 95.00%', 'Fruit touching border: 96.23% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/459.jpg,459.jpg,True,0.9848947815920926,1,0.0,0.9481958762886598,0.01510521840790735,"['Fruit area too large: 98.49% > 95.00%', 'Fruit touching border: 94.82% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/125.jpg,125.jpg,True,0.8584932742782152,1,0.0,0.5984326018808778,0.1415067257217848,['Fruit touching border: 59.84% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/162.jpg,162.jpg,True,0.9852157943067034,1,0.0,0.9604651162790697,0.014784205693296637,"['Fruit area too large: 98.52% > 95.00%', 'Fruit touching border: 96.05% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/448.jpg,448.jpg,True,0.8019786910197869,1,0.0,0.6293233082706767,0.19802130898021308,['Fruit touching border: 62.93% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/392.jpg,392.jpg,True,0.8646017699115044,1,0.0,0.6559726962457337,0.1353982300884956,['Fruit touching border: 65.60% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/93.jpg,93.jpg,True,0.8905333333333333,1,0.0,0.7337704918032787,0.10946666666666671,['Fruit touching border: 73.38% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/83.jpg,83.jpg,True,0.8658662900188324,1,0.0,0.5819711538461538,0.13413370998116758,['Fruit touching border: 58.20% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/499.jpg,499.jpg,True,0.9840691358024691,1,0.0,0.9482222222222222,0.01593086419753087,"['Fruit area too large: 98.41% > 95.00%', 'Fruit touching border: 94.82% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/76.jpg,76.jpg,True,0.9674105924105925,1,0.0,0.8803468208092485,0.03258940758940754,"['Fruit area too large: 96.74% > 95.00%', 'Fruit touching border: 88.03% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/222.jpg,222.jpg,True,0.805179811643213,1,0.0,0.47674418604651164,0.19482018835678705,['Fruit touching border: 47.67% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/328.jpg,328.jpg,True,0.9887835403432256,1,0.0,0.9609913793103448,0.011216459656774425,"['Fruit area too large: 98.88% > 95.00%', 'Fruit touching border: 96.10% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/207.jpg,207.jpg,True,0.6035482374768089,1,0.0,0.24643962848297213,0.39645176252319114,['Fruit touching border: 24.64% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/115.jpg,115.jpg,True,0.8584722222222222,1,0.0,0.67875,0.1415277777777778,['Fruit touching border: 67.88% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/68.jpg,68.jpg,True,0.8064646464646464,1,0.0,0.3591304347826087,0.19353535353535356,['Fruit touching border: 35.91% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/495.jpg,495.jpg,True,0.9691945405613226,1,0.0,0.8863725490196078,0.030805459438677407,"['Fruit area too large: 96.92% > 95.00%', 'Fruit touching border: 88.64% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/391.jpg,391.jpg,True,0.9435672514619883,1,0.0,0.757482993197279,0.05643274853801172,['Fruit touching border: 75.75% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/188.jpg,188.jpg,True,0.976475,1,0.0,0.943,0.023525000000000018,"['Fruit area too large: 97.65% > 95.00%', 'Fruit touching border: 94.30% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/262.jpg,262.jpg,True,0.8959728716458149,1,0.0,0.6917721518987342,0.10402712835418515,['Fruit touching border: 69.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/152.jpg,152.jpg,True,0.974941487737865,1,0.0,0.9512922465208747,0.025058512262134958,"['Fruit area too large: 97.49% > 95.00%', 'Fruit touching border: 95.13% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/345.jpg,345.jpg,True,0.4399356584046209,1,0.0,0.018507462686567163,0.5600643415953791,[],True,public
+/home/jeswin/data_augmentation/bread fruit/464.jpg,464.jpg,True,0.5752935569652697,1,0.0,0.3715686274509804,0.42470644303473026,['Fruit touching border: 37.16% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/118.jpg,118.jpg,True,0.8933514001806685,1,0.0,0.6768421052631579,0.1066485998193315,['Fruit touching border: 67.68% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/465.jpg,465.jpg,True,0.6021906824745402,1,0.0,0.32939330543933054,0.3978093175254598,['Fruit touching border: 32.94% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/110.jpg,110.jpg,True,0.3723359878649981,2,0.0,0.13932346723044398,0.6276640121350019,['Fruit touching border: 13.93% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/82.jpg,82.jpg,True,0.9836415707975341,1,0.0,0.9363636363636364,0.016358429202465885,"['Fruit area too large: 98.36% > 95.00%', 'Fruit touching border: 93.64% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/322.jpg,322.jpg,True,0.5793119878025539,1,0.0,0.2809935205183585,0.4206880121974461,['Fruit touching border: 28.10% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/190.jpg,190.jpg,True,0.9381944444444444,1,0.0,0.8470779220779221,0.06180555555555556,['Fruit touching border: 84.71% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/334.jpg,334.jpg,True,0.9799392097264438,1,0.0,0.957520325203252,0.020060790273556228,"['Fruit area too large: 97.99% > 95.00%', 'Fruit touching border: 95.75% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/73.jpg,73.jpg,True,0.828170359052712,1,0.0,0.6434250764525994,0.17182964094728803,['Fruit touching border: 64.34% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/273.jpg,273.jpg,True,0.831015037593985,1,0.0,0.660702875399361,0.16898496240601502,['Fruit touching border: 66.07% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/285.jpg,285.jpg,True,0.7313805970149254,1,0.0,0.5553418803418804,0.2686194029850746,['Fruit touching border: 55.53% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/238.jpg,238.jpg,True,0.9190210459183673,1,0.0,0.7087078651685393,0.08097895408163269,['Fruit touching border: 70.87% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/471.jpg,471.jpg,True,0.9725450342738722,1,0.0,0.9256360078277887,0.027454965726127822,"['Fruit area too large: 97.25% > 95.00%', 'Fruit touching border: 92.56% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/122.jpg,122.jpg,True,0.8911581364829396,1,0.0,0.7047021943573668,0.10884186351706038,['Fruit touching border: 70.47% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/272.jpg,272.jpg,True,0.9548699015471167,1,0.0,0.9139112903225807,0.045130098452883294,"['Fruit area too large: 95.49% > 95.00%', 'Fruit touching border: 91.39% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/346.jpg,346.jpg,True,0.6653398578245204,2,0.0,0.2241150442477876,0.33466014217547957,['Fruit touching border: 22.41% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/317.jpg,317.jpg,True,0.7608636855391273,1,0.0,0.6725490196078432,0.2391363144608727,['Fruit touching border: 67.25% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/150.jpg,150.jpg,True,0.9892762169036883,1,0.0,0.9731182795698925,0.010723783096311723,"['Fruit area too large: 98.93% > 95.00%', 'Fruit touching border: 97.31% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/211.jpg,211.jpg,True,0.8444097222222222,1,0.0,0.7554166666666666,0.15559027777777779,['Fruit touching border: 75.54% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/350.jpg,350.jpg,True,0.7150029708853238,1,0.0,0.15177111716621253,0.28499702911467617,['Fruit touching border: 15.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/229.jpg,229.jpg,True,0.6805531547104581,1,0.0,0.4253246753246753,0.3194468452895419,['Fruit touching border: 42.53% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/279.jpg,279.jpg,True,0.9003142335510147,1,0.0,0.6041322314049586,0.0996857664489853,['Fruit touching border: 60.41% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/221.jpg,221.jpg,True,0.9451519354431975,1,0.0,0.8661111111111112,0.05484806455680247,['Fruit touching border: 86.61% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/286.jpg,286.jpg,True,0.7019301470588235,1,0.0,0.4326271186440678,0.2980698529411765,['Fruit touching border: 43.26% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/480.jpg,480.jpg,True,0.8253907884993078,1,0.0,0.5568762278978389,0.1746092115006922,['Fruit touching border: 55.69% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/353.jpg,353.jpg,True,0.9839089481946625,1,0.0,0.9505494505494505,0.016091051805337542,"['Fruit area too large: 98.39% > 95.00%', 'Fruit touching border: 95.05% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/341.jpg,341.jpg,True,0.8678409440344403,1,0.0,0.6032397408207344,0.13215905596555966,['Fruit touching border: 60.32% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/40.jpg,40.jpg,True,0.4957594577448329,1,0.0,0.11057142857142857,0.5042405422551671,['Fruit touching border: 11.06% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/104.jpg,104.jpg,True,0.8302173913043478,1,0.0,0.6118236472945892,0.1697826086956522,['Fruit touching border: 61.18% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/435.jpg,435.jpg,True,0.8256712962962963,1,0.0,0.48,0.17432870370370368,['Fruit touching border: 48.00% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/281.jpg,281.jpg,True,0.9421513343387319,1,0.0,0.8192634560906515,0.05784866566126812,['Fruit touching border: 81.93% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/463.jpg,463.jpg,True,0.9740619704671992,1,0.0,0.8953785644051131,0.025938029532800777,"['Fruit area too large: 97.41% > 95.00%', 'Fruit touching border: 89.54% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/173.jpg,173.jpg,True,0.9891828336272781,1,0.0,0.9728997289972899,0.010817166372721898,"['Fruit area too large: 98.92% > 95.00%', 'Fruit touching border: 97.29% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/167.jpg,167.jpg,True,0.9902578315276728,1,0.0,0.972562358276644,0.009742168472327228,"['Fruit area too large: 99.03% > 95.00%', 'Fruit touching border: 97.26% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/302.jpg,302.jpg,True,0.9212834362139918,1,0.0,0.8136363636363636,0.07871656378600822,['Fruit touching border: 81.36% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/192.jpg,192.jpg,True,0.9868923611111111,1,0.0,0.9518348623853211,0.013107638888888884,"['Fruit area too large: 98.69% > 95.00%', 'Fruit touching border: 95.18% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/256.jpg,256.jpg,True,0.9865125240847784,1,0.0,0.9668874172185431,0.013487475915221592,"['Fruit area too large: 98.65% > 95.00%', 'Fruit touching border: 96.69% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/378.jpg,378.jpg,True,0.8159661835748793,1,0.0,0.6522033898305085,0.18403381642512073,['Fruit touching border: 65.22% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/203.jpg,203.jpg,True,0.8974841660802252,1,0.0,0.6639296187683285,0.10251583391977481,['Fruit touching border: 66.39% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/491.jpg,491.jpg,True,0.827076836544349,2,0.05098466401811269,0.6443510737628385,0.17292316345565095,['Fruit touching border: 64.44% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/206.jpg,206.jpg,True,0.9881865284974093,1,0.0,0.9708454810495627,0.011813471502590711,"['Fruit area too large: 98.82% > 95.00%', 'Fruit touching border: 97.08% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/130.jpg,130.jpg,True,0.876751012145749,1,0.0,0.5373333333333333,0.12324898785425098,['Fruit touching border: 53.73% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/444.jpg,444.jpg,True,0.9903181189488244,1,0.0,0.9762470308788599,0.009681881051175623,"['Fruit area too large: 99.03% > 95.00%', 'Fruit touching border: 97.62% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/14.jpg,14.jpg,True,0.9646433470507545,1,0.0,0.9331349206349207,0.035356652949245504,"['Fruit area too large: 96.46% > 95.00%', 'Fruit touching border: 93.31% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/457.jpg,457.jpg,True,0.6252011553538271,1,0.0,0.3832214765100671,0.37479884464617286,['Fruit touching border: 38.32% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/449.jpg,449.jpg,True,0.7157746160794941,1,0.0,0.4704225352112676,0.2842253839205059,['Fruit touching border: 47.04% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/24.jpg,24.jpg,True,0.94045,1,0.0,0.845,0.05954999999999999,['Fruit touching border: 84.50% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/288.jpg,288.jpg,True,0.732675,1,0.0,0.379,0.26732500000000003,['Fruit touching border: 37.90% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/9.jpg,9.jpg,True,0.9480869172252768,1,0.0,0.8686930091185411,0.051913082774723174,['Fruit touching border: 86.87% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/149.jpg,149.jpg,True,0.9497810440513355,1,0.0,0.876036866359447,0.050218955948664545,['Fruit touching border: 87.60% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/497.jpg,497.jpg,True,0.9312983918999405,1,0.0,0.7817371937639198,0.06870160810005954,['Fruit touching border: 78.17% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/236.jpg,236.jpg,True,0.8897684010152285,1,0.0,0.6560224089635854,0.11023159898477153,['Fruit touching border: 65.60% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/398.jpg,398.jpg,True,0.8254244520301832,1,0.0,0.6647887323943662,0.17457554796981678,['Fruit touching border: 66.48% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/53.jpg,53.jpg,True,0.9831160241874528,1,0.0,0.9124472573839663,0.01688397581254719,"['Fruit area too large: 98.31% > 95.00%', 'Fruit touching border: 91.24% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/35.jpg,35.jpg,True,0.8686443236714976,1,0.0,0.5719780219780219,0.13135567632850242,['Fruit touching border: 57.20% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/354.jpg,354.jpg,True,0.7425662572721397,1,0.0,0.6920454545454545,0.25743374272786035,['Fruit touching border: 69.20% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/189.jpg,189.jpg,True,0.98505,1,0.0,0.9666666666666667,0.014950000000000019,"['Fruit area too large: 98.50% > 95.00%', 'Fruit touching border: 96.67% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/259.jpg,259.jpg,True,0.9909139822271591,1,0.0,0.971958762886598,0.009086017772840904,"['Fruit area too large: 99.09% > 95.00%', 'Fruit touching border: 97.20% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/227.jpg,227.jpg,True,0.9075160256410256,1,0.0,0.6723943661971831,0.09248397435897437,['Fruit touching border: 67.24% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/234.jpg,234.jpg,True,0.9716174083331186,1,0.0,0.9015228426395939,0.028382591666881396,"['Fruit area too large: 97.16% > 95.00%', 'Fruit touching border: 90.15% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/336.jpg,336.jpg,True,0.9398189767898006,1,0.0,0.9157777777777778,0.06018102321019936,['Fruit touching border: 91.58% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/379.jpg,379.jpg,True,0.4060119535919372,1,0.0,0.09115281501340483,0.5939880464080628,[],True,public
+/home/jeswin/data_augmentation/bread fruit/3.jpg,3.jpg,True,0.9905446623093682,1,0.0,0.9770114942528736,0.009455337690631782,"['Fruit area too large: 99.05% > 95.00%', 'Fruit touching border: 97.70% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/397.jpg,397.jpg,True,0.9909876446668752,1,0.0,0.9783549783549783,0.009012355333124833,"['Fruit area too large: 99.10% > 95.00%', 'Fruit touching border: 97.84% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/271.jpg,271.jpg,True,0.7103074521107308,1,0.0,0.4191780821917808,0.28969254788926924,['Fruit touching border: 41.92% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/251.jpg,251.jpg,True,0.975811209439528,1,0.0,0.9247340425531915,0.024188790560471962,"['Fruit area too large: 97.58% > 95.00%', 'Fruit touching border: 92.47% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/158.jpg,158.jpg,True,0.989964964964965,1,0.0,0.9751243781094527,0.010035035035035,"['Fruit area too large: 99.00% > 95.00%', 'Fruit touching border: 97.51% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/179.jpg,179.jpg,True,0.9779411764705882,1,0.0,0.9293051359516616,0.022058823529411797,"['Fruit area too large: 97.79% > 95.00%', 'Fruit touching border: 92.93% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/186.jpg,186.jpg,True,0.680525,1,0.0,0.394,0.31947499999999995,['Fruit touching border: 39.40% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/330.jpg,330.jpg,True,0.9865079365079366,1,0.0,0.9625,0.013492063492063444,"['Fruit area too large: 98.65% > 95.00%', 'Fruit touching border: 96.25% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/399.jpg,399.jpg,True,0.9004780361757105,1,0.0,0.6675949367088607,0.09952196382428946,['Fruit touching border: 66.76% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/101.jpg,101.jpg,True,0.7974874371859296,1,0.0,0.725065963060686,0.20251256281407037,['Fruit touching border: 72.51% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/49.jpg,49.jpg,True,0.9868086696562033,1,0.0,0.9416873449131513,0.013191330343796714,"['Fruit area too large: 98.68% > 95.00%', 'Fruit touching border: 94.17% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/78.jpg,78.jpg,True,0.9911949685534591,1,0.0,0.978401727861771,0.008805031446540879,"['Fruit area too large: 99.12% > 95.00%', 'Fruit touching border: 97.84% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/498.jpg,498.jpg,True,0.7041434817170111,1,0.0,0.6206967213114755,0.29585651828298887,['Fruit touching border: 62.07% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/55.jpg,55.jpg,True,0.4997625830959164,1,0.0,0.37407407407407406,0.5002374169040835,['Fruit touching border: 37.41% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/31.jpg,31.jpg,True,0.7343364197530864,1,0.0,0.34305555555555556,0.2656635802469136,['Fruit touching border: 34.31% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/139.jpg,139.jpg,True,0.3816255144032922,1,0.0,0.0,0.6183744855967078,[],True,public
+/home/jeswin/data_augmentation/bread fruit/11.jpg,11.jpg,True,0.9717489711934156,1,0.0,0.8875555555555555,0.028251028806584366,"['Fruit area too large: 97.17% > 95.00%', 'Fruit touching border: 88.76% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/57.jpg,57.jpg,True,0.9706459435626102,1,0.0,0.912962962962963,0.029354056437389753,"['Fruit area too large: 97.06% > 95.00%', 'Fruit touching border: 91.30% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/34.jpg,34.jpg,True,0.7931397306397306,1,0.0,0.6025641025641025,0.20686026936026936,['Fruit touching border: 60.26% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/135.jpg,135.jpg,True,0.2884079236977256,2,0.0,0.004204204204204204,0.7115920763022744,[],True,public
+/home/jeswin/data_augmentation/bread fruit/33.jpg,33.jpg,True,0.9576566951566952,1,0.0,0.8502415458937198,0.04234330484330484,"['Fruit area too large: 95.77% > 95.00%', 'Fruit touching border: 85.02% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/300.jpg,300.jpg,True,0.4201887293992557,1,0.0,0.016195372750642673,0.5798112706007443,[],True,public
+/home/jeswin/data_augmentation/bread fruit/437.jpg,437.jpg,True,0.9138145444714788,1,0.0,0.6981617647058823,0.0861854555285212,['Fruit touching border: 69.82% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/318.jpg,318.jpg,True,0.9912860358724856,1,0.0,0.9792099792099792,0.008713964127514351,"['Fruit area too large: 99.13% > 95.00%', 'Fruit touching border: 97.92% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/293.jpg,293.jpg,True,0.8040307813044995,1,0.0,0.47314814814814815,0.19596921869550055,['Fruit touching border: 47.31% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/309.jpg,309.jpg,True,0.9848090277777778,1,0.0,0.9577922077922078,0.01519097222222221,"['Fruit area too large: 98.48% > 95.00%', 'Fruit touching border: 95.78% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/364.jpg,364.jpg,True,0.9858644859813084,1,0.0,0.9639455782312926,0.01413551401869162,"['Fruit area too large: 98.59% > 95.00%', 'Fruit touching border: 96.39% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/89.jpg,89.jpg,True,0.9310852401980463,1,0.0,0.7645892351274788,0.06891475980195372,['Fruit touching border: 76.46% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/494.jpg,494.jpg,True,0.9129421376393695,1,0.0,0.8,0.08705786236063051,['Fruit touching border: 80.00% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/172.jpg,172.jpg,True,0.9496497158534195,1,0.0,0.817037037037037,0.05035028414658049,['Fruit touching border: 81.70% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/268.jpg,268.jpg,True,0.9904506916555109,1,0.0,0.9766899766899767,0.009549308344489083,"['Fruit area too large: 99.05% > 95.00%', 'Fruit touching border: 97.67% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/195.jpg,195.jpg,True,0.8955002513826044,1,0.0,0.6638403990024938,0.10449974861739564,['Fruit touching border: 66.38% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/51.jpg,51.jpg,True,0.9888618381010347,1,0.0,0.9727520435967303,0.011138161898965326,"['Fruit area too large: 98.89% > 95.00%', 'Fruit touching border: 97.28% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/155.jpg,155.jpg,True,0.9898758648758649,1,0.0,0.9732484076433121,0.010124135124135125,"['Fruit area too large: 98.99% > 95.00%', 'Fruit touching border: 97.32% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/131.jpg,131.jpg,True,0.975775623268698,1,0.0,0.9089473684210526,0.024224376731301955,"['Fruit area too large: 97.58% > 95.00%', 'Fruit touching border: 90.89% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/244.jpg,244.jpg,True,0.9206896551724137,1,0.0,0.712,0.07931034482758625,['Fruit touching border: 71.20% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/2.jpg,2.jpg,True,0.8883333333333333,1,0.0,0.7066666666666667,0.11166666666666669,['Fruit touching border: 70.67% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/102.jpg,102.jpg,True,0.9431884057971015,1,0.0,0.7559322033898305,0.0568115942028985,['Fruit touching border: 75.59% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/461.jpg,461.jpg,True,0.9325786769428388,1,0.0,0.7660056657223796,0.0674213230571612,['Fruit touching border: 76.60% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/81.jpg,81.jpg,True,0.9628474846728815,1,0.0,0.9276643990929705,0.037152515327118496,"['Fruit area too large: 96.28% > 95.00%', 'Fruit touching border: 92.77% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/479.jpg,479.jpg,True,0.9948310610075316,1,0.0,0.9777232580961727,0.005168938992468397,"['Fruit area too large: 99.48% > 95.00%', 'Fruit touching border: 97.77% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/61.jpg,61.jpg,True,0.9622222222222222,1,0.0,0.889,0.0377777777777778,"['Fruit area too large: 96.22% > 95.00%', 'Fruit touching border: 88.90% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/303.jpg,303.jpg,True,0.8285625774473359,1,0.0,0.609576837416481,0.17143742255266414,['Fruit touching border: 60.96% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/137.jpg,137.jpg,True,0.3670855563411969,2,0.0,0.023506743737957612,0.6329144436588031,[],True,public
+/home/jeswin/data_augmentation/bread fruit/154.jpg,154.jpg,True,0.8349965189139011,1,0.0,0.6981538461538461,0.16500348108609886,['Fruit touching border: 69.82% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/160.jpg,160.jpg,True,0.9151291989664083,1,0.0,0.7141772151898734,0.08487080103359168,['Fruit touching border: 71.42% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/12.jpg,12.jpg,True,0.9870781893004115,1,0.0,0.9682539682539683,0.012921810699588532,"['Fruit area too large: 98.71% > 95.00%', 'Fruit touching border: 96.83% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/214.jpg,214.jpg,True,0.689375,1,0.0,0.6045833333333334,0.31062500000000004,['Fruit touching border: 60.46% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/347.jpg,347.jpg,True,0.4193832599118943,1,0.0,0.13292383292383292,0.5806167400881057,['Fruit touching border: 13.29% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/208.jpg,208.jpg,True,0.9110358447294657,1,0.0,0.6604118993135012,0.08896415527053425,['Fruit touching border: 66.04% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/257.jpg,257.jpg,True,0.288189448441247,2,0.0,0.02037617554858934,0.711810551558753,[],True,public
+/home/jeswin/data_augmentation/bread fruit/431.jpg,431.jpg,True,0.9789236111111111,1,0.0,0.9325,0.021076388888888853,"['Fruit area too large: 97.89% > 95.00%', 'Fruit touching border: 93.25% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/450.jpg,450.jpg,True,0.6806178375685102,1,0.0,0.486848635235732,0.31938216243148976,['Fruit touching border: 48.68% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/201.jpg,201.jpg,True,0.9905138339920949,1,0.0,0.976905311778291,0.009486166007905084,"['Fruit area too large: 99.05% > 95.00%', 'Fruit touching border: 97.69% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/151.jpg,151.jpg,True,0.8798195084485407,1,0.0,0.6911042944785276,0.12018049155145927,['Fruit touching border: 69.11% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/366.jpg,366.jpg,True,0.4151409473990119,1,0.0,0.0,0.584859052600988,[],True,public
+/home/jeswin/data_augmentation/bread fruit/54.jpg,54.jpg,True,0.8156012176560121,1,0.0,0.7609022556390977,0.18439878234398788,['Fruit touching border: 76.09% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/72.jpg,72.jpg,True,0.926265838030544,1,0.0,0.8007692307692308,0.07373416196945604,['Fruit touching border: 80.08% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/193.jpg,193.jpg,True,0.9517903645833333,1,0.0,0.9038990825688074,0.048209635416666674,"['Fruit area too large: 95.18% > 95.00%', 'Fruit touching border: 90.39% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/396.jpg,396.jpg,True,0.8569156293222683,1,0.0,0.6377672209026128,0.14308437067773172,['Fruit touching border: 63.78% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/20.jpg,20.jpg,True,0.7263331174438687,1,0.0,0.37922077922077924,0.27366688255613125,['Fruit touching border: 37.92% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/383.jpg,383.jpg,True,0.9043027828191168,1,0.0,0.6302663438256658,0.0956972171808832,['Fruit touching border: 63.03% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/126.jpg,126.jpg,True,0.8921845574387948,1,0.0,0.6560975609756098,0.10781544256120523,['Fruit touching border: 65.61% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/107.jpg,107.jpg,True,0.9389655172413793,1,0.0,0.9159183673469388,0.06103448275862067,['Fruit touching border: 91.59% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/332.jpg,332.jpg,True,0.9910693102863921,1,0.0,0.974745417515275,0.008930689713607887,"['Fruit area too large: 99.11% > 95.00%', 'Fruit touching border: 97.47% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/16.jpg,16.jpg,True,0.9795111111111111,1,0.0,0.9324590163934426,0.02048888888888889,"['Fruit area too large: 97.95% > 95.00%', 'Fruit touching border: 93.25% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/92.jpg,92.jpg,True,0.8807395143487858,1,0.0,0.6398791540785499,0.11926048565121417,['Fruit touching border: 63.99% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/333.jpg,333.jpg,True,0.9608072225172597,1,0.0,0.88580375782881,0.039192777482740304,"['Fruit area too large: 96.08% > 95.00%', 'Fruit touching border: 88.58% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/492.jpg,492.jpg,True,0.38089717095988723,1,0.0,0.0,0.6191028290401128,[],True,public
+/home/jeswin/data_augmentation/bread fruit/323.jpg,323.jpg,True,0.9457494407158836,1,0.0,0.8592741935483871,0.05425055928411637,['Fruit touching border: 85.93% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/255.jpg,255.jpg,True,0.39668174962292607,1,0.0,0.008728179551122194,0.603318250377074,[],True,public
+/home/jeswin/data_augmentation/bread fruit/439.jpg,439.jpg,True,0.7204340141398272,1,0.0,0.3351528384279476,0.2795659858601728,['Fruit touching border: 33.52% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/67.jpg,67.jpg,True,0.9890411786016181,1,0.0,0.9725274725274725,0.01095882139838189,"['Fruit area too large: 98.90% > 95.00%', 'Fruit touching border: 97.25% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/470.jpg,470.jpg,True,0.6575320033605309,1,0.0,0.24173669467787115,0.34246799663946914,['Fruit touching border: 24.17% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/297.jpg,297.jpg,True,0.9801856404170551,1,0.0,0.8840546697038725,0.019814359582944863,"['Fruit area too large: 98.02% > 95.00%', 'Fruit touching border: 88.41% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/43.jpg,43.jpg,True,0.9005281690140845,1,0.0,0.6481366459627329,0.0994718309859155,['Fruit touching border: 64.81% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/312.jpg,312.jpg,True,0.8783637152777778,1,0.0,0.7087662337662337,0.12163628472222221,['Fruit touching border: 70.88% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/402.jpg,402.jpg,True,0.9870232172470979,1,0.0,0.9681528662420382,0.01297678275290215,"['Fruit area too large: 98.70% > 95.00%', 'Fruit touching border: 96.82% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/337.jpg,337.jpg,True,0.34561191626409016,2,0.0,0.02716535433070866,0.6543880837359098,[],True,public
+/home/jeswin/data_augmentation/bread fruit/324.jpg,324.jpg,True,0.7538888888888889,1,0.0,0.42075,0.24611111111111106,['Fruit touching border: 42.08% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/326.jpg,326.jpg,True,0.9903520804755372,1,0.0,0.9763593380614657,0.009647919524462756,"['Fruit area too large: 99.04% > 95.00%', 'Fruit touching border: 97.64% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/6.jpg,6.jpg,True,0.6067013888888889,1,0.0,0.38916666666666666,0.3932986111111111,['Fruit touching border: 38.92% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/445.jpg,445.jpg,True,0.853562091503268,1,0.0,0.5050574712643678,0.146437908496732,['Fruit touching border: 50.51% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/10.jpg,10.jpg,True,0.9261935732523968,1,0.0,0.7805769230769231,0.07380642674760318,['Fruit touching border: 78.06% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/219.jpg,219.jpg,True,0.8430128205128206,1,0.0,0.6838709677419355,0.15698717948717944,['Fruit touching border: 68.39% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/307.jpg,307.jpg,True,0.87857317670093,1,0.0,0.683046683046683,0.12142682329906995,['Fruit touching border: 68.30% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/71.jpg,71.jpg,True,0.9814627569935962,1,0.0,0.9410344827586207,0.018537243006403803,"['Fruit area too large: 98.15% > 95.00%', 'Fruit touching border: 94.10% > 10.00%']",False,public
+/home/jeswin/data_augmentation/bread fruit/59.jpg,59.jpg,True,0.9295486111111111,1,0.0,0.8016666666666666,0.07045138888888891,['Fruit touching border: 80.17% > 10.00%'],False,public
+/home/jeswin/data_augmentation/bread fruit/329.jpg,329.jpg,True,0.9335334821070207,1,0.0,0.8392578125,0.0664665178929793,['Fruit touching border: 83.93% > 10.00%'],False,public

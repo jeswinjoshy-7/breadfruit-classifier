@@ -1,0 +1,5 @@
+image1,image2,phash_distance,dhash_distance,ahash_distance,whash_distance,colorhash_distance,consensus_votes,method
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg,/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg,2,4,1,0,0,5,consensus
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.37.jpeg,/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38.jpeg,6,4,5,6,0,5,consensus
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.37.jpeg,/home/jeswin/data_augmentation/3dataset/04.jpeg,12,22,16,16,0,1,consensus
+/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg,/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40.jpeg,6,14,4,6,3,4,consensus

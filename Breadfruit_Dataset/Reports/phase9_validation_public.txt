@@ -1,0 +1,32 @@
+============================================================
+FINAL VALIDATION REPORT: Public_Clean
+============================================================
+
+Overall Status: FAILED
+Checks Passed:    6/8
+
+Detailed Checks:
+  ✓ PASS - no_corrupted_images
+      No corrupted images
+      corrupted_count: 0
+  ✗ FAIL - no_duplicate_images
+      Found 1104 duplicate images
+      duplicate_groups: 399
+      total_duplicates: 1104
+  ✓ PASS - consistent_image_sizes
+      All images are 224x224
+      size_distribution: {'224x224': 1503}
+      expected_size: 224x224
+  ✓ PASS - consistent_color_channels
+      All images have 3 channels (RGB)
+      channel_distribution: {3: 1503}
+  ✓ PASS - valid_jpeg_format
+      All images are JPEG format
+      invalid_count: 0
+  ✓ PASS - efficientnet_compatibility
+      All images compatible with EfficientNet
+      issue_count: 0
+  ✗ FAIL - valid_folder_structure
+      Missing directories: ['Personal_Clean', 'Public_Clean', 'Rejected', 'Reports', 'Logs']
+  ✓ PASS - file_integrity
+      All files intact

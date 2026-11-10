@@ -1,0 +1,15 @@
+IMAGE QUALITY REPORT
+========================================
+Total images: 518
+Good quality: 395
+Flagged for review: 123
+
+Issue breakdown:
+
+Quality metrics (all images):
+  Blur score mean: 4588.3
+  Sharpness mean: 114.7
+  Brightness mean: 111.7
+  Contrast mean: 57.3
+  Entropy mean: 7.46
+  Noise mean: 33.3

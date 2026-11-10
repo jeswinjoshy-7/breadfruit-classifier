@@ -1,0 +1,39 @@
+============================================================
+DATASET INSPECTION REPORT: Public Kaggle Dataset
+============================================================
+
+OVERVIEW:
+  Total files scanned:     501
+  Valid images:            501
+  Corrupted images:        0
+  Zero-byte files:         0
+  Unsupported formats:     0
+  Duplicate filenames:     0
+  Total size:              7.23 MB
+
+IMAGE STATISTICS:
+  Average resolution:      226 x 196
+  Average megapixels:      0.05 MP
+  Average file size:       14.8 KB
+
+ASPECT RATIO:
+  Min:                     0.61
+  Max:                     2.67
+  Mean:                    1.17
+  Median:                  1.24
+  Std:                     0.37
+
+FORMAT DISTRIBUTION:
+  .jpg: 501
+
+TOP 10 RESOLUTIONS:
+  120x120: 29
+  200x100: 16
+  115x180: 14
+  612x408: 12
+  240x180: 7
+  128x180: 5
+  223x180: 4
+  227x180: 4
+  130x180: 4
+  612x459: 4

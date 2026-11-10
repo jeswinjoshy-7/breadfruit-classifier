@@ -1,0 +1,31 @@
+BREADFRUIT DATASET - FINAL SUMMARY
+============================================================
+
+personal:
+  Clean images: 17
+  Failed: 0
+
+public:
+  Clean images: 501
+  Failed: 0
+
+personal - Quality rejected:
+  Flagged: 13
+  Blurry: 11
+  Dark: 0
+  Bright: 0
+
+public - Quality rejected:
+  Flagged: 110
+  Blurry: 1
+  Dark: 0
+  Bright: 2
+
+personal - Duplicates:
+  Groups: 3
+  Images to remove: 4
+
+public - Duplicates:
+  Groups: 98
+  Images to remove: 154
+

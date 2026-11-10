@@ -1,0 +1,10 @@
+OBJECT VALIDATION REPORT
+========================================
+Total images: 518
+Fruit detected: 518
+Validation passed: 31
+
+Warnings generated:
+  Fruit touching border: 486
+  Fruit area too large: 191
+  Background dominates: 2

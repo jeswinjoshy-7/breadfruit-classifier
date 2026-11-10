@@ -1,0 +1,136 @@
+{
+  "pipeline_info": {
+    "name": "Breadfruit (Artocarpus altilis) Data Augmentation Pipeline",
+    "description": "Comprehensive pipeline for EfficientNet-based breadfruit maturity and quality assessment",
+    "version": "1.0",
+    "framework": "OpenCV + NumPy",
+    "citation": "Based on IEEE conference agricultural computer vision research"
+  },
+  "augmentations": {
+    "training": {
+      "transformations": [
+        "RandomHorizontalFlip",
+        "RandomRotation",
+        "ColorJitter",
+        "RandomResizedCrop",
+        "RandomTranslation",
+        "RandomZoom",
+        "RandomShadow",
+        "ElasticTransform",
+        "GaussianBlur",
+        "GaussianNoise",
+        "GammaCorrection"
+      ],
+      "purpose": "Increase dataset diversity while preserving biological characteristics"
+    },
+    "validation": {
+      "transformations": [
+        "RandomHorizontalFlip",
+        "RandomRotation",
+        "ColorJitter",
+        "RandomTranslation"
+      ],
+      "purpose": "Light augmentation for evaluation stability"
+    },
+    "test": {
+      "transformations": [
+        "RandomHorizontalFlip",
+        "RandomRotation"
+      ],
+      "purpose": "Minimal changes for real-world performance assessment"
+    }
+  },
+  "preservation": {
+    "maturity_indicators": {
+      "skin_color": true,
+      "texture": true,
+      "surface_patterns": true
+    },
+    "quality_indicators": {
+      "bruises": true,
+      "insect_damage": true,
+      "fungal_spots": true,
+      "cracks": true,
+      "discoloration": true
+    }
+  },
+  "parameters": {
+    "training": {
+      "augmentations": [
+        "RandomHorizontalFlip",
+        "RandomRotation",
+        "ColorJitter",
+        "RandomResizedCrop",
+        "RandomTranslation",
+        "RandomZoom",
+        "RandomShadow",
+        "ElasticTransform",
+        "GaussianBlur",
+        "GaussianNoise",
+        "GammaCorrection"
+      ],
+      "probabilities": {
+        "RandomHorizontalFlip": 0.5,
+        "RandomRotation": 0.3,
+        "ColorJitter": 0.6,
+        "RandomResizedCrop": 0.8,
+        "RandomTranslation": 0.7,
+        "RandomZoom": 0.6,
+        "RandomShadow": 0.3,
+        "ElasticTransform": 0.15,
+        "GaussianBlur": 0.05,
+        "GaussianNoise": 0.05,
+        "GammaCorrection": 0.1
+      },
+      "parameters": {
+        "rotation_degrees": 15,
+        "brightness_limit": 0.2,
+        "contrast_limit": 0.2,
+        "saturation_limit": 0.15,
+        "zoom_scale": 0.1,
+        "crop_scale": 0.8,
+        "translation_pct": 0.1,
+        "blur_limit": [
+          1,
+          3
+        ],
+        "gamma_limit": [
+          0.8,
+          1.2
+        ],
+        "shadow_opacity_range": [
+          0.2,
+          0.4
+        ]
+      }
+    },
+    "validation": {
+      "augmentations": [
+        "RandomHorizontalFlip",
+        "RandomRotation",
+        "ColorJitter",
+        "RandomTranslation"
+      ],
+      "probabilities": {
+        "RandomHorizontalFlip": 0.5,
+        "RandomRotation": 0.3,
+        "ColorJitter": 0.6,
+        "RandomTranslation": 0.3
+      }
+    },
+    "test": {
+      "augmentations": [
+        "RandomHorizontalFlip",
+        "RandomRotation"
+      ],
+      "probabilities": {
+        "RandomHorizontalFlip": 0.2,
+        "RandomRotation": 0.2
+      }
+    }
+  },
+  "dataset_statistics": {
+    "total_augmented_images": 0,
+    "original_dataset_size": 80
+  }
+}

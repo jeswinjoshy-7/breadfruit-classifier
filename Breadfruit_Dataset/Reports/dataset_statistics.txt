@@ -1,0 +1,20 @@
+DATASET STATISTICS SUMMARY
+========================================
+Total images: 518
+Datasets: 2
+Formats: 2
+Corrupted: 0
+Zero byte: 0
+
+Format distribution:
+  .jpg: 504
+  .jpeg: 14
+
+Resolution stats:
+  Mean: 254 x 236
+  Min: 107 x 100
+  Max: 1201 x 1600
+
+Aspect ratio:
+  Mean: 1.16
+  Std: 0.37

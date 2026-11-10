@@ -1,0 +1,20 @@
+============================================================
+DUPLICATE DETECTION REPORT: personal
+============================================================
+
+Total images scanned:    17
+Duplicate groups found:  3
+Duplicate pairs found:   4
+Images flagged as dup:   4
+
+Groups:
+  Group 1: 2 images
+    - WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg
+    - WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg
+  Group 2: 3 images
+    - WhatsApp Image 2026-07-08 at 22.14.37.jpeg
+    - WhatsApp Image 2026-07-08 at 22.14.38.jpeg
+    - 04.jpeg
+  Group 3: 2 images
+    - WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg
+    - WhatsApp Image 2026-07-08 at 22.14.40.jpeg

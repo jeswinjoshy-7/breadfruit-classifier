@@ -1,0 +1,83 @@
+{
+  "dataset_name": "personal",
+  "total_images": 17,
+  "duplicate_pairs": 4,
+  "duplicate_groups": 3,
+  "images_flagged": 4,
+  "pairs": [
+    {
+      "image1": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg",
+      "image2": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg",
+      "phash_distance": 2,
+      "dhash_distance": 4,
+      "ahash_distance": 1,
+      "whash_distance": 0,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.37.jpeg",
+      "image2": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38.jpeg",
+      "phash_distance": 6,
+      "dhash_distance": 4,
+      "ahash_distance": 5,
+      "whash_distance": 6,
+      "colorhash_distance": 0,
+      "consensus_votes": 5,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.37.jpeg",
+      "image2": "/home/jeswin/data_augmentation/3dataset/04.jpeg",
+      "phash_distance": 12,
+      "dhash_distance": 22,
+      "ahash_distance": 16,
+      "whash_distance": 16,
+      "colorhash_distance": 0,
+      "consensus_votes": 1,
+      "method": "consensus"
+    },
+    {
+      "image1": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg",
+      "image2": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40.jpeg",
+      "phash_distance": 6,
+      "dhash_distance": 14,
+      "ahash_distance": 4,
+      "whash_distance": 6,
+      "colorhash_distance": 3,
+      "consensus_votes": 4,
+      "method": "consensus"
+    }
+  ],
+  "groups": [
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg",
+        "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg",
+      "method": "consensus",
+      "max_distance": 4
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.37.jpeg",
+        "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38.jpeg",
+        "/home/jeswin/data_augmentation/3dataset/04.jpeg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.37.jpeg",
+      "method": "consensus",
+      "max_distance": 22
+    },
+    {
+      "images": [
+        "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg",
+        "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40.jpeg"
+      ],
+      "representative": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg",
+      "method": "consensus",
+      "max_distance": 14
+    }
+  ]
+}

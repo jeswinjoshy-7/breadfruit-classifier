@@ -1,0 +1,89 @@
+{
+  "dataset_name": "Public_Clean",
+  "total_checks": 8,
+  "passed_checks": 6,
+  "failed_checks": 2,
+  "checks": [
+    {
+      "name": "no_corrupted_images",
+      "passed": true,
+      "message": "No corrupted images",
+      "details": {
+        "corrupted_count": 0,
+        "corrupted_files": []
+      }
+    },
+    {
+      "name": "no_duplicate_images",
+      "passed": false,
+      "message": "Found 1104 duplicate images",
+      "details": {
+        "duplicate_groups": 399,
+        "total_duplicates": 1104
+      }
+    },
+    {
+      "name": "consistent_image_sizes",
+      "passed": true,
+      "message": "All images are 224x224",
+      "details": {
+        "size_distribution": {
+          "224x224": 1503
+        },
+        "expected_size": "224x224"
+      }
+    },
+    {
+      "name": "consistent_color_channels",
+      "passed": true,
+      "message": "All images have 3 channels (RGB)",
+      "details": {
+        "channel_distribution": {
+          "3": 1503
+        }
+      }
+    },
+    {
+      "name": "valid_jpeg_format",
+      "passed": true,
+      "message": "All images are JPEG format",
+      "details": {
+        "invalid_count": 0,
+        "invalid_files": []
+      }
+    },
+    {
+      "name": "efficientnet_compatibility",
+      "passed": true,
+      "message": "All images compatible with EfficientNet",
+      "details": {
+        "issue_count": 0,
+        "issues": []
+      }
+    },
+    {
+      "name": "valid_folder_structure",
+      "passed": false,
+      "message": "Missing directories: ['Personal_Clean', 'Public_Clean', 'Rejected', 'Reports', 'Logs']",
+      "details": {
+        "missing_directories": [
+          "Personal_Clean",
+          "Public_Clean",
+          "Rejected",
+          "Reports",
+          "Logs"
+        ]
+      }
+    },
+    {
+      "name": "file_integrity",
+      "passed": true,
+      "message": "All files intact",
+      "details": {
+        "zero_byte_files": [],
+        "truncated_files": []
+      }
+    }
+  ],
+  "overall_passed": false
+}

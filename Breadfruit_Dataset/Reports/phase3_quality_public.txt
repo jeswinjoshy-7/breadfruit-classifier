@@ -1,0 +1,128 @@
+============================================================
+IMAGE QUALITY ANALYSIS REPORT: public
+============================================================
+
+Total images analyzed:     501
+Good quality images:       391
+Flagged for review:        110
+
+Issue breakdown:
+  Blurry:                  1
+  Too dark:                0
+  Too bright:              2
+  Too noisy:               91
+  Low resolution:          0
+  Bad aspect ratio:        0
+  Low contrast:            0
+
+Flagged images:
+  369.jpg: Noisy - Noisy
+  252.jpg: Noisy - Noisy
+  357.jpg: Noisy - Noisy
+  112.jpg: Noisy - Noisy
+  184.jpg: Noisy - Noisy
+  182.jpg: Noisy - Noisy
+  180.jpg: Noisy - Noisy
+  365.jpg: Noisy - Noisy
+  299.jpg: Blurry - Low Sharpness
+  382.jpg: Noisy - Noisy
+  132.jpg: Noisy - Noisy
+  320.jpg: Blurry - Low Sharpness
+  250.jpg: Noisy - Noisy
+  472.jpg: Blurry - Low Sharpness
+  474.jpg: Blurry - Low Sharpness
+  187.jpg: Noisy - Noisy
+  266.jpg: Noisy - Noisy
+  28.jpg: Noisy - Noisy
+  375.jpg: Noisy - Noisy
+  405.jpg: Noisy - Noisy
+  467.jpg: Blurry - Blurry; Low Sharpness; Blurry
+  225.jpg: Noisy - Noisy
+  310.jpg: Noisy - Noisy
+  376.jpg: Blurry - Low Sharpness
+  388.jpg: Noisy - Noisy
+  19.jpg: Noisy - Noisy
+  361.jpg: Noisy - Noisy
+  213.jpg: Noisy - Noisy
+  163.jpg: Noisy - Noisy
+  232.jpg: Noisy - Noisy
+  164.jpg: Noisy - Noisy
+  311.jpg: Noisy - Noisy
+  224.jpg: Noisy - Noisy
+  370.jpg: Noisy - Noisy
+  489.jpg: Blurry - Low Sharpness
+  103.jpg: Noisy - Noisy
+  387.jpg: Noisy - Noisy
+  381.jpg: Noisy - Noisy
+  368.jpg: Noisy - Noisy
+  42.jpg: Noisy - Noisy
+  359.jpg: Blurry, Bright - Low Sharpness; Bright
+  267.jpg: Noisy - Noisy
+  116.jpg: Noisy - Noisy
+  380.jpg: Noisy - Noisy
+  79.jpg: Noisy - Noisy
+  476.jpg: Blurry - Low Sharpness
+  136.jpg: Noisy - Noisy
+  433.jpg: Noisy - Noisy
+  217.jpg: Noisy - Noisy
+  314.jpg: Noisy - Noisy
+  228.jpg: Noisy - Noisy
+  45.jpg: Noisy - Noisy
+  127.jpg: Noisy - Noisy
+  175.jpg: Noisy - Noisy
+  373.jpg: Noisy - Noisy
+  111.jpg: Noisy - Noisy
+  331.jpg: Noisy - Noisy
+  161.jpg: Noisy - Noisy
+  301.jpg: Noisy - Noisy
+  442.jpg: Noisy - Noisy
+  408.jpg: Noisy - Noisy
+  123.jpg: Noisy - Noisy
+  295.jpg: Noisy - Noisy
+  342.jpg: Noisy - Noisy
+  96.jpg: Noisy - Noisy
+  454.jpg: Noisy - Noisy
+  205.jpg: Noisy - Noisy
+  168.jpg: Noisy - Noisy
+  18.jpg: Noisy - Noisy
+  114.jpg: Noisy - Noisy
+  392.jpg: Noisy - Noisy
+  68.jpg: Blurry, Bright - Low Sharpness; Bright
+  391.jpg: Noisy - Noisy
+  262.jpg: Noisy - Noisy
+  465.jpg: Noisy - Noisy
+  82.jpg: Noisy - Noisy
+  334.jpg: Noisy - Noisy
+  471.jpg: Blurry - Low Sharpness
+  317.jpg: Noisy - Noisy
+  211.jpg: Noisy - Noisy
+  350.jpg: Blurry - Low Sharpness
+  279.jpg: Noisy - Noisy
+  221.jpg: Noisy - Noisy
+  40.jpg: Blurry - Low Sharpness
+  256.jpg: Noisy - Noisy
+  444.jpg: Noisy - Noisy
+  9.jpg: Noisy - Noisy
+  497.jpg: Noisy - Noisy
+  35.jpg: Noisy - Noisy
+  227.jpg: Noisy - Noisy
+  234.jpg: Noisy - Noisy
+  397.jpg: Noisy - Noisy
+  139.jpg: Blurry - Low Sharpness
+  135.jpg: Blurry - Low Sharpness
+  33.jpg: Noisy - Noisy
+  437.jpg: Noisy - Noisy
+  293.jpg: Noisy - Noisy
+  195.jpg: Noisy - Noisy
+  51.jpg: Blurry - Low Sharpness
+  131.jpg: Noisy - Noisy
+  102.jpg: Noisy - Noisy
+  160.jpg: Noisy - Noisy
+  257.jpg: Blurry - Low Sharpness
+  431.jpg: Noisy - Noisy
+  366.jpg: Blurry - Low Sharpness
+  383.jpg: Noisy - Noisy
+  126.jpg: Noisy - Noisy
+  492.jpg: Blurry - Low Sharpness
+  323.jpg: Noisy - Noisy
+  326.jpg: Noisy - Noisy

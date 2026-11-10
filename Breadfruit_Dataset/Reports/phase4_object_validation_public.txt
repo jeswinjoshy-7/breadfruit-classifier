@@ -1,0 +1,1131 @@
+============================================================
+OBJECT VALIDATION REPORT: public
+============================================================
+
+Total images:           501
+Fruit detected:         501
+Validation passed:      31
+Total warnings:         651
+
+Images with warnings:
+  369.jpg:
+    - Fruit touching border: 84.91% > 10.00%
+  344.jpg:
+    - Fruit touching border: 73.46% > 10.00%
+  252.jpg:
+    - Fruit touching border: 71.28% > 10.00%
+  133.jpg:
+    - Fruit area too large: 96.54% > 95.00%
+    - Fruit touching border: 83.98% > 10.00%
+  249.jpg:
+    - Fruit touching border: 56.06% > 10.00%
+  66.jpg:
+    - Fruit area too large: 97.86% > 95.00%
+    - Fruit touching border: 89.89% > 10.00%
+  46.jpg:
+    - Fruit area too large: 95.52% > 95.00%
+    - Fruit touching border: 87.92% > 10.00%
+  319.jpg:
+    - Fruit touching border: 61.20% > 10.00%
+  339.jpg:
+    - Fruit area too large: 99.06% > 95.00%
+    - Fruit touching border: 97.08% > 10.00%
+  274.jpg:
+    - Fruit touching border: 78.73% > 10.00%
+  436.jpg:
+    - Fruit touching border: 58.85% > 10.00%
+  177.jpg:
+    - Fruit area too large: 95.34% > 95.00%
+    - Fruit touching border: 89.83% > 10.00%
+  313.jpg:
+    - Fruit touching border: 57.34% > 10.00%
+  390.jpg:
+    - Fruit touching border: 66.25% > 10.00%
+  357.jpg:
+    - Fruit touching border: 37.51% > 10.00%
+  434.jpg:
+    - Fruit touching border: 85.62% > 10.00%
+  112.jpg:
+    - Fruit area too large: 96.97% > 95.00%
+    - Fruit touching border: 90.00% > 10.00%
+  406.jpg:
+    - Fruit touching border: 50.25% > 10.00%
+  181.jpg:
+    - Fruit area too large: 98.91% > 95.00%
+    - Fruit touching border: 96.40% > 10.00%
+  184.jpg:
+    - Fruit touching border: 51.19% > 10.00%
+  209.jpg:
+    - Fruit area too large: 98.41% > 95.00%
+    - Fruit touching border: 96.13% > 10.00%
+  182.jpg:
+    - Fruit touching border: 66.86% > 10.00%
+  180.jpg:
+    - Fruit area too large: 96.87% > 95.00%
+    - Fruit touching border: 89.03% > 10.00%
+  365.jpg:
+    - Fruit area too large: 98.75% > 95.00%
+    - Fruit touching border: 95.39% > 10.00%
+  97.jpg:
+    - Fruit area too large: 98.01% > 95.00%
+    - Fruit touching border: 92.69% > 10.00%
+  306.jpg:
+    - Fruit area too large: 98.95% > 95.00%
+    - Fruit touching border: 97.13% > 10.00%
+  447.jpg:
+    - Fruit touching border: 82.73% > 10.00%
+  299.jpg:
+    - Background dominates: 86.90% > 80.00%
+  47.jpg:
+    - Fruit touching border: 70.93% > 10.00%
+  147.jpg:
+    - Fruit area too large: 97.12% > 95.00%
+    - Fruit touching border: 91.91% > 10.00%
+  382.jpg:
+    - Fruit touching border: 64.94% > 10.00%
+  7.jpg:
+    - Fruit touching border: 69.09% > 10.00%
+  0.jpg:
+    - Fruit touching border: 45.60% > 10.00%
+  132.jpg:
+    - Fruit touching border: 70.32% > 10.00%
+  239.jpg:
+    - Fruit touching border: 69.74% > 10.00%
+  426.jpg:
+    - Fruit touching border: 82.69% > 10.00%
+  63.jpg:
+    - Fruit touching border: 66.79% > 10.00%
+  215.jpg:
+    - Fruit touching border: 92.88% > 10.00%
+  196.jpg:
+    - Fruit area too large: 98.75% > 95.00%
+    - Fruit touching border: 96.28% > 10.00%
+  374.jpg:
+    - Fruit touching border: 40.55% > 10.00%
+  482.jpg:
+    - Fruit touching border: 79.07% > 10.00%
+  278.jpg:
+    - Fruit touching border: 68.03% > 10.00%
+  58.jpg:
+    - Fruit touching border: 78.96% > 10.00%
+  404.jpg:
+    - Fruit area too large: 95.71% > 95.00%
+    - Fruit touching border: 88.34% > 10.00%
+  246.jpg:
+    - Fruit touching border: 64.08% > 10.00%
+  218.jpg:
+    - Fruit touching border: 91.53% > 10.00%
+  483.jpg:
+    - Fruit area too large: 95.61% > 95.00%
+    - Fruit touching border: 82.51% > 10.00%
+  430.jpg:
+    - Fruit area too large: 98.34% > 95.00%
+    - Fruit touching border: 95.83% > 10.00%
+  138.jpg:
+    - Fruit area too large: 98.33% > 95.00%
+    - Fruit touching border: 93.58% > 10.00%
+  451.jpg:
+    - Fruit area too large: 98.99% > 95.00%
+    - Fruit touching border: 97.48% > 10.00%
+  250.jpg:
+    - Fruit area too large: 98.01% > 95.00%
+    - Fruit touching border: 93.74% > 10.00%
+  472.jpg:
+    - Fruit area too large: 99.50% > 95.00%
+    - Fruit touching border: 97.56% > 10.00%
+  23.jpg:
+    - Fruit area too large: 98.92% > 95.00%
+    - Fruit touching border: 96.93% > 10.00%
+  335.jpg:
+    - Fruit touching border: 41.86% > 10.00%
+  210.jpg:
+    - Fruit touching border: 54.58% > 10.00%
+  39.jpg:
+    - Fruit area too large: 97.40% > 95.00%
+    - Fruit touching border: 89.90% > 10.00%
+  474.jpg:
+    - Fruit area too large: 97.78% > 95.00%
+    - Fruit touching border: 89.41% > 10.00%
+  194.jpg:
+    - Fruit touching border: 67.82% > 10.00%
+  171.jpg:
+    - Fruit touching border: 86.33% > 10.00%
+  292.jpg:
+    - Fruit touching border: 67.21% > 10.00%
+  458.jpg:
+    - Fruit touching border: 44.18% > 10.00%
+  248.jpg:
+    - Fruit touching border: 40.56% > 10.00%
+  183.jpg:
+    - Fruit touching border: 68.89% > 10.00%
+  187.jpg:
+    - Fruit touching border: 82.00% > 10.00%
+  128.jpg:
+    - Fruit touching border: 28.38% > 10.00%
+  243.jpg:
+    - Fruit touching border: 66.10% > 10.00%
+  266.jpg:
+    - Fruit touching border: 86.28% > 10.00%
+  99.jpg:
+    - Fruit touching border: 65.17% > 10.00%
+  64.jpg:
+    - Fruit touching border: 68.82% > 10.00%
+  28.jpg:
+    - Fruit touching border: 82.37% > 10.00%
+  282.jpg:
+    - Fruit touching border: 61.09% > 10.00%
+  355.jpg:
+    - Fruit touching border: 46.84% > 10.00%
+  26.jpg:
+    - Fruit touching border: 61.17% > 10.00%
+  134.jpg:
+    - Fruit touching border: 58.40% > 10.00%
+  375.jpg:
+    - Fruit touching border: 35.74% > 10.00%
+  291.jpg:
+    - Fruit area too large: 95.94% > 95.00%
+    - Fruit touching border: 93.17% > 10.00%
+  405.jpg:
+    - Fruit touching border: 50.42% > 10.00%
+  467.jpg:
+    - Fruit area too large: 95.94% > 95.00%
+    - Fruit touching border: 91.03% > 10.00%
+  36.jpg:
+    - Fruit touching border: 71.95% > 10.00%
+  316.jpg:
+    - Fruit touching border: 66.56% > 10.00%
+  84.jpg:
+    - Fruit area too large: 96.35% > 95.00%
+    - Fruit touching border: 92.50% > 10.00%
+  109.jpg:
+    - Fruit area too large: 95.26% > 95.00%
+    - Fruit touching border: 84.91% > 10.00%
+  156.jpg:
+    - Fruit area too large: 99.05% > 95.00%
+    - Fruit touching border: 97.68% > 10.00%
+  27.jpg:
+    - Fruit touching border: 82.73% > 10.00%
+  486.jpg:
+    - Fruit touching border: 66.69% > 10.00%
+  481.jpg:
+    - Fruit area too large: 95.43% > 95.00%
+    - Fruit touching border: 84.45% > 10.00%
+  432.jpg:
+    - Fruit area too large: 99.06% > 95.00%
+    - Fruit touching border: 97.69% > 10.00%
+  484.jpg:
+    - Fruit touching border: 70.42% > 10.00%
+  225.jpg:
+    - Fruit area too large: 98.12% > 95.00%
+    - Fruit touching border: 91.48% > 10.00%
+  310.jpg:
+    - Fruit area too large: 99.01% > 95.00%
+    - Fruit touching border: 97.54% > 10.00%
+  199.jpg:
+    - Fruit touching border: 67.52% > 10.00%
+  69.jpg:
+    - Fruit area too large: 98.86% > 95.00%
+    - Fruit touching border: 95.71% > 10.00%
+  452.jpg:
+    - Fruit touching border: 81.08% > 10.00%
+  157.jpg:
+    - Fruit area too large: 95.89% > 95.00%
+    - Fruit touching border: 87.10% > 10.00%
+  453.jpg:
+    - Fruit touching border: 66.16% > 10.00%
+  287.jpg:
+    - Fruit touching border: 64.40% > 10.00%
+  388.jpg:
+    - Fruit touching border: 59.20% > 10.00%
+  235.jpg:
+    - Fruit touching border: 66.81% > 10.00%
+  74.jpg:
+    - Fruit area too large: 98.76% > 95.00%
+    - Fruit touching border: 95.16% > 10.00%
+  261.jpg:
+    - Fruit touching border: 68.24% > 10.00%
+  269.jpg:
+    - Fruit area too large: 97.51% > 95.00%
+    - Fruit touching border: 85.17% > 10.00%
+  19.jpg:
+    - Fruit area too large: 98.31% > 95.00%
+    - Fruit touching border: 92.86% > 10.00%
+  361.jpg:
+    - Fruit touching border: 77.17% > 10.00%
+  371.jpg:
+    - Fruit area too large: 98.34% > 95.00%
+    - Fruit touching border: 95.83% > 10.00%
+  213.jpg:
+    - Fruit area too large: 98.34% > 95.00%
+    - Fruit touching border: 95.83% > 10.00%
+  94.jpg:
+    - Fruit touching border: 69.18% > 10.00%
+  50.jpg:
+    - Fruit touching border: 86.57% > 10.00%
+  231.jpg:
+    - Fruit touching border: 86.77% > 10.00%
+  163.jpg:
+    - Fruit area too large: 98.95% > 95.00%
+    - Fruit touching border: 97.18% > 10.00%
+  418.jpg:
+    - Fruit touching border: 38.72% > 10.00%
+  232.jpg:
+    - Fruit touching border: 67.28% > 10.00%
+  419.jpg:
+    - Fruit touching border: 83.76% > 10.00%
+  372.jpg:
+    - Fruit area too large: 98.74% > 95.00%
+    - Fruit touching border: 95.81% > 10.00%
+  100.jpg:
+    - Fruit touching border: 78.00% > 10.00%
+  488.jpg:
+    - Fruit touching border: 68.64% > 10.00%
+  226.jpg:
+    - Fruit area too large: 96.22% > 95.00%
+    - Fruit touching border: 92.51% > 10.00%
+  325.jpg:
+    - Fruit touching border: 72.43% > 10.00%
+  117.jpg:
+    - Fruit touching border: 43.47% > 10.00%
+  468.jpg:
+    - Fruit touching border: 24.60% > 10.00%
+  164.jpg:
+    - Fruit area too large: 98.34% > 95.00%
+    - Fruit touching border: 95.83% > 10.00%
+  311.jpg:
+    - Fruit touching border: 89.18% > 10.00%
+  220.jpg:
+    - Fruit touching border: 84.33% > 10.00%
+  224.jpg:
+    - Fruit touching border: 60.85% > 10.00%
+  166.jpg:
+    - Fruit area too large: 98.34% > 95.00%
+    - Fruit touching border: 95.83% > 10.00%
+  216.jpg:
+    - Fruit touching border: 92.50% > 10.00%
+  270.jpg:
+    - Fruit area too large: 97.87% > 95.00%
+    - Fruit touching border: 92.91% > 10.00%
+  65.jpg:
+    - Fruit touching border: 75.69% > 10.00%
+  258.jpg:
+    - Fruit touching border: 66.54% > 10.00%
+  424.jpg:
+    - Fruit area too large: 98.74% > 95.00%
+    - Fruit touching border: 96.91% > 10.00%
+  124.jpg:
+    - Fruit touching border: 69.59% > 10.00%
+  370.jpg:
+    - Fruit touching border: 69.29% > 10.00%
+  41.jpg:
+    - Fruit area too large: 96.30% > 95.00%
+    - Fruit touching border: 92.51% > 10.00%
+  489.jpg:
+    - Fruit touching border: 70.64% > 10.00%
+  423.jpg:
+    - Fruit touching border: 30.08% > 10.00%
+  352.jpg:
+    - Fruit touching border: 43.18% > 10.00%
+  384.jpg:
+    - Fruit area too large: 98.73% > 95.00%
+    - Fruit touching border: 96.72% > 10.00%
+  178.jpg:
+    - Fruit touching border: 67.04% > 10.00%
+  103.jpg:
+    - Fruit area too large: 95.46% > 95.00%
+    - Fruit touching border: 91.22% > 10.00%
+  121.jpg:
+    - Fruit area too large: 97.92% > 95.00%
+    - Fruit touching border: 93.39% > 10.00%
+  191.jpg:
+    - Fruit touching border: 69.49% > 10.00%
+  241.jpg:
+    - Fruit touching border: 53.31% > 10.00%
+  429.jpg:
+    - Fruit touching border: 49.59% > 10.00%
+  387.jpg:
+    - Fruit touching border: 74.56% > 10.00%
+  305.jpg:
+    - Fruit touching border: 54.91% > 10.00%
+  381.jpg:
+    - Fruit area too large: 98.87% > 95.00%
+    - Fruit touching border: 96.47% > 10.00%
+  245.jpg:
+    - Fruit touching border: 60.29% > 10.00%
+  113.jpg:
+    - Fruit area too large: 95.30% > 95.00%
+    - Fruit touching border: 87.42% > 10.00%
+  327.jpg:
+    - Fruit touching border: 64.26% > 10.00%
+  438.jpg:
+    - Fruit touching border: 40.80% > 10.00%
+  265.jpg:
+    - Fruit touching border: 28.78% > 10.00%
+  358.jpg:
+    - Fruit area too large: 96.28% > 95.00%
+    - Fruit touching border: 92.94% > 10.00%
+  343.jpg:
+    - Fruit touching border: 70.58% > 10.00%
+  37.jpg:
+    - Fruit area too large: 95.05% > 95.00%
+    - Fruit touching border: 87.55% > 10.00%
+  466.jpg:
+    - Fruit area too large: 95.44% > 95.00%
+    - Fruit touching border: 82.68% > 10.00%
+  120.jpg:
+    - Fruit area too large: 98.08% > 95.00%
+    - Fruit touching border: 93.70% > 10.00%
+  368.jpg:
+    - Fruit touching border: 62.29% > 10.00%
+  416.jpg:
+    - Fruit touching border: 66.61% > 10.00%
+  412.jpg:
+    - Fruit touching border: 49.27% > 10.00%
+  140.jpg:
+    - Fruit area too large: 95.92% > 95.00%
+    - Fruit touching border: 88.13% > 10.00%
+  42.jpg:
+    - Fruit touching border: 88.08% > 10.00%
+  360.jpg:
+    - Fruit area too large: 98.45% > 95.00%
+    - Fruit touching border: 96.30% > 10.00%
+  500.jpg:
+    - Fruit touching border: 65.23% > 10.00%
+  263.jpg:
+    - Fruit touching border: 68.08% > 10.00%
+  106.jpg:
+    - Fruit area too large: 96.11% > 95.00%
+    - Fruit touching border: 92.88% > 10.00%
+  363.jpg:
+    - Fruit touching border: 47.16% > 10.00%
+  22.jpg:
+    - Fruit area too large: 98.66% > 95.00%
+    - Fruit touching border: 94.89% > 10.00%
+  267.jpg:
+    - Fruit area too large: 97.11% > 95.00%
+    - Fruit touching border: 93.30% > 10.00%
+  15.jpg:
+    - Fruit area too large: 98.31% > 95.00%
+    - Fruit touching border: 93.75% > 10.00%
+  298.jpg:
+    - Fruit touching border: 65.39% > 10.00%
+  119.jpg:
+    - Fruit area too large: 95.70% > 95.00%
+    - Fruit touching border: 89.00% > 10.00%
+  95.jpg:
+    - Fruit touching border: 39.67% > 10.00%
+  197.jpg:
+    - Fruit area too large: 99.01% > 95.00%
+    - Fruit touching border: 97.23% > 10.00%
+  469.jpg:
+    - Fruit area too large: 96.65% > 95.00%
+    - Fruit touching border: 86.44% > 10.00%
+  144.jpg:
+    - Fruit area too large: 95.84% > 95.00%
+    - Fruit touching border: 84.11% > 10.00%
+  420.jpg:
+    - Fruit touching border: 11.02% > 10.00%
+    - Background dominates: 82.07% > 80.00%
+  478.jpg:
+    - Fruit area too large: 96.45% > 95.00%
+    - Fruit touching border: 88.13% > 10.00%
+  70.jpg:
+    - Fruit touching border: 71.52% > 10.00%
+  159.jpg:
+    - Fruit area too large: 95.18% > 95.00%
+    - Fruit touching border: 83.11% > 10.00%
+  116.jpg:
+    - Fruit touching border: 33.83% > 10.00%
+  380.jpg:
+    - Fruit area too large: 96.27% > 95.00%
+    - Fruit touching border: 80.44% > 10.00%
+  284.jpg:
+    - Fruit touching border: 71.18% > 10.00%
+  141.jpg:
+    - Fruit touching border: 44.61% > 10.00%
+  254.jpg:
+    - Fruit area too large: 95.42% > 95.00%
+    - Fruit touching border: 88.00% > 10.00%
+  385.jpg:
+    - Fruit touching border: 68.11% > 10.00%
+  60.jpg:
+    - Fruit area too large: 97.70% > 95.00%
+    - Fruit touching border: 94.04% > 10.00%
+  338.jpg:
+    - Fruit touching border: 65.48% > 10.00%
+  198.jpg:
+    - Fruit area too large: 98.43% > 95.00%
+    - Fruit touching border: 95.63% > 10.00%
+  44.jpg:
+    - Fruit touching border: 64.69% > 10.00%
+  230.jpg:
+    - Fruit area too large: 99.07% > 95.00%
+    - Fruit touching border: 97.71% > 10.00%
+  275.jpg:
+    - Fruit area too large: 96.44% > 95.00%
+    - Fruit touching border: 92.94% > 10.00%
+  5.jpg:
+    - Fruit touching border: 40.48% > 10.00%
+  21.jpg:
+    - Fruit touching border: 63.56% > 10.00%
+  401.jpg:
+    - Fruit area too large: 98.51% > 95.00%
+    - Fruit touching border: 95.98% > 10.00%
+  52.jpg:
+    - Fruit touching border: 71.35% > 10.00%
+  200.jpg:
+    - Fruit area too large: 98.63% > 95.00%
+    - Fruit touching border: 94.62% > 10.00%
+  79.jpg:
+    - Fruit area too large: 95.71% > 95.00%
+    - Fruit touching border: 88.27% > 10.00%
+  223.jpg:
+    - Fruit touching border: 60.80% > 10.00%
+  476.jpg:
+    - Fruit touching border: 70.58% > 10.00%
+  4.jpg:
+    - Fruit touching border: 69.08% > 10.00%
+  340.jpg:
+    - Fruit area too large: 97.01% > 95.00%
+    - Fruit touching border: 89.05% > 10.00%
+  1.jpg:
+    - Fruit area too large: 99.02% > 95.00%
+    - Fruit touching border: 97.22% > 10.00%
+  237.jpg:
+    - Fruit touching border: 41.18% > 10.00%
+  425.jpg:
+    - Fruit touching border: 70.17% > 10.00%
+  17.jpg:
+    - Fruit touching border: 74.05% > 10.00%
+  136.jpg:
+    - Fruit area too large: 96.48% > 95.00%
+    - Fruit touching border: 89.91% > 10.00%
+  176.jpg:
+    - Fruit touching border: 43.75% > 10.00%
+  88.jpg:
+    - Fruit touching border: 69.54% > 10.00%
+  433.jpg:
+    - Fruit touching border: 88.46% > 10.00%
+  356.jpg:
+    - Fruit touching border: 65.23% > 10.00%
+  217.jpg:
+    - Fruit touching border: 81.70% > 10.00%
+  165.jpg:
+    - Fruit area too large: 98.02% > 95.00%
+    - Fruit touching border: 94.08% > 10.00%
+  422.jpg:
+    - Fruit area too large: 95.99% > 95.00%
+    - Fruit touching border: 82.10% > 10.00%
+  202.jpg:
+    - Fruit touching border: 70.56% > 10.00%
+  314.jpg:
+    - Fruit area too large: 96.72% > 95.00%
+    - Fruit touching border: 91.33% > 10.00%
+  228.jpg:
+    - Fruit area too large: 98.66% > 95.00%
+    - Fruit touching border: 96.48% > 10.00%
+  304.jpg:
+    - Fruit touching border: 58.43% > 10.00%
+  410.jpg:
+    - Fruit touching border: 47.72% > 10.00%
+  348.jpg:
+    - Fruit touching border: 16.39% > 10.00%
+  446.jpg:
+    - Fruit touching border: 76.01% > 10.00%
+  247.jpg:
+    - Fruit area too large: 98.49% > 95.00%
+    - Fruit touching border: 95.70% > 10.00%
+  8.jpg:
+    - Fruit touching border: 87.38% > 10.00%
+  56.jpg:
+    - Fruit touching border: 67.38% > 10.00%
+  296.jpg:
+    - Fruit touching border: 68.77% > 10.00%
+  153.jpg:
+    - Fruit area too large: 95.05% > 95.00%
+    - Fruit touching border: 88.10% > 10.00%
+  169.jpg:
+    - Fruit touching border: 88.98% > 10.00%
+  45.jpg:
+    - Fruit area too large: 96.73% > 95.00%
+    - Fruit touching border: 82.74% > 10.00%
+  48.jpg:
+    - Fruit area too large: 97.94% > 95.00%
+    - Fruit touching border: 92.99% > 10.00%
+  127.jpg:
+    - Fruit area too large: 98.76% > 95.00%
+    - Fruit touching border: 96.34% > 10.00%
+  143.jpg:
+    - Fruit touching border: 65.41% > 10.00%
+  253.jpg:
+    - Fruit touching border: 67.18% > 10.00%
+  413.jpg:
+    - Fruit area too large: 95.97% > 95.00%
+    - Fruit touching border: 91.66% > 10.00%
+  25.jpg:
+    - Fruit touching border: 88.74% > 10.00%
+  475.jpg:
+    - Fruit touching border: 38.56% > 10.00%
+  276.jpg:
+    - Fruit touching border: 40.35% > 10.00%
+  185.jpg:
+    - Fruit area too large: 97.98% > 95.00%
+    - Fruit touching border: 92.20% > 10.00%
+  87.jpg:
+    - Fruit area too large: 97.61% > 95.00%
+    - Fruit touching border: 92.86% > 10.00%
+  175.jpg:
+    - Fruit area too large: 95.68% > 95.00%
+    - Fruit touching border: 86.14% > 10.00%
+  393.jpg:
+    - Fruit touching border: 85.26% > 10.00%
+  373.jpg:
+    - Fruit touching border: 66.02% > 10.00%
+  111.jpg:
+    - Fruit touching border: 71.50% > 10.00%
+  315.jpg:
+    - Fruit touching border: 68.68% > 10.00%
+  490.jpg:
+    - Fruit touching border: 93.30% > 10.00%
+  493.jpg:
+    - Fruit area too large: 96.75% > 95.00%
+    - Fruit touching border: 90.00% > 10.00%
+  428.jpg:
+    - Fruit touching border: 76.66% > 10.00%
+  85.jpg:
+    - Fruit touching border: 57.40% > 10.00%
+  170.jpg:
+    - Fruit area too large: 99.01% > 95.00%
+    - Fruit touching border: 96.77% > 10.00%
+  233.jpg:
+    - Fruit touching border: 65.76% > 10.00%
+  477.jpg:
+    - Fruit touching border: 40.25% > 10.00%
+  80.jpg:
+    - Fruit touching border: 37.83% > 10.00%
+  145.jpg:
+    - Fruit area too large: 97.51% > 95.00%
+    - Fruit touching border: 92.53% > 10.00%
+  161.jpg:
+    - Fruit touching border: 76.73% > 10.00%
+  280.jpg:
+    - Fruit touching border: 71.88% > 10.00%
+  277.jpg:
+    - Fruit area too large: 97.72% > 95.00%
+    - Fruit touching border: 93.00% > 10.00%
+  411.jpg:
+    - Fruit touching border: 65.47% > 10.00%
+  77.jpg:
+    - Fruit touching border: 66.62% > 10.00%
+  301.jpg:
+    - Fruit area too large: 97.10% > 95.00%
+    - Fruit touching border: 90.33% > 10.00%
+  308.jpg:
+    - Fruit area too large: 97.64% > 95.00%
+    - Fruit touching border: 91.15% > 10.00%
+  260.jpg:
+    - Fruit touching border: 76.95% > 10.00%
+  487.jpg:
+    - Fruit area too large: 99.20% > 95.00%
+    - Fruit touching border: 94.76% > 10.00%
+  409.jpg:
+    - Fruit touching border: 68.56% > 10.00%
+  389.jpg:
+    - Fruit touching border: 38.31% > 10.00%
+  442.jpg:
+    - Fruit touching border: 84.41% > 10.00%
+  386.jpg:
+    - Fruit touching border: 63.80% > 10.00%
+  289.jpg:
+    - Fruit area too large: 98.74% > 95.00%
+    - Fruit touching border: 94.65% > 10.00%
+  148.jpg:
+    - Fruit area too large: 99.16% > 95.00%
+    - Fruit touching border: 97.98% > 10.00%
+  321.jpg:
+    - Fruit touching border: 65.84% > 10.00%
+  283.jpg:
+    - Fruit touching border: 60.91% > 10.00%
+  242.jpg:
+    - Fruit area too large: 98.75% > 95.00%
+    - Fruit touching border: 95.01% > 10.00%
+  108.jpg:
+    - Fruit area too large: 98.01% > 95.00%
+    - Fruit touching border: 87.25% > 10.00%
+  146.jpg:
+    - Fruit area too large: 95.21% > 95.00%
+    - Fruit touching border: 85.42% > 10.00%
+  174.jpg:
+    - Fruit touching border: 64.75% > 10.00%
+  13.jpg:
+    - Fruit area too large: 97.89% > 95.00%
+    - Fruit touching border: 93.11% > 10.00%
+  204.jpg:
+    - Fruit touching border: 79.35% > 10.00%
+  415.jpg:
+    - Fruit touching border: 90.22% > 10.00%
+  367.jpg:
+    - Fruit touching border: 67.30% > 10.00%
+  407.jpg:
+    - Fruit touching border: 66.33% > 10.00%
+  408.jpg:
+    - Fruit area too large: 99.03% > 95.00%
+    - Fruit touching border: 97.62% > 10.00%
+  123.jpg:
+    - Fruit touching border: 67.64% > 10.00%
+  460.jpg:
+    - Fruit touching border: 44.10% > 10.00%
+  295.jpg:
+    - Fruit area too large: 95.08% > 95.00%
+    - Fruit touching border: 76.49% > 10.00%
+  417.jpg:
+    - Fruit touching border: 60.75% > 10.00%
+  240.jpg:
+    - Fruit area too large: 96.64% > 95.00%
+    - Fruit touching border: 92.47% > 10.00%
+  62.jpg:
+    - Fruit area too large: 95.55% > 95.00%
+    - Fruit touching border: 91.16% > 10.00%
+  394.jpg:
+    - Fruit touching border: 55.54% > 10.00%
+  377.jpg:
+    - Fruit touching border: 85.36% > 10.00%
+  75.jpg:
+    - Fruit area too large: 97.06% > 95.00%
+    - Fruit touching border: 89.29% > 10.00%
+  362.jpg:
+    - Fruit touching border: 67.18% > 10.00%
+  440.jpg:
+    - Fruit touching border: 58.17% > 10.00%
+  496.jpg:
+    - Fruit touching border: 50.73% > 10.00%
+  91.jpg:
+    - Fruit touching border: 64.28% > 10.00%
+  342.jpg:
+    - Fruit touching border: 68.75% > 10.00%
+  29.jpg:
+    - Fruit area too large: 98.05% > 95.00%
+    - Fruit touching border: 94.27% > 10.00%
+  32.jpg:
+    - Fruit touching border: 60.87% > 10.00%
+  264.jpg:
+    - Fruit touching border: 85.19% > 10.00%
+  427.jpg:
+    - Fruit area too large: 98.91% > 95.00%
+    - Fruit touching border: 97.28% > 10.00%
+  96.jpg:
+    - Fruit touching border: 48.56% > 10.00%
+  454.jpg:
+    - Fruit touching border: 70.38% > 10.00%
+  90.jpg:
+    - Fruit area too large: 98.69% > 95.00%
+    - Fruit touching border: 94.93% > 10.00%
+  142.jpg:
+    - Fruit area too large: 97.84% > 95.00%
+    - Fruit touching border: 91.93% > 10.00%
+  205.jpg:
+    - Fruit touching border: 72.67% > 10.00%
+  212.jpg:
+    - Fruit area too large: 97.64% > 95.00%
+    - Fruit touching border: 91.92% > 10.00%
+  86.jpg:
+    - Fruit touching border: 66.16% > 10.00%
+  462.jpg:
+    - Fruit touching border: 44.35% > 10.00%
+  290.jpg:
+    - Fruit area too large: 98.39% > 95.00%
+    - Fruit touching border: 94.00% > 10.00%
+  30.jpg:
+    - Fruit touching border: 81.37% > 10.00%
+  168.jpg:
+    - Fruit area too large: 98.72% > 95.00%
+    - Fruit touching border: 96.21% > 10.00%
+  403.jpg:
+    - Fruit touching border: 60.53% > 10.00%
+  18.jpg:
+    - Fruit area too large: 97.37% > 95.00%
+    - Fruit touching border: 91.25% > 10.00%
+  114.jpg:
+    - Fruit touching border: 46.12% > 10.00%
+  473.jpg:
+    - Fruit area too large: 99.34% > 95.00%
+    - Fruit touching border: 96.23% > 10.00%
+  459.jpg:
+    - Fruit area too large: 98.49% > 95.00%
+    - Fruit touching border: 94.82% > 10.00%
+  125.jpg:
+    - Fruit touching border: 59.84% > 10.00%
+  162.jpg:
+    - Fruit area too large: 98.52% > 95.00%
+    - Fruit touching border: 96.05% > 10.00%
+  448.jpg:
+    - Fruit touching border: 62.93% > 10.00%
+  392.jpg:
+    - Fruit touching border: 65.60% > 10.00%
+  93.jpg:
+    - Fruit touching border: 73.38% > 10.00%
+  83.jpg:
+    - Fruit touching border: 58.20% > 10.00%
+  499.jpg:
+    - Fruit area too large: 98.41% > 95.00%
+    - Fruit touching border: 94.82% > 10.00%
+  76.jpg:
+    - Fruit area too large: 96.74% > 95.00%
+    - Fruit touching border: 88.03% > 10.00%
+  222.jpg:
+    - Fruit touching border: 47.67% > 10.00%
+  328.jpg:
+    - Fruit area too large: 98.88% > 95.00%
+    - Fruit touching border: 96.10% > 10.00%
+  207.jpg:
+    - Fruit touching border: 24.64% > 10.00%
+  115.jpg:
+    - Fruit touching border: 67.88% > 10.00%
+  68.jpg:
+    - Fruit touching border: 35.91% > 10.00%
+  495.jpg:
+    - Fruit area too large: 96.92% > 95.00%
+    - Fruit touching border: 88.64% > 10.00%
+  391.jpg:
+    - Fruit touching border: 75.75% > 10.00%
+  188.jpg:
+    - Fruit area too large: 97.65% > 95.00%
+    - Fruit touching border: 94.30% > 10.00%
+  262.jpg:
+    - Fruit touching border: 69.18% > 10.00%
+  152.jpg:
+    - Fruit area too large: 97.49% > 95.00%
+    - Fruit touching border: 95.13% > 10.00%
+  464.jpg:
+    - Fruit touching border: 37.16% > 10.00%
+  118.jpg:
+    - Fruit touching border: 67.68% > 10.00%
+  465.jpg:
+    - Fruit touching border: 32.94% > 10.00%
+  110.jpg:
+    - Fruit touching border: 13.93% > 10.00%
+  82.jpg:
+    - Fruit area too large: 98.36% > 95.00%
+    - Fruit touching border: 93.64% > 10.00%
+  322.jpg:
+    - Fruit touching border: 28.10% > 10.00%
+  190.jpg:
+    - Fruit touching border: 84.71% > 10.00%
+  334.jpg:
+    - Fruit area too large: 97.99% > 95.00%
+    - Fruit touching border: 95.75% > 10.00%
+  73.jpg:
+    - Fruit touching border: 64.34% > 10.00%
+  273.jpg:
+    - Fruit touching border: 66.07% > 10.00%
+  285.jpg:
+    - Fruit touching border: 55.53% > 10.00%
+  238.jpg:
+    - Fruit touching border: 70.87% > 10.00%
+  471.jpg:
+    - Fruit area too large: 97.25% > 95.00%
+    - Fruit touching border: 92.56% > 10.00%
+  122.jpg:
+    - Fruit touching border: 70.47% > 10.00%
+  272.jpg:
+    - Fruit area too large: 95.49% > 95.00%
+    - Fruit touching border: 91.39% > 10.00%
+  346.jpg:
+    - Fruit touching border: 22.41% > 10.00%
+  317.jpg:
+    - Fruit touching border: 67.25% > 10.00%
+  150.jpg:
+    - Fruit area too large: 98.93% > 95.00%
+    - Fruit touching border: 97.31% > 10.00%
+  211.jpg:
+    - Fruit touching border: 75.54% > 10.00%
+  350.jpg:
+    - Fruit touching border: 15.18% > 10.00%
+  229.jpg:
+    - Fruit touching border: 42.53% > 10.00%
+  279.jpg:
+    - Fruit touching border: 60.41% > 10.00%
+  221.jpg:
+    - Fruit touching border: 86.61% > 10.00%
+  286.jpg:
+    - Fruit touching border: 43.26% > 10.00%
+  480.jpg:
+    - Fruit touching border: 55.69% > 10.00%
+  353.jpg:
+    - Fruit area too large: 98.39% > 95.00%
+    - Fruit touching border: 95.05% > 10.00%
+  341.jpg:
+    - Fruit touching border: 60.32% > 10.00%
+  40.jpg:
+    - Fruit touching border: 11.06% > 10.00%
+  104.jpg:
+    - Fruit touching border: 61.18% > 10.00%
+  435.jpg:
+    - Fruit touching border: 48.00% > 10.00%
+  281.jpg:
+    - Fruit touching border: 81.93% > 10.00%
+  463.jpg:
+    - Fruit area too large: 97.41% > 95.00%
+    - Fruit touching border: 89.54% > 10.00%
+  173.jpg:
+    - Fruit area too large: 98.92% > 95.00%
+    - Fruit touching border: 97.29% > 10.00%
+  167.jpg:
+    - Fruit area too large: 99.03% > 95.00%
+    - Fruit touching border: 97.26% > 10.00%
+  302.jpg:
+    - Fruit touching border: 81.36% > 10.00%
+  192.jpg:
+    - Fruit area too large: 98.69% > 95.00%
+    - Fruit touching border: 95.18% > 10.00%
+  256.jpg:
+    - Fruit area too large: 98.65% > 95.00%
+    - Fruit touching border: 96.69% > 10.00%
+  378.jpg:
+    - Fruit touching border: 65.22% > 10.00%
+  203.jpg:
+    - Fruit touching border: 66.39% > 10.00%
+  491.jpg:
+    - Fruit touching border: 64.44% > 10.00%
+  206.jpg:
+    - Fruit area too large: 98.82% > 95.00%
+    - Fruit touching border: 97.08% > 10.00%
+  130.jpg:
+    - Fruit touching border: 53.73% > 10.00%
+  444.jpg:
+    - Fruit area too large: 99.03% > 95.00%
+    - Fruit touching border: 97.62% > 10.00%
+  14.jpg:
+    - Fruit area too large: 96.46% > 95.00%
+    - Fruit touching border: 93.31% > 10.00%
+  457.jpg:
+    - Fruit touching border: 38.32% > 10.00%
+  449.jpg:
+    - Fruit touching border: 47.04% > 10.00%
+  24.jpg:
+    - Fruit touching border: 84.50% > 10.00%
+  288.jpg:
+    - Fruit touching border: 37.90% > 10.00%
+  9.jpg:
+    - Fruit touching border: 86.87% > 10.00%
+  149.jpg:
+    - Fruit touching border: 87.60% > 10.00%
+  497.jpg:
+    - Fruit touching border: 78.17% > 10.00%
+  236.jpg:
+    - Fruit touching border: 65.60% > 10.00%
+  398.jpg:
+    - Fruit touching border: 66.48% > 10.00%
+  53.jpg:
+    - Fruit area too large: 98.31% > 95.00%
+    - Fruit touching border: 91.24% > 10.00%
+  35.jpg:
+    - Fruit touching border: 57.20% > 10.00%
+  354.jpg:
+    - Fruit touching border: 69.20% > 10.00%
+  189.jpg:
+    - Fruit area too large: 98.50% > 95.00%
+    - Fruit touching border: 96.67% > 10.00%
+  259.jpg:
+    - Fruit area too large: 99.09% > 95.00%
+    - Fruit touching border: 97.20% > 10.00%
+  227.jpg:
+    - Fruit touching border: 67.24% > 10.00%
+  234.jpg:
+    - Fruit area too large: 97.16% > 95.00%
+    - Fruit touching border: 90.15% > 10.00%
+  336.jpg:
+    - Fruit touching border: 91.58% > 10.00%
+  3.jpg:
+    - Fruit area too large: 99.05% > 95.00%
+    - Fruit touching border: 97.70% > 10.00%
+  397.jpg:
+    - Fruit area too large: 99.10% > 95.00%
+    - Fruit touching border: 97.84% > 10.00%
+  271.jpg:
+    - Fruit touching border: 41.92% > 10.00%
+  251.jpg:
+    - Fruit area too large: 97.58% > 95.00%
+    - Fruit touching border: 92.47% > 10.00%
+  158.jpg:
+    - Fruit area too large: 99.00% > 95.00%
+    - Fruit touching border: 97.51% > 10.00%
+  179.jpg:
+    - Fruit area too large: 97.79% > 95.00%
+    - Fruit touching border: 92.93% > 10.00%
+  186.jpg:
+    - Fruit touching border: 39.40% > 10.00%
+  330.jpg:
+    - Fruit area too large: 98.65% > 95.00%
+    - Fruit touching border: 96.25% > 10.00%
+  399.jpg:
+    - Fruit touching border: 66.76% > 10.00%
+  101.jpg:
+    - Fruit touching border: 72.51% > 10.00%
+  49.jpg:
+    - Fruit area too large: 98.68% > 95.00%
+    - Fruit touching border: 94.17% > 10.00%
+  78.jpg:
+    - Fruit area too large: 99.12% > 95.00%
+    - Fruit touching border: 97.84% > 10.00%
+  498.jpg:
+    - Fruit touching border: 62.07% > 10.00%
+  55.jpg:
+    - Fruit touching border: 37.41% > 10.00%
+  31.jpg:
+    - Fruit touching border: 34.31% > 10.00%
+  11.jpg:
+    - Fruit area too large: 97.17% > 95.00%
+    - Fruit touching border: 88.76% > 10.00%
+  57.jpg:
+    - Fruit area too large: 97.06% > 95.00%
+    - Fruit touching border: 91.30% > 10.00%
+  34.jpg:
+    - Fruit touching border: 60.26% > 10.00%
+  33.jpg:
+    - Fruit area too large: 95.77% > 95.00%
+    - Fruit touching border: 85.02% > 10.00%
+  437.jpg:
+    - Fruit touching border: 69.82% > 10.00%
+  318.jpg:
+    - Fruit area too large: 99.13% > 95.00%
+    - Fruit touching border: 97.92% > 10.00%
+  293.jpg:
+    - Fruit touching border: 47.31% > 10.00%
+  309.jpg:
+    - Fruit area too large: 98.48% > 95.00%
+    - Fruit touching border: 95.78% > 10.00%
+  364.jpg:
+    - Fruit area too large: 98.59% > 95.00%
+    - Fruit touching border: 96.39% > 10.00%
+  89.jpg:
+    - Fruit touching border: 76.46% > 10.00%
+  494.jpg:
+    - Fruit touching border: 80.00% > 10.00%
+  172.jpg:
+    - Fruit touching border: 81.70% > 10.00%
+  268.jpg:
+    - Fruit area too large: 99.05% > 95.00%
+    - Fruit touching border: 97.67% > 10.00%
+  195.jpg:
+    - Fruit touching border: 66.38% > 10.00%
+  51.jpg:
+    - Fruit area too large: 98.89% > 95.00%
+    - Fruit touching border: 97.28% > 10.00%
+  155.jpg:
+    - Fruit area too large: 98.99% > 95.00%
+    - Fruit touching border: 97.32% > 10.00%
+  131.jpg:
+    - Fruit area too large: 97.58% > 95.00%
+    - Fruit touching border: 90.89% > 10.00%
+  244.jpg:
+    - Fruit touching border: 71.20% > 10.00%
+  2.jpg:
+    - Fruit touching border: 70.67% > 10.00%
+  102.jpg:
+    - Fruit touching border: 75.59% > 10.00%
+  461.jpg:
+    - Fruit touching border: 76.60% > 10.00%
+  81.jpg:
+    - Fruit area too large: 96.28% > 95.00%
+    - Fruit touching border: 92.77% > 10.00%
+  479.jpg:
+    - Fruit area too large: 99.48% > 95.00%
+    - Fruit touching border: 97.77% > 10.00%
+  61.jpg:
+    - Fruit area too large: 96.22% > 95.00%
+    - Fruit touching border: 88.90% > 10.00%
+  303.jpg:
+    - Fruit touching border: 60.96% > 10.00%
+  154.jpg:
+    - Fruit touching border: 69.82% > 10.00%
+  160.jpg:
+    - Fruit touching border: 71.42% > 10.00%
+  12.jpg:
+    - Fruit area too large: 98.71% > 95.00%
+    - Fruit touching border: 96.83% > 10.00%
+  214.jpg:
+    - Fruit touching border: 60.46% > 10.00%
+  347.jpg:
+    - Fruit touching border: 13.29% > 10.00%
+  208.jpg:
+    - Fruit touching border: 66.04% > 10.00%
+  431.jpg:
+    - Fruit area too large: 97.89% > 95.00%
+    - Fruit touching border: 93.25% > 10.00%
+  450.jpg:
+    - Fruit touching border: 48.68% > 10.00%
+  201.jpg:
+    - Fruit area too large: 99.05% > 95.00%
+    - Fruit touching border: 97.69% > 10.00%
+  151.jpg:
+    - Fruit touching border: 69.11% > 10.00%
+  54.jpg:
+    - Fruit touching border: 76.09% > 10.00%
+  72.jpg:
+    - Fruit touching border: 80.08% > 10.00%
+  193.jpg:
+    - Fruit area too large: 95.18% > 95.00%
+    - Fruit touching border: 90.39% > 10.00%
+  396.jpg:
+    - Fruit touching border: 63.78% > 10.00%
+  20.jpg:
+    - Fruit touching border: 37.92% > 10.00%
+  383.jpg:
+    - Fruit touching border: 63.03% > 10.00%
+  126.jpg:
+    - Fruit touching border: 65.61% > 10.00%
+  107.jpg:
+    - Fruit touching border: 91.59% > 10.00%
+  332.jpg:
+    - Fruit area too large: 99.11% > 95.00%
+    - Fruit touching border: 97.47% > 10.00%
+  16.jpg:
+    - Fruit area too large: 97.95% > 95.00%
+    - Fruit touching border: 93.25% > 10.00%
+  92.jpg:
+    - Fruit touching border: 63.99% > 10.00%
+  333.jpg:
+    - Fruit area too large: 96.08% > 95.00%
+    - Fruit touching border: 88.58% > 10.00%
+  323.jpg:
+    - Fruit touching border: 85.93% > 10.00%
+  439.jpg:
+    - Fruit touching border: 33.52% > 10.00%
+  67.jpg:
+    - Fruit area too large: 98.90% > 95.00%
+    - Fruit touching border: 97.25% > 10.00%
+  470.jpg:
+    - Fruit touching border: 24.17% > 10.00%
+  297.jpg:
+    - Fruit area too large: 98.02% > 95.00%
+    - Fruit touching border: 88.41% > 10.00%
+  43.jpg:
+    - Fruit touching border: 64.81% > 10.00%
+  312.jpg:
+    - Fruit touching border: 70.88% > 10.00%
+  402.jpg:
+    - Fruit area too large: 98.70% > 95.00%
+    - Fruit touching border: 96.82% > 10.00%
+  324.jpg:
+    - Fruit touching border: 42.08% > 10.00%
+  326.jpg:
+    - Fruit area too large: 99.04% > 95.00%
+    - Fruit touching border: 97.64% > 10.00%
+  6.jpg:
+    - Fruit touching border: 38.92% > 10.00%
+  445.jpg:
+    - Fruit touching border: 50.51% > 10.00%
+  10.jpg:
+    - Fruit touching border: 78.06% > 10.00%
+  219.jpg:
+    - Fruit touching border: 68.39% > 10.00%
+  307.jpg:
+    - Fruit touching border: 68.30% > 10.00%
+  71.jpg:
+    - Fruit area too large: 98.15% > 95.00%
+    - Fruit touching border: 94.10% > 10.00%
+  59.jpg:
+    - Fruit touching border: 80.17% > 10.00%
+  329.jpg:
+    - Fruit touching border: 83.93% > 10.00%

@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breadfruit Grad-CAM Classification</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f7fa;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: #2d3748;
+            margin-bottom: 10px;
+            font-size: 2.2rem;
+        }
+
+        .subtitle {
+            color: #718096;
+            margin-bottom: 30px;
+            font-size: 1.1rem;
+        }
+
+        .card {
+            background: white;
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s;
+        }
+
+        .card:hover {
+            transform: translateY(-2px);
+        }
+
+        .card.header-card {
+            border-top: 4px solid #4299e1;
+        }
+
+        .card.result-card {
+            border-top: 4px solid #38a169;
+        }
+
+        .card.error-card {
+            border-top: 4px solid #e53e3e;
+        }
+
+        .image-preview {
+            border: 2px dashed #a0aec0;
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+            margin: 20px 0;
+            min-height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: border-color 0.3s;
+        }
+
+        .image-preview:hover {
+            border-color: #4299e1;
+        }
+
+        .image-preview img {
+            max-width: 100%;
+            max-height: 300px;
+            width: auto;
+            height: auto;
+            object-fit: contain;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 500;
+            transition: background 0.2s;
+            margin: 5px;
+        }
+
+        .btn-primary {
+            background: #4299e1;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2b6cb0;
+        }
+
+        .btn-secondary {
+            background: #e2e8f0;
+            color: #4a5568;
+        }
+
+        .btn-secondary:hover {
+            background: #cbd3e0;
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .spinner {
+            border: 3px solid #e2e8f0;
+            border-top: 3px solid #4299e1;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            animation: spin 1s linear infinite;
+            margin: 5px 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .status-indicator {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            margin-right: 6px;
+        }
+
+        .status-online { background: #38a169; }
+        .status-offline { background: #e53e3e; }
+
+        .metric {
+            background: #edf2f7;
+            padding: 12px;
+            border-radius: 6px;
+            margin: 8px 0;
+        }
+
+        .metric-label {
+            font-size: 0.85rem;
+            color: #718096;
+            margin-bottom: 4px;
+        }
+
+        .metric-value {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #2d3748;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #e2e8f0;
+            border-radius: 4px;
+            overflow: hidden;
+            margin: 8px 0;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: #38a169;
+            width: var(%);
+            transition: width 0.3s ease;
+        }
+
+        .grad-cam-visualistion {
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 10px;
+            margin: 10px 0;
+            min-height: 150px;
+            background: #fafafa;
+        }
+
+        .grad-cam-label {
+            font-size: 0.75rem;
+            color: #718096;
+            margin-bottom: 8px;
+            text-align: center;
+        }
+
+        .file-info {
+            font-size: 0.85rem;
+            color: #718096;
+            margin-top: 10px;
+        }
+
+        @media (max-width: 600px) {
+            .btn {
+                width: 100%;
+                margin: 5px 0;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Breadfruit Classification</h1>
+        <div class="subtitle">Upload an image to predict maturity and quality with Grad-CAM heatmaps</div>
+
+        <div class="card header-card">
+            <h2>Features</h2>
+            <ul style="margin: 0; padding: 15px 20px;">
+                <li>🔍 Maturity classification (immature / partially_mature / mature)</li>
+                <li>🌟 Quality assessment (poor / good / excellent)</li>
+                <li>👁️ Grad-CAM heatmaps for both tasks</li>
+                <li>📊 Confidence scores</li>
+                <li>📁 Batch prediction support</li>
+            </ul>
+        </div>
+
+        <!-- Upload Section -->
+        <div class="card">
+            <h3 style="margin-top: 0; margin-bottom: 15px;">Upload Image</h3>
+            <input type="file" id="imageInput" accept="image/*" class="btn btn-secondary w-100">
+            <p class="file-info" id="fileName">No file selected</p>
+            
+            <button id="predictBtn" class="btn btn-primary w-100" disabled>
+                <span class="spinner" id="spinner" style="display: none;"></span>
+                Predict
+            </button>
+        </div>
+
+        <!-- Results Section -->
+        <div id="resultsSection" class="card result-card" style="display: none;">
+            <h3 style="margin-top: 0; margin-bottom: 15px;">Results</h3>
+            
+            <!-- Maturity -->
+            <div id="maturityCard" class="metric"></div>
+            
+            <!-- Quality -->
+            <div id="qualityCard" class="metric"></div>
+            
+            <!-- Grad-CAM Visualizations -->
+            <div id="gradcamSection" style="margin-top: 25px;">
+                <h4 style="margin-top: 0; margin-bottom: 15px;">Grad-CAM Heatmaps</h4>
+                <div id="maturityGradcam" class="grad-cam-visualistion">
+                    <div class="grad-cam-label">Maturity Activation</div>
+                    <img id="maturityGradcamImg" src="#" alt="Maturity Grad-CAM" style="width: 100%; height: auto;">
+                </div>
+                <div id="qualityGradcam" class="grad-cam-visualistion">
+                    <div class="grad-cam-label">Quality Activation</div>
+                    <img id="qualityGradcamImg" src="#" alt="Quality Grad-CAM" style="width: 100%; height: auto;">
+                </div>
+            </div>
+        </div>
+
+        <!-- Error State -->
+        <div id="errorSection" class="card error-card" style="display: none; margin-top: 20px;">
+            <div style="color: white; padding: 15px;">
+                <strong>Error</strong>
+                <span id="errorMessage"></span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // API Configuration
+        const API_BASE = '/api';
+        
+        // DOM Elements
+        const imageInput = document.getElementById('imageInput');
+        const predictBtn = document.getElementById('predictBtn');
+        const spinner = document.getElementById('spinner');
+        const fileName = document.getElementById('fileName');
+        const resultsSection = document.getElementById('resultsSection');
+        const errorSection = document.getElementById('errorSection');
+        const errorMessage = document.getElementById('errorMessage');
+        const maturityCard = document.getElementById('maturityCard');
+        const qualityCard = document.getElementById('qualityCard');
+        const gradcamSection = document.getElementById('gradcamSection');
+        const maturityGradcamImg = document.getElementById('maturityGradcamImg');
+        const qualityGradcamImg = document.getElementById('qualityGradcamImg');
+        const fileNameDisplay = document.getElementById('fileName');
+
+        // Initialize
+        let selectedFile = null;
+
+        // File selection handler
+        imageInput.addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) {
+                fileNameDisplay.textContent = 'No file selected';
+                predictBtn.disabled = true;
+                return;
+            }
+            
+            selectedFile = file;
+            fileNameDisplay.textContent = file.name;
+            predictBtn.disabled = false;
+        });
+
+        // Predict button handler
+        predictBtn.addEventListener('click', async function() {
+            if (!selectedFile) return;
+            
+            // Show spinner, hide results
+            spinner.style.display = 'block';
+            predictBtn.disabled = true;
+            resultsSection.style.display = 'none';
+            errorSection.style.display = 'none';
+            gradcamSection.style.display = 'none';
+            
+            // Create FormData
+            const formData = new FormData();
+            formData.append('image', selectedFile);
+            
+            try {
+                const response = await fetch('/api/predict/', {
+                    method: 'POST',
+                    body: formData,
+                });
+                
+                const data = await response.json();
+                
+                // Handle errors
+                if (data.status === 'error') {
+                    showError(data.error || 'Unknown error');
+                    return;
+                }
+                
+                // Display results
+                displayResults(data);
+                
+            } catch (error) {
+                showError('Request failed: ' + error.message);
+            } finally {
+                // Reset UI
+                spinner.style.display = 'none';
+                predictBtn.disabled = false;
+            }
+        });
+
+        // Show error state
+        function showError(message) {
+            errorMessage.textContent = message;
+            errorSection.style.display = 'block';
+            resultsSection.style.display = 'none';
+        }
+
+        // Display results
+        function displayResults(data) {
+            // Maturity
+            maturityCard.innerHTML = `
+                <div class="metric-label">Maturity</div>
+                <div class="metric-value" id="maturityPrediction"></div>
+                <div class="metric-label">Confidence</div>
+                <div class="metric-value" id="maturityConfidence"></div>
+            `;
+            
+            document.getElementById('maturityPrediction').textContent = 
+                data.maturity.prediction || 'N/A';
+            document.getElementById('maturityConfidence').textContent = 
+                (data.maturity.confidence * 100).toFixed(2) + '%';
+            
+            // Update maturity status color
+            const maturityStatus = document.createElement('div');
+            maturityStatus.style.marginTop = '8px';
+            maturityStatus.style.fontSize = '0.85rem';
+            const maturityClass = data.maturity.prediction?.toLowerCase() || '';
+            const maturityColors = {
+                'immature': '#e53e3e',
+                'partially_mature': '#d69e2e',
+                'mature': '#38a169'
+            };
+            maturityStatus.innerHTML = `<span style="color: ${maturityColors[maturityClass] || #718096};">Status: ${data.maturity.prediction}</span>`;
+            maturityCard.appendChild(maturityStatus);
+            
+            // Quality
+            qualityCard.innerHTML = `
+                <div class="metric-label">Quality</div>
+                <div class="metric-value" id="qualityPrediction"></div>
+                <div class="metric-label">Confidence</div>
+                <div class="metric-value" id="qualityConfidence"></div>
+            `;
+            
+            document.getElementById('qualityPrediction').textContent = 
+                data.quality.prediction || 'N/A';
+            document.getElementById('qualityConfidence').textContent = 
+                (data.quality.confidence * 100).toFixed(2) + '%';
+            
+            // Update quality status color
+            const qualityStatus = document.createElement('div');
+            qualityStatus.style.marginTop = '8px';
+            qualityStatus.style.fontSize = '0.85rem';
+            const qualityClass = data.quality.prediction?.toLowerCase() || '';
+            const qualityColors = {
+                'poor': '#e53e3e',
+                'good': '#38a169',
+                'excellent': '#d69e2e'
+            };
+            qualityStatus.innerHTML = `<span style="color: ${qualityColors[qualityClass] || #718096};">Status: ${data.quality.prediction}</span>`;
+            qualityCard.appendChild(qualityStatus);
+            
+            // Grad-CAM Visualizations
+            gradcamSection.style.display = 'block';
+            
+            // Maturity Grad-CAM
+            if (data.maturity.grad_cam && data.maturity.grad_cam.length > 0) {
+                // Create a simple visualization from the heatmap data
+                const canvas = document.createElement('canvas');
+                canvas.width = 224;
+                canvas.height = 224;
+                const ctx = canvas.getContext('2d');
+                const heatmap = data.maturity.grad_cam;
+                
+                // Normalize and display
+                const normalized = heatmap.map(v => Math.max(0, Math.min(1, v)));
+                const imageData = ctx.createImageData(224, 224);
+                
+                for (let i = 0; i < normalized.length; i++) {
+                    const x = i % 224;
+                    const y = Math.floor(i / 224);
+                    const idx = (y * 224 + x) * 4;
+                    
+                    const value = normalized[i];
+                    // Hot colormap approximation
+                    const r = Math.min(255, Math.floor(95 + 160 * value));
+                    const g = Math.min(255, Math.floor(30 + 225 * value));
+                    const b = Math.min(255, Math.floor(5 + 250 * value));
+                    
+                    imageData.data[idx] = r;
+                    imageData.data[idx + 1] = g;
+                    imageData.data[idx + 2] = b;
+                    imageData.data[idx + 3] = 255;
+                }
+                
+                ctx.putImageData(imageData, 0, 0);
+                maturityGradcamImg.src = canvas.toDataURL();
+            } else {
+                maturityGradcamImg.src = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zOInpbmZvP ////
+IGRlcG9kaWNblbWluaW5hdGlvbiA=
+                ';
+            }
+            
+            // Quality Grad-CAM
+            if (data.quality.grad_cam && data.quality.grad_cam.length > 0) {
+                const canvas = document.createElement('canvas');
+                canvas.width = 224;
+                canvas.height = 224;
+                const ctx = canvas.getContext('2d');
+                const heatmap = data.quality.grad_cam;
+                
+                const normalized = heatmap.map(v => Math.max(0, Math.min(1, v)));
+                const imageData = ctx.createImageData(224, 224);
+                
+                for (let i = 0; i < normalized.length; i++) {
+                    const x = i % 224;
+                    const y = Math.floor(i / 224);
+                    const idx = (y * 224 + x) * 4;
+                    
+                    const value = normalized[i];
+                    const r = Math.min(255, Math.floor(95 + 160 * value));
+                    const g = Math.min(255, Math.floor(30 + 225 * value));
+                    const b = Math.min(255, Math.floor(5 + 250 * value));
+                    
+                    imageData.data[idx] = r;
+                    imageData.data[idx + 1] = g;
+                    imageData.data[idx + 2] = b;
+                    imageData.data[idx + 3] = 255;
+                }
+                
+                ctx.putImageData(imageData, 0, 0);
+                qualityGradcamImg.src = canvas.toDataURL();
+            } else {
+                qualityGradcamImg.src = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zOInpbmZvP ////
+IGRlcG9kaWNlbWluaW5hdGlvbiA=';}
+                
+            // Show results section
+            resultsSection.style.display = 'block';
+        }
+    </script>
+</body>
+</html>

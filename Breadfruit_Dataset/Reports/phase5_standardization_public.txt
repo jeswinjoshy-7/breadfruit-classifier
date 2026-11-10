@@ -1,0 +1,18 @@
+============================================================
+IMAGE STANDARDIZATION REPORT: public
+============================================================
+
+Total images:       501
+Successful:         501
+Failed:             0
+
+Target specifications:
+  Size:               224x224
+  Format:             JPEG
+  Quality:            95
+  Color space:        RGB
+  EXIF correction:    True
+  Remove alpha:       True
+  Padding color:      (0, 0, 0)
+
+Failures:

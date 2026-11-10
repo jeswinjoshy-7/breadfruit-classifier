@@ -1,0 +1,55 @@
+============================================================
+OBJECT VALIDATION REPORT: personal
+============================================================
+
+Total images:           17
+Fruit detected:         17
+Validation passed:      0
+Total warnings:         28
+
+Images with warnings:
+  01.JPG:
+    - Fruit touching border: 80.50% > 10.00%
+  03.JPG:
+    - Fruit area too large: 95.87% > 95.00%
+    - Fruit touching border: 88.90% > 10.00%
+  02.JPG:
+    - Fruit area too large: 98.09% > 95.00%
+    - Fruit touching border: 93.17% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.37.jpeg:
+    - Fruit touching border: 90.62% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.39.jpeg:
+    - Fruit area too large: 97.05% > 95.00%
+    - Fruit touching border: 85.19% > 10.00%
+  04.jpeg:
+    - Fruit touching border: 88.34% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.36.jpeg:
+    - Fruit area too large: 98.68% > 95.00%
+    - Fruit touching border: 95.17% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.41.jpeg:
+    - Fruit area too large: 99.33% > 95.00%
+    - Fruit touching border: 95.39% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg:
+    - Fruit touching border: 75.79% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.42 (1).jpeg:
+    - Fruit area too large: 99.85% > 95.00%
+    - Fruit touching border: 99.64% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.38.jpeg:
+    - Fruit touching border: 86.64% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg:
+    - Fruit touching border: 76.45% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.42.jpeg:
+    - Fruit area too large: 99.85% > 95.00%
+    - Fruit touching border: 99.64% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.41 (2).jpeg:
+    - Fruit area too large: 99.85% > 95.00%
+    - Fruit touching border: 99.64% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg:
+    - Fruit area too large: 99.79% > 95.00%
+    - Fruit touching border: 98.29% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.41 (1).jpeg:
+    - Fruit area too large: 99.45% > 95.00%
+    - Fruit touching border: 95.52% > 10.00%
+  WhatsApp Image 2026-07-08 at 22.14.40.jpeg:
+    - Fruit area too large: 99.63% > 95.00%
+    - Fruit touching border: 97.16% > 10.00%

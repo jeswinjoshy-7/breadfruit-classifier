@@ -1,0 +1,35 @@
+============================================================
+DATASET INSPECTION REPORT: Personal Dataset
+============================================================
+
+OVERVIEW:
+  Total files scanned:     17
+  Valid images:            17
+  Corrupted images:        0
+  Zero-byte files:         0
+  Unsupported formats:     0
+  Duplicate filenames:     0
+  Total size:              3.49 MB
+
+IMAGE STATISTICS:
+  Average resolution:      1095 x 1420
+  Average megapixels:      1.68 MP
+  Average file size:       210.4 KB
+
+ASPECT RATIO:
+  Min:                     0.75
+  Max:                     1.12
+  Mean:                    0.80
+  Median:                  0.75
+  Std:                     0.12
+
+FORMAT DISTRIBUTION:
+  .jpeg: 14
+  .jpg: 3
+
+TOP 10 RESOLUTIONS:
+  1200x1599: 7
+  1201x1600: 7
+  173x166: 1
+  435x389: 1
+  1200x1190: 1

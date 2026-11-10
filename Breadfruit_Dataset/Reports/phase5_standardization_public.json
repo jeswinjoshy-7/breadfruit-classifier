@@ -1,0 +1,7022 @@
+{
+  "dataset_name": "public",
+  "total_images": 501,
+  "successful": 501,
+  "failed": 0,
+  "results": [
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/369.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/369.jpg",
+      "original_size": [
+        256,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/344.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/344.jpg",
+      "original_size": [
+        291,
+        194
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/252.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/252.jpg",
+      "original_size": [
+        117,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/133.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/133.jpg",
+      "original_size": [
+        139,
+        185
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/249.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/249.jpg",
+      "original_size": [
+        127,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/66.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/66.jpg",
+      "original_size": [
+        273,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/46.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/46.jpg",
+      "original_size": [
+        244,
+        183
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/319.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/319.jpg",
+      "original_size": [
+        126,
+        198
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/339.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/339.jpg",
+      "original_size": [
+        287,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/274.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/274.jpg",
+      "original_size": [
+        316,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/436.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/436.jpg",
+      "original_size": [
+        245,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/177.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/177.jpg",
+      "original_size": [
+        223,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/313.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/313.jpg",
+      "original_size": [
+        256,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/390.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/390.jpg",
+      "original_size": [
+        170,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/357.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/357.jpg",
+      "original_size": [
+        249,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/434.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/434.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/129.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/129.jpg",
+      "original_size": [
+        209,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/112.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/112.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/406.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/406.jpg",
+      "original_size": [
+        253,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/181.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/181.jpg",
+      "original_size": [
+        239,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/184.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/184.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/209.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/209.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/182.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/182.jpg",
+      "original_size": [
+        116,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/180.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/180.jpg",
+      "original_size": [
+        163,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/365.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/365.jpg",
+      "original_size": [
+        279,
+        185
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/97.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/97.jpg",
+      "original_size": [
+        143,
+        191
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/306.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/306.jpg",
+      "original_size": [
+        227,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/447.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/447.jpg",
+      "original_size": [
+        259,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/299.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/299.jpg",
+      "original_size": [
+        131,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/47.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/47.jpg",
+      "original_size": [
+        152,
+        183
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/147.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/147.jpg",
+      "original_size": [
+        296,
+        197
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/456.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/456.jpg",
+      "original_size": [
+        170,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/382.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/382.jpg",
+      "original_size": [
+        207,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/7.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/7.jpg",
+      "original_size": [
+        142,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/0.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/0.jpg",
+      "original_size": [
+        273,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/132.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/132.jpg",
+      "original_size": [
+        121,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/239.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/239.jpg",
+      "original_size": [
+        153,
+        196
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/320.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/320.jpg",
+      "original_size": [
+        153,
+        198
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/426.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/426.jpg",
+      "original_size": [
+        117,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/63.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/63.jpg",
+      "original_size": [
+        175,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/215.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/215.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/196.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/196.jpg",
+      "original_size": [
+        210,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/374.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/374.jpg",
+      "original_size": [
+        130,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/482.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/482.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/278.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/278.jpg",
+      "original_size": [
+        275,
+        202
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/58.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/58.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/404.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/404.jpg",
+      "original_size": [
+        230,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/246.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/246.jpg",
+      "original_size": [
+        237,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/218.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/218.jpg",
+      "original_size": [
+        247,
+        185
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/483.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/483.jpg",
+      "original_size": [
+        612,
+        459
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/430.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/430.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/138.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/138.jpg",
+      "original_size": [
+        253,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/451.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/451.jpg",
+      "original_size": [
+        217,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/250.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/250.jpg",
+      "original_size": [
+        173,
+        129
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/472.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/472.jpg",
+      "original_size": [
+        612,
+        381
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/23.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/23.jpg",
+      "original_size": [
+        217,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/335.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/335.jpg",
+      "original_size": [
+        285,
+        210
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/210.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/210.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/39.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/39.jpg",
+      "original_size": [
+        228,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/474.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/474.jpg",
+      "original_size": [
+        612,
+        398
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/194.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/194.jpg",
+      "original_size": [
+        135,
+        150
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/171.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/171.jpg",
+      "original_size": [
+        271,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/292.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/292.jpg",
+      "original_size": [
+        256,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/458.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/458.jpg",
+      "original_size": [
+        236,
+        185
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/248.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/248.jpg",
+      "original_size": [
+        231,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/183.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/183.jpg",
+      "original_size": [
+        269,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/187.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/187.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/128.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/128.jpg",
+      "original_size": [
+        222,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/243.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/243.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/266.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/266.jpg",
+      "original_size": [
+        162,
+        177
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/99.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/99.jpg",
+      "original_size": [
+        240,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/64.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/64.jpg",
+      "original_size": [
+        115,
+        181
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/28.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/28.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/282.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/282.jpg",
+      "original_size": [
+        150,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/355.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/355.jpg",
+      "original_size": [
+        242,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/26.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/26.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/134.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/134.jpg",
+      "original_size": [
+        267,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/375.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/375.jpg",
+      "original_size": [
+        240,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/291.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/291.jpg",
+      "original_size": [
+        153,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/405.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/405.jpg",
+      "original_size": [
+        129,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/467.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/467.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/36.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/36.jpg",
+      "original_size": [
+        126,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/316.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/316.jpg",
+      "original_size": [
+        245,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/84.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/84.jpg",
+      "original_size": [
+        116,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/109.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/109.jpg",
+      "original_size": [
+        299,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/156.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/156.jpg",
+      "original_size": [
+        252,
+        179
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/27.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/27.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/486.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/486.jpg",
+      "original_size": [
+        612,
+        459
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/481.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/481.jpg",
+      "original_size": [
+        612,
+        346
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/432.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/432.jpg",
+      "original_size": [
+        247,
+        185
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/484.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/484.jpg",
+      "original_size": [
+        612,
+        407
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/225.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/225.jpg",
+      "original_size": [
+        223,
+        195
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/310.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/310.jpg",
+      "original_size": [
+        227,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/199.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/199.jpg",
+      "original_size": [
+        143,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/69.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/69.jpg",
+      "original_size": [
+        242,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/452.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/452.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/157.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/157.jpg",
+      "original_size": [
+        185,
+        156
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/453.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/453.jpg",
+      "original_size": [
+        229,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/376.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/376.jpg",
+      "original_size": [
+        233,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/287.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/287.jpg",
+      "original_size": [
+        164,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/388.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/388.jpg",
+      "original_size": [
+        218,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/235.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/235.jpg",
+      "original_size": [
+        160,
+        197
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/414.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/414.jpg",
+      "original_size": [
+        171,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/74.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/74.jpg",
+      "original_size": [
+        249,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/261.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/261.jpg",
+      "original_size": [
+        257,
+        193
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/269.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/269.jpg",
+      "original_size": [
+        259,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/19.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/19.jpg",
+      "original_size": [
+        220,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/361.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/361.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/371.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/371.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/213.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/213.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/294.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/294.jpg",
+      "original_size": [
+        145,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/94.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/94.jpg",
+      "original_size": [
+        151,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/50.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/50.jpg",
+      "original_size": [
+        126,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/395.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/395.jpg",
+      "original_size": [
+        214,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/231.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/231.jpg",
+      "original_size": [
+        291,
+        195
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/163.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/163.jpg",
+      "original_size": [
+        214,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/418.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/418.jpg",
+      "original_size": [
+        250,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/232.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/232.jpg",
+      "original_size": [
+        244,
+        197
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/419.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/419.jpg",
+      "original_size": [
+        283,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/372.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/372.jpg",
+      "original_size": [
+        204,
+        204
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/100.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/100.jpg",
+      "original_size": [
+        240,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/488.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/488.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/226.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/226.jpg",
+      "original_size": [
+        260,
+        195
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/325.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/325.jpg",
+      "original_size": [
+        134,
+        150
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/117.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/117.jpg",
+      "original_size": [
+        279,
+        205
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/468.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/468.jpg",
+      "original_size": [
+        612,
+        459
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/164.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/164.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/311.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/311.jpg",
+      "original_size": [
+        201,
+        141
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/220.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/220.jpg",
+      "original_size": [
+        120,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/224.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/224.jpg",
+      "original_size": [
+        288,
+        206
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/166.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/166.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/216.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/216.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/98.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/98.jpg",
+      "original_size": [
+        195,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/270.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/270.jpg",
+      "original_size": [
+        146,
+        194
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/351.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/351.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/65.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/65.jpg",
+      "original_size": [
+        140,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/258.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/258.jpg",
+      "original_size": [
+        135,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/424.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/424.jpg",
+      "original_size": [
+        139,
+        185
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/124.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/124.jpg",
+      "original_size": [
+        226,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/370.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/370.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/41.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/41.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/489.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/489.jpg",
+      "original_size": [
+        406,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/423.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/423.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/352.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/352.jpg",
+      "original_size": [
+        226,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/400.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/400.jpg",
+      "original_size": [
+        244,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/384.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/384.jpg",
+      "original_size": [
+        281,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/178.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/178.jpg",
+      "original_size": [
+        124,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/103.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/103.jpg",
+      "original_size": [
+        188,
+        141
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/121.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/121.jpg",
+      "original_size": [
+        137,
+        205
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/191.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/191.jpg",
+      "original_size": [
+        232,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/241.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/241.jpg",
+      "original_size": [
+        254,
+        196
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/429.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/429.jpg",
+      "original_size": [
+        135,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/387.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/387.jpg",
+      "original_size": [
+        164,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/305.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/305.jpg",
+      "original_size": [
+        136,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/381.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/381.jpg",
+      "original_size": [
+        222,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/245.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/245.jpg",
+      "original_size": [
+        130,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/113.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/113.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/327.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/327.jpg",
+      "original_size": [
+        127,
+        199
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/438.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/438.jpg",
+      "original_size": [
+        258,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/349.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/349.jpg",
+      "original_size": [
+        257,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/265.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/265.jpg",
+      "original_size": [
+        256,
+        193
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/358.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/358.jpg",
+      "original_size": [
+        248,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/343.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/343.jpg",
+      "original_size": [
+        255,
+        194
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/37.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/37.jpg",
+      "original_size": [
+        250,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/466.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/466.jpg",
+      "original_size": [
+        612,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/120.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/120.jpg",
+      "original_size": [
+        154,
+        205
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/368.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/368.jpg",
+      "original_size": [
+        302,
+        152
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/416.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/416.jpg",
+      "original_size": [
+        248,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/412.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/412.jpg",
+      "original_size": [
+        242,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/140.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/140.jpg",
+      "original_size": [
+        226,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/42.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/42.jpg",
+      "original_size": [
+        172,
+        177
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/360.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/360.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/500.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/500.jpg",
+      "original_size": [
+        263,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/263.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/263.jpg",
+      "original_size": [
+        254,
+        193
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/106.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/106.jpg",
+      "original_size": [
+        275,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/363.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/363.jpg",
+      "original_size": [
+        197,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/22.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/22.jpg",
+      "original_size": [
+        217,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/359.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/359.jpg",
+      "original_size": [
+        121,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/267.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/267.jpg",
+      "original_size": [
+        165,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/15.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/15.jpg",
+      "original_size": [
+        241,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/298.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/298.jpg",
+      "original_size": [
+        180,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/119.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/119.jpg",
+      "original_size": [
+        273,
+        205
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/95.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/95.jpg",
+      "original_size": [
+        260,
+        191
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/197.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/197.jpg",
+      "original_size": [
+        264,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/469.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/469.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/144.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/144.jpg",
+      "original_size": [
+        278,
+        184
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/455.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/455.jpg",
+      "original_size": [
+        170,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/420.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/420.jpg",
+      "original_size": [
+        240,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/478.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/478.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/70.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/70.jpg",
+      "original_size": [
+        153,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/159.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/159.jpg",
+      "original_size": [
+        206,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/116.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/116.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/380.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/380.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/284.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/284.jpg",
+      "original_size": [
+        164,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/141.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/141.jpg",
+      "original_size": [
+        167,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/254.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/254.jpg",
+      "original_size": [
+        241,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/385.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/385.jpg",
+      "original_size": [
+        164,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/60.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/60.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/338.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/338.jpg",
+      "original_size": [
+        115,
+        184
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/198.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/198.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/44.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/44.jpg",
+      "original_size": [
+        142,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/230.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/230.jpg",
+      "original_size": [
+        241,
+        195
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/421.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/421.jpg",
+      "original_size": [
+        206,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/275.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/275.jpg",
+      "original_size": [
+        287,
+        216
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/5.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/5.jpg",
+      "original_size": [
+        219,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/21.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/21.jpg",
+      "original_size": [
+        244,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/441.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/441.jpg",
+      "original_size": [
+        266,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/401.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/401.jpg",
+      "original_size": [
+        238,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/52.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/52.jpg",
+      "original_size": [
+        147,
+        150
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/200.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/200.jpg",
+      "original_size": [
+        316,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/79.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/79.jpg",
+      "original_size": [
+        149,
+        198
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/223.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/223.jpg",
+      "original_size": [
+        280,
+        206
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/476.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/476.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/4.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/4.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/340.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/340.jpg",
+      "original_size": [
+        144,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/1.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/1.jpg",
+      "original_size": [
+        260,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/237.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/237.jpg",
+      "original_size": [
+        144,
+        196
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/425.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/425.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/17.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/17.jpg",
+      "original_size": [
+        274,
+        183
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/136.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/136.jpg",
+      "original_size": [
+        129,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/176.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/176.jpg",
+      "original_size": [
+        223,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/88.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/88.jpg",
+      "original_size": [
+        235,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/433.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/433.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/356.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/356.jpg",
+      "original_size": [
+        256,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/217.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/217.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/165.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/165.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/422.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/422.jpg",
+      "original_size": [
+        153,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/202.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/202.jpg",
+      "original_size": [
+        107,
+        160
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/314.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/314.jpg",
+      "original_size": [
+        128,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/228.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/228.jpg",
+      "original_size": [
+        129,
+        195
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/304.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/304.jpg",
+      "original_size": [
+        246,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/410.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/410.jpg",
+      "original_size": [
+        157,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/348.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/348.jpg",
+      "original_size": [
+        233,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/446.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/446.jpg",
+      "original_size": [
+        271,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/247.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/247.jpg",
+      "original_size": [
+        127,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/8.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/8.jpg",
+      "original_size": [
+        282,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/56.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/56.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/296.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/296.jpg",
+      "original_size": [
+        154,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/153.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/153.jpg",
+      "original_size": [
+        140,
+        186
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/169.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/169.jpg",
+      "original_size": [
+        213,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/45.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/45.jpg",
+      "original_size": [
+        244,
+        183
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/48.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/48.jpg",
+      "original_size": [
+        128,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/127.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/127.jpg",
+      "original_size": [
+        222,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/143.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/143.jpg",
+      "original_size": [
+        132,
+        212
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/253.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/253.jpg",
+      "original_size": [
+        246,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/413.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/413.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/25.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/25.jpg",
+      "original_size": [
+        135,
+        183
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/475.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/475.jpg",
+      "original_size": [
+        612,
+        409
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/276.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/276.jpg",
+      "original_size": [
+        158,
+        216
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/185.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/185.jpg",
+      "original_size": [
+        239,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/87.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/87.jpg",
+      "original_size": [
+        261,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/175.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/175.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/393.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/393.jpg",
+      "original_size": [
+        113,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/373.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/373.jpg",
+      "original_size": [
+        128,
+        204
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/111.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/111.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/315.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/315.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/490.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/490.jpg",
+      "original_size": [
+        459,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/493.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/493.jpg",
+      "original_size": [
+        408,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/428.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/428.jpg",
+      "original_size": [
+        230,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/85.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/85.jpg",
+      "original_size": [
+        128,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/170.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/170.jpg",
+      "original_size": [
+        285,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/233.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/233.jpg",
+      "original_size": [
+        244,
+        197
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/477.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/477.jpg",
+      "original_size": [
+        408,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/80.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/80.jpg",
+      "original_size": [
+        189,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/145.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/145.jpg",
+      "original_size": [
+        147,
+        150
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/331.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/331.jpg",
+      "original_size": [
+        299,
+        199
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/161.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/161.jpg",
+      "original_size": [
+        144,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/280.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/280.jpg",
+      "original_size": [
+        302,
+        202
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/277.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/277.jpg",
+      "original_size": [
+        304,
+        202
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/411.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/411.jpg",
+      "original_size": [
+        228,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/485.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/485.jpg",
+      "original_size": [
+        408,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/77.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/77.jpg",
+      "original_size": [
+        264,
+        198
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/301.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/301.jpg",
+      "original_size": [
+        180,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/308.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/308.jpg",
+      "original_size": [
+        195,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/260.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/260.jpg",
+      "original_size": [
+        277,
+        208
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/105.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/105.jpg",
+      "original_size": [
+        154,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/487.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/487.jpg",
+      "original_size": [
+        408,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/409.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/409.jpg",
+      "original_size": [
+        182,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/389.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/389.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/442.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/442.jpg",
+      "original_size": [
+        252,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/386.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/386.jpg",
+      "original_size": [
+        341,
+        175
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/289.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/289.jpg",
+      "original_size": [
+        267,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/148.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/148.jpg",
+      "original_size": [
+        297,
+        197
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/321.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/321.jpg",
+      "original_size": [
+        247,
+        198
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/283.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/283.jpg",
+      "original_size": [
+        272,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/242.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/242.jpg",
+      "original_size": [
+        249,
+        196
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/108.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/108.jpg",
+      "original_size": [
+        266,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/146.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/146.jpg",
+      "original_size": [
+        130,
+        130
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/174.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/174.jpg",
+      "original_size": [
+        224,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/13.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/13.jpg",
+      "original_size": [
+        119,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/204.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/204.jpg",
+      "original_size": [
+        151,
+        202
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/415.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/415.jpg",
+      "original_size": [
+        235,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/367.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/367.jpg",
+      "original_size": [
+        330,
+        185
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/407.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/407.jpg",
+      "original_size": [
+        190,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/38.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/38.jpg",
+      "original_size": [
+        115,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/408.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/408.jpg",
+      "original_size": [
+        240,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/123.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/123.jpg",
+      "original_size": [
+        168,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/460.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/460.jpg",
+      "original_size": [
+        291,
+        194
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/295.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/295.jpg",
+      "original_size": [
+        120,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/417.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/417.jpg",
+      "original_size": [
+        235,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/240.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/240.jpg",
+      "original_size": [
+        124,
+        196
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/62.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/62.jpg",
+      "original_size": [
+        212,
+        141
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/394.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/394.jpg",
+      "original_size": [
+        226,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/377.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/377.jpg",
+      "original_size": [
+        270,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/75.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/75.jpg",
+      "original_size": [
+        280,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/362.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/362.jpg",
+      "original_size": [
+        267,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/440.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/440.jpg",
+      "original_size": [
+        268,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/496.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/496.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/91.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/91.jpg",
+      "original_size": [
+        147,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/342.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/342.jpg",
+      "original_size": [
+        143,
+        194
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/29.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/29.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/32.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/32.jpg",
+      "original_size": [
+        131,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/264.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/264.jpg",
+      "original_size": [
+        144,
+        193
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/427.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/427.jpg",
+      "original_size": [
+        199,
+        169
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/96.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/96.jpg",
+      "original_size": [
+        248,
+        191
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/454.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/454.jpg",
+      "original_size": [
+        217,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/90.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/90.jpg",
+      "original_size": [
+        240,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/142.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/142.jpg",
+      "original_size": [
+        152,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/205.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/205.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/212.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/212.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/86.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/86.jpg",
+      "original_size": [
+        183,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/462.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/462.jpg",
+      "original_size": [
+        130,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/290.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/290.jpg",
+      "original_size": [
+        267,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/30.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/30.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/168.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/168.jpg",
+      "original_size": [
+        154,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/403.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/403.jpg",
+      "original_size": [
+        252,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/443.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/443.jpg",
+      "original_size": [
+        191,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/18.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/18.jpg",
+      "original_size": [
+        211,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/114.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/114.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/473.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/473.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/459.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/459.jpg",
+      "original_size": [
+        194,
+        194
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/125.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/125.jpg",
+      "original_size": [
+        127,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/162.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/162.jpg",
+      "original_size": [
+        121,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/448.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/448.jpg",
+      "original_size": [
+        219,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/392.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/392.jpg",
+      "original_size": [
+        113,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/93.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/93.jpg",
+      "original_size": [
+        125,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/83.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/83.jpg",
+      "original_size": [
+        236,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/499.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/499.jpg",
+      "original_size": [
+        225,
+        225
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/76.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/76.jpg",
+      "original_size": [
+        148,
+        198
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/222.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/222.jpg",
+      "original_size": [
+        267,
+        206
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/328.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/328.jpg",
+      "original_size": [
+        265,
+        199
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/207.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/207.jpg",
+      "original_size": [
+        176,
+        147
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/115.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/115.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/68.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/68.jpg",
+      "original_size": [
+        165,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/495.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/495.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/391.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/391.jpg",
+      "original_size": [
+        114,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/188.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/188.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/262.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/262.jpg",
+      "original_size": [
+        123,
+        193
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/152.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/152.jpg",
+      "original_size": [
+        317,
+        186
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/345.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/345.jpg",
+      "original_size": [
+        141,
+        194
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/464.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/464.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/118.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/118.jpg",
+      "original_size": [
+        270,
+        205
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/465.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/465.jpg",
+      "original_size": [
+        612,
+        344
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/110.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/110.jpg",
+      "original_size": [
+        293,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/82.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/82.jpg",
+      "original_size": [
+        218,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/322.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/322.jpg",
+      "original_size": [
+        265,
+        198
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/190.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/190.jpg",
+      "original_size": [
+        128,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/334.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/334.jpg",
+      "original_size": [
+        282,
+        210
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/73.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/73.jpg",
+      "original_size": [
+        140,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/273.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/273.jpg",
+      "original_size": [
+        133,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/285.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/285.jpg",
+      "original_size": [
+        268,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/238.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/238.jpg",
+      "original_size": [
+        160,
+        196
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/471.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/471.jpg",
+      "original_size": [
+        410,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/122.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/122.jpg",
+      "original_size": [
+        127,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/272.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/272.jpg",
+      "original_size": [
+        316,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/346.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/346.jpg",
+      "original_size": [
+        326,
+        126
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/317.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/317.jpg",
+      "original_size": [
+        118,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/150.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/150.jpg",
+      "original_size": [
+        186,
+        186
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/211.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/211.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/350.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/350.jpg",
+      "original_size": [
+        187,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/229.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/229.jpg",
+      "original_size": [
+        267,
+        195
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/279.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/279.jpg",
+      "original_size": [
+        282,
+        202
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/221.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/221.jpg",
+      "original_size": [
+        154,
+        206
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/286.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/286.jpg",
+      "original_size": [
+        272,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/480.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/480.jpg",
+      "original_size": [
+        406,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/353.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/353.jpg",
+      "original_size": [
+        273,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/341.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/341.jpg",
+      "original_size": [
+        271,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/40.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/40.jpg",
+      "original_size": [
+        201,
+        149
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/104.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/104.jpg",
+      "original_size": [
+        299,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/435.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/435.jpg",
+      "original_size": [
+        240,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/281.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/281.jpg",
+      "original_size": [
+        151,
+        202
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/463.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/463.jpg",
+      "original_size": [
+        612,
+        405
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/173.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/173.jpg",
+      "original_size": [
+        180,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/167.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/167.jpg",
+      "original_size": [
+        252,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/302.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/302.jpg",
+      "original_size": [
+        216,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/192.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/192.jpg",
+      "original_size": [
+        256,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/256.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/256.jpg",
+      "original_size": [
+        173,
+        129
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/378.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/378.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/203.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/203.jpg",
+      "original_size": [
+        145,
+        196
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/491.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/491.jpg",
+      "original_size": [
+        459,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/206.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/206.jpg",
+      "original_size": [
+        150,
+        193
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/130.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/130.jpg",
+      "original_size": [
+        260,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/444.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/444.jpg",
+      "original_size": [
+        241,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/14.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/14.jpg",
+      "original_size": [
+        324,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/457.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/457.jpg",
+      "original_size": [
+        262,
+        185
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/449.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/449.jpg",
+      "original_size": [
+        246,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/24.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/24.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/288.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/288.jpg",
+      "original_size": [
+        200,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/9.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/9.jpg",
+      "original_size": [
+        142,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/149.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/149.jpg",
+      "original_size": [
+        248,
+        186
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/497.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/497.jpg",
+      "original_size": [
+        230,
+        219
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/236.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/236.jpg",
+      "original_size": [
+        160,
+        197
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/398.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/398.jpg",
+      "original_size": [
+        242,
+        184
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/53.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/53.jpg",
+      "original_size": [
+        294,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/35.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/35.jpg",
+      "original_size": [
+        184,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/354.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/354.jpg",
+      "original_size": [
+        170,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/189.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/189.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/259.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/259.jpg",
+      "original_size": [
+        277,
+        208
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/227.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/227.jpg",
+      "original_size": [
+        160,
+        195
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/234.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/234.jpg",
+      "original_size": [
+        197,
+        197
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/336.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/336.jpg",
+      "original_size": [
+        266,
+        184
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/379.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/379.jpg",
+      "original_size": [
+        212,
+        161
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/3.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/3.jpg",
+      "original_size": [
+        255,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/397.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/397.jpg",
+      "original_size": [
+        278,
+        184
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/271.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/271.jpg",
+      "original_size": [
+        183,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/251.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/251.jpg",
+      "original_size": [
+        226,
+        150
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/158.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/158.jpg",
+      "original_size": [
+        222,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/179.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/179.jpg",
+      "original_size": [
+        144,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/186.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/186.jpg",
+      "original_size": [
+        200,
+        100
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/330.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/330.jpg",
+      "original_size": [
+        140,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/399.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/399.jpg",
+      "original_size": [
+        215,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/101.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/101.jpg",
+      "original_size": [
+        199,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/49.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/49.jpg",
+      "original_size": [
+        223,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/78.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/78.jpg",
+      "original_size": [
+        265,
+        198
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/498.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/498.jpg",
+      "original_size": [
+        340,
+        148
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/55.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/55.jpg",
+      "original_size": [
+        117,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/31.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/31.jpg",
+      "original_size": [
+        180,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/139.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/139.jpg",
+      "original_size": [
+        135,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/11.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/11.jpg",
+      "original_size": [
+        270,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/57.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/57.jpg",
+      "original_size": [
+        252,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/34.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/34.jpg",
+      "original_size": [
+        132,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/135.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/135.jpg",
+      "original_size": [
+        145,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/33.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/33.jpg",
+      "original_size": [
+        234,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/300.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/300.jpg",
+      "original_size": [
+        209,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/437.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/437.jpg",
+      "original_size": [
+        135,
+        137
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/318.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/318.jpg",
+      "original_size": [
+        293,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/293.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/293.jpg",
+      "original_size": [
+        244,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/309.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/309.jpg",
+      "original_size": [
+        128,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/364.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/364.jpg",
+      "original_size": [
+        321,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/89.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/89.jpg",
+      "original_size": [
+        212,
+        141
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/494.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/494.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/172.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/172.jpg",
+      "original_size": [
+        216,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/268.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/268.jpg",
+      "original_size": [
+        249,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/195.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/195.jpg",
+      "original_size": [
+        221,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/51.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/51.jpg",
+      "original_size": [
+        212,
+        155
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/155.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/155.jpg",
+      "original_size": [
+        315,
+        156
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/131.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/131.jpg",
+      "original_size": [
+        190,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/244.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/244.jpg",
+      "original_size": [
+        145,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/2.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/2.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/102.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/102.jpg",
+      "original_size": [
+        115,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/461.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/461.jpg",
+      "original_size": [
+        173,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/81.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/81.jpg",
+      "original_size": [
+        252,
+        189
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/479.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/479.jpg",
+      "original_size": [
+        407,
+        612
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/61.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/61.jpg",
+      "original_size": [
+        120,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/303.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/303.jpg",
+      "original_size": [
+        269,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/137.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/137.jpg",
+      "original_size": [
+        331,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/154.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/154.jpg",
+      "original_size": [
+        139,
+        186
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/160.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/160.jpg",
+      "original_size": [
+        215,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/12.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/12.jpg",
+      "original_size": [
+        135,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/214.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/214.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/347.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/347.jpg",
+      "original_size": [
+        227,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/208.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/208.jpg",
+      "original_size": [
+        244,
+        193
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/257.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/257.jpg",
+      "original_size": [
+        139,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/431.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/431.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/450.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/450.jpg",
+      "original_size": [
+        223,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/201.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/201.jpg",
+      "original_size": [
+        253,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/151.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/151.jpg",
+      "original_size": [
+        140,
+        186
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/366.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/366.jpg",
+      "original_size": [
+        186,
+        185
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/54.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/54.jpg",
+      "original_size": [
+        219,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/72.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/72.jpg",
+      "original_size": [
+        333,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/193.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/193.jpg",
+      "original_size": [
+        256,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/396.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/396.jpg",
+      "original_size": [
+        241,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/20.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/20.jpg",
+      "original_size": [
+        193,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/383.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/383.jpg",
+      "original_size": [
+        261,
+        152
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/126.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/126.jpg",
+      "original_size": [
+        177,
+        192
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/107.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/107.jpg",
+      "original_size": [
+        290,
+        200
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/332.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/332.jpg",
+      "original_size": [
+        281,
+        210
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/16.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/16.jpg",
+      "original_size": [
+        125,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/92.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/92.jpg",
+      "original_size": [
+        151,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/333.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/333.jpg",
+      "original_size": [
+        269,
+        210
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/492.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/492.jpg",
+      "original_size": [
+        612,
+        408
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/323.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/323.jpg",
+      "original_size": [
+        298,
+        198
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/255.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/255.jpg",
+      "original_size": [
+        221,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/439.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/439.jpg",
+      "original_size": [
+        268,
+        190
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/67.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/67.jpg",
+      "original_size": [
+        182,
+        182
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/470.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/470.jpg",
+      "original_size": [
+        612,
+        459
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/297.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/297.jpg",
+      "original_size": [
+        251,
+        188
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/43.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/43.jpg",
+      "original_size": [
+        142,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/312.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/312.jpg",
+      "original_size": [
+        128,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/402.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/402.jpg",
+      "original_size": [
+        134,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/337.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/337.jpg",
+      "original_size": [
+        324,
+        184
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/324.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/324.jpg",
+      "original_size": [
+        220,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/326.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/326.jpg",
+      "original_size": [
+        243,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/6.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/6.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/445.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/445.jpg",
+      "original_size": [
+        255,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/10.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/10.jpg",
+      "original_size": [
+        333,
+        187
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/219.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/219.jpg",
+      "original_size": [
+        130,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/307.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/307.jpg",
+      "original_size": [
+        227,
+        180
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/71.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/71.jpg",
+      "original_size": [
+        161,
+        129
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/59.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/59.jpg",
+      "original_size": [
+        120,
+        120
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    },
+    {
+      "original_path": "/home/jeswin/data_augmentation/bread fruit/329.jpg",
+      "standardized_path": "/home/jeswin/data_augmentation/Breadfruit_Dataset/standardized/public/329.jpg",
+      "original_size": [
+        313,
+        199
+      ],
+      "standardized_size": [
+        224,
+        224
+      ],
+      "success": true,
+      "error": ""
+    }
+  ]
+}

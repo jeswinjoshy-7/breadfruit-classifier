@@ -1,0 +1,258 @@
+{
+  "dataset_name": "personal",
+  "total_images": 17,
+  "fruit_detected_count": 17,
+  "warnings_generated": 28,
+  "validation_passed": 0,
+  "results": [
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/01.JPG",
+      "filename": "01.JPG",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9077756111149802,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.8050147492625369,
+      "background_ratio": 0.09222438888501983,
+      "warnings": [
+        "Fruit touching border: 80.50% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/03.JPG",
+      "filename": "03.JPG",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9587152439204563,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.8889563106796117,
+      "background_ratio": 0.04128475607954374,
+      "warnings": [
+        "Fruit area too large: 95.87% > 95.00%",
+        "Fruit touching border: 88.90% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/02.JPG",
+      "filename": "02.JPG",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9809180672268908,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.931673640167364,
+      "background_ratio": 0.01908193277310921,
+      "warnings": [
+        "Fruit area too large: 98.09% > 95.00%",
+        "Fruit touching border: 93.17% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.37.jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.37.jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9205881279966646,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.9062165058949625,
+      "background_ratio": 0.07941187200333544,
+      "warnings": [
+        "Fruit touching border: 90.62% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39.jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.39.jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9704862414008756,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.8518756698821007,
+      "background_ratio": 0.029513758599124418,
+      "warnings": [
+        "Fruit area too large: 97.05% > 95.00%",
+        "Fruit touching border: 85.19% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/04.jpeg",
+      "filename": "04.jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.8873942047112778,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.88335119685602,
+      "background_ratio": 0.11260579528872217,
+      "warnings": [
+        "Fruit touching border: 88.34% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.36.jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.36.jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9868360433604336,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.9517327617006074,
+      "background_ratio": 0.013163956639566377,
+      "warnings": [
+        "Fruit area too large: 98.68% > 95.00%",
+        "Fruit touching border: 95.17% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.41.jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.41.jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9932735741049126,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.9539093181006784,
+      "background_ratio": 0.006726425895087429,
+      "warnings": [
+        "Fruit area too large: 99.33% > 95.00%",
+        "Fruit touching border: 95.39% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.40 (1).jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9321162052456287,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.7579078900392717,
+      "background_ratio": 0.06788379475437134,
+      "warnings": [
+        "Fruit touching border: 75.79% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.42 (1).jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.42 (1).jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9985428809325562,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.9964298464833988,
+      "background_ratio": 0.001457119067443835,
+      "warnings": [
+        "Fruit area too large: 99.85% > 95.00%",
+        "Fruit touching border: 99.64% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38.jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.38.jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9066880341880342,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.8664165773490532,
+      "background_ratio": 0.09331196581196577,
+      "warnings": [
+        "Fruit touching border: 86.64% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.38 (1).jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9288608451290591,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.7644769725098179,
+      "background_ratio": 0.07113915487094091,
+      "warnings": [
+        "Fruit touching border: 76.45% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.42.jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.42.jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9985428809325562,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.9964298464833988,
+      "background_ratio": 0.001457119067443835,
+      "warnings": [
+        "Fruit area too large: 99.85% > 95.00%",
+        "Fruit touching border: 99.64% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.41 (2).jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.41 (2).jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9985428809325562,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.9964298464833988,
+      "background_ratio": 0.001457119067443835,
+      "warnings": [
+        "Fruit area too large: 99.85% > 95.00%",
+        "Fruit touching border: 99.64% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.39 (1).jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9979461121534292,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.9829224723115398,
+      "background_ratio": 0.00205388784657079,
+      "warnings": [
+        "Fruit area too large: 99.79% > 95.00%",
+        "Fruit touching border: 98.29% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.41 (1).jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.41 (1).jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9945191507077435,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.9552302749018208,
+      "background_ratio": 0.005480849292256451,
+      "warnings": [
+        "Fruit area too large: 99.45% > 95.00%",
+        "Fruit touching border: 95.52% > 10.00%"
+      ],
+      "validation_passed": false
+    },
+    {
+      "path": "/home/jeswin/data_augmentation/3dataset/WhatsApp Image 2026-07-08 at 22.14.40.jpeg",
+      "filename": "WhatsApp Image 2026-07-08 at 22.14.40.jpeg",
+      "fruit_detected": true,
+      "fruit_area_ratio": 0.9963279132791328,
+      "fruit_count": 1,
+      "occlusion_ratio": 0.0,
+      "border_touch_ratio": 0.971632725973562,
+      "background_ratio": 0.0036720867208671626,
+      "warnings": [
+        "Fruit area too large: 99.63% > 95.00%",
+        "Fruit touching border: 97.16% > 10.00%"
+      ],
+      "validation_passed": false
+    }
+  ]
+}

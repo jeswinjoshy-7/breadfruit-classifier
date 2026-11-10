@@ -1,0 +1,32 @@
+============================================================
+FINAL VALIDATION REPORT: Combined
+============================================================
+
+Overall Status: FAILED
+Checks Passed:    7/8
+
+Detailed Checks:
+  ✓ PASS - no_corrupted_images
+      No corrupted images
+      corrupted_count: 0
+  ✗ FAIL - no_duplicate_images
+      Found 1140 duplicate images
+      duplicate_groups: 414
+      total_duplicates: 1140
+  ✓ PASS - consistent_image_sizes
+      All images are 224x224
+      size_distribution: {'224x224': 1554}
+      expected_size: 224x224
+  ✓ PASS - consistent_color_channels
+      All images have 3 channels (RGB)
+      channel_distribution: {3: 1554}
+  ✓ PASS - valid_jpeg_format
+      All images are JPEG format
+      invalid_count: 0
+  ✓ PASS - efficientnet_compatibility
+      All images compatible with EfficientNet
+      issue_count: 0
+  ✓ PASS - valid_folder_structure
+      Folder structure is valid
+  ✓ PASS - file_integrity
+      All files intact

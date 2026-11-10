@@ -1,0 +1,17 @@
+{
+  "Reports": {
+    ".json": 14,
+    ".txt": 16,
+    ".csv": 19,
+    ".png": 10
+  },
+  "Public_Clean": {
+    ".jpg": 1503
+  },
+  "Logs": {
+    ".log": 1
+  },
+  "Personal_Clean": {
+    ".jpg": 51
+  }
+}
