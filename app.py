@@ -3,9 +3,7 @@ import os
 from pathlib import Path
 from io import BytesIO
 
-from flask import Flask
-
-application = Flask(__name__)
+application = None
 
 import streamlit as st
 import torch
