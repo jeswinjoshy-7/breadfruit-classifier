@@ -9,7 +9,7 @@ PROJECT_ROOT = APP_DIR.parent.parent.parent
 sys.path.insert(0, str(PROJECT_ROOT / "breadfruit_classifier"))
 sys.path.insert(0, str(PROJECT_ROOT / "streamlit_app"))
 
-from fastapi import FastAPI
+from fastapi import FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
