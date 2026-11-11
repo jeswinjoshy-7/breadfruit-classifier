@@ -1,6 +1,5 @@
 {
   "framework": "streamlit",
-  "pythonVersion": "3.11.x",
   "builds": {
     "/streamlit_app/app.py": "@vercel/python"
   },
