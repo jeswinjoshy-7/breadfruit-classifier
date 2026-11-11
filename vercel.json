@@ -1,3 +1,9 @@
 {
-  "framework": "python"
+  "framework": "streamlit",
+  "buildCommand": "pip install -r streamlit_app/requirements.txt",
+  "frameworkSettings": {
+    "pythonVersion": "3.12",
+    "installCommand": "pip install -r requirements.txt",
+    "startCommand": "streamlit run streamlit_app/app.py --server.port \$PORT --server.headless true --server.enableCORS false --server.enableXsrfProtection false"
+  }
 }
