@@ -4,6 +4,6 @@
   "frameworkSettings": {
     "pythonVersion": "3.12",
     "installCommand": "pip install -r requirements.txt",
-    "startCommand": "streamlit run streamlit_app/app.py --server.port \$PORT --server.headless true --server.enableCORS false --server.enableXsrfProtection false"
+    "startCommand": "streamlit run streamlit_app/app.py --server.port 8080 --server.headless true --server.enableCORS false --server.enableXsrfProtection false"
   }
 }
