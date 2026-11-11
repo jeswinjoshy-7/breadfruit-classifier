@@ -1,7 +1,10 @@
 {
   "framework": "streamlit",
   "builds": [
-    "/streamlit_app/app.py"
+    {
+      "src": "/streamlit_app/app.py",
+      "use": "@vercel/python"
+    }
   ],
   "routes": [
     {
