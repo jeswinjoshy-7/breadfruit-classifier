@@ -1,5 +1,5 @@
 {
-  "framework": "streamlit",
+  "framework": "python",
   "builds": [
     {
       "src": "/streamlit_app/app.py",
