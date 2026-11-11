@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 from io import BytesIO
 
-application = None
+application = {}
 
 import streamlit as st
 import torch
