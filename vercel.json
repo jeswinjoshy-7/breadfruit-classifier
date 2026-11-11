@@ -1,9 +1,9 @@
 {
-  "framework": "flask",
+  "framework": "python",
   "routes": [
     {
       "src": "/*",
-      "dest": "app.py"
+      "dest": "streamlit_app/app.py"
     }
   ]
 }

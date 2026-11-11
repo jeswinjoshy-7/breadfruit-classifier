@@ -3,6 +3,9 @@ import os
 from pathlib import Path
 from io import BytesIO
 
+# Vercel Python framework entry point
+application = None
+
 import streamlit as st
 import torch
 import numpy as np
