@@ -1,5 +1,5 @@
 {
-  "framework": "streamlit",
+  "framework": "python",
   "routes": [
     {
       "src": "/*",
