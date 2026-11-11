@@ -503,5 +503,26 @@ def main():
     )
 
 
+@app.route("/")
+def index():
+    return """
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Breadfruit Classification System</title>
+        <style>
+            body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+            .header { color: #1e3a5f; }
+        </style>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Breadfruit Classification System</h1>
+            <p>Streamlit app - use <code>streamlit run app.py</code> locally</p>
+        </div>
+    </body>
+    </html>
+    """
+
 if __name__ == "__main__":
     main()
