@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/*",
-      "dest": "streamlit_app/app.py"
+      "dest": "app.py"
     }
   ]
 }
